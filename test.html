@@ -12,7 +12,6 @@
 		</div>
 		<div ng-controller="DataCtrl">
 			<div class="home-wrapper">
-				
 				<div class="right">
 					<div class="panel-group" id="accordion">
 						<div class="panel panel-default panel-width">
@@ -24,21 +23,21 @@
 							<div id="collapseOne" class="panel-collapse collapse in">
 								<div class="panel-body">
 									<div ng-repeat="tweet in twitterDataSet['BarackObama']">
-									<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
 											<div class="twitter-profile-photo-container">
 												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
 											</div>
 											<div class="tweet-container">
 												<div class="twitter-name-text-box">
-												<div class="twitter-name">
-													{{tweet.name}}
-												</div>
-												<div class="twitter-name-text">
-													(@{{tweet['screen_name']}})
-												</div>
-												<div class="date-text">
-													{{tweet['create_time']}}
-												</div>
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
 												</div>
 												<div class="description-text-box">
 													<div class="description-text">
@@ -46,20 +45,44 @@
 													</div>
 												</div>
 											</div>
+										</div>
 									</div>
 								</div>
 							</div>
 						</div>
-					</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-									KatePerry
+									Android
 								</a>
 							</div>
 							<div id="collapseTwo" class="panel-collapse collapse">
 								<div class="panel-body">
-									This is test 2
+									<div ng-repeat="tweet in twitterDataSet['Android']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>

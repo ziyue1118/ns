@@ -130,6 +130,104 @@ function DataCtrl($scope){
     "location": "Washington, DC", 
     "name": "Barack Obama"
    }
+  ], 
+  "Android": [
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/3092003750/9b72a46e957a52740c667f4c64fa5d10_normal.jpeg", 
+    "screen_name": "Android", 
+    "text": "Stay tuned, Nexus 4 and Nexus 7 versions with mobile data will be getting the update soon! http://t.co/TTRzORl4js", 
+    "tweet_id": "400441209841135616", 
+    "create_time": "Wed Nov 13 01:53:18 +0000 2013", 
+    "location": "Mountain View, CA"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/3092003750/9b72a46e957a52740c667f4c64fa5d10_normal.jpeg", 
+    "screen_name": "Android", 
+    "text": "Starting today, Nexus 7 (2012 and 2013) and Nexus 10 will be getting a tasty update to Android 4.4, KitKat", 
+    "tweet_id": "400441100436918272", 
+    "create_time": "Wed Nov 13 01:52:52 +0000 2013", 
+    "location": "Mountain View, CA"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/3092003750/9b72a46e957a52740c667f4c64fa5d10_normal.jpeg", 
+    "screen_name": "Android", 
+    "text": "RT @sundarpichai: Boo! Just in time for Halloween, we\u2019re serving up two new treats for Android fans: KitKat (Android 4.4) and Nexus 5. \nhtt\u2026", 
+    "tweet_id": "395975079999197185", 
+    "create_time": "Thu Oct 31 18:06:30 +0000 2013", 
+    "location": "Mountain View, CA"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/3092003750/9b72a46e957a52740c667f4c64fa5d10_normal.jpeg", 
+    "screen_name": "Android", 
+    "text": "RT @sundarpichai: We now have over 1 Billion Android activations and hope this guy in front of the building  keeps that momentum going http\u2026", 
+    "tweet_id": "374933880916033537", 
+    "create_time": "Tue Sep 03 16:36:17 +0000 2013", 
+    "location": "Mountain View, CA"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/3092003750/9b72a46e957a52740c667f4c64fa5d10_normal.jpeg", 
+    "screen_name": "Android", 
+    "text": "RT @GooglePlay: Today, we're rolling out a redesigned Google Play store on Android devices that's simple, clean and fast: http://t.co/rB ...", 
+    "tweet_id": "322043387832324096", 
+    "create_time": "Wed Apr 10 17:48:21 +0000 2013", 
+    "location": "Mountain View, CA"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/3092003750/9b72a46e957a52740c667f4c64fa5d10_normal.jpeg", 
+    "screen_name": "Android", 
+    "text": "Save what's on your mind with Google Keep. Get the app on Google Play: http://t.co/Db589E9Gmd", 
+    "tweet_id": "314474626245853186", 
+    "create_time": "Wed Mar 20 20:32:48 +0000 2013", 
+    "location": "Mountain View, CA"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/3092003750/9b72a46e957a52740c667f4c64fa5d10_normal.jpeg", 
+    "screen_name": "Android", 
+    "text": "RT @googlenexus: Locked and loaded, ready to play: we\u2019ve started shipping +Nexus 7 pre-orders today! http://t.co/N24TidVF", 
+    "tweet_id": "223843385679675392", 
+    "create_time": "Fri Jul 13 18:16:36 +0000 2012", 
+    "location": "Mountain View, CA"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/3092003750/9b72a46e957a52740c667f4c64fa5d10_normal.jpeg", 
+    "screen_name": "Android", 
+    "text": "Get started with Google Drive and download the Android mobile app on Google Play: http://t.co/ftlReMlD", 
+    "tweet_id": "194828454171119616", 
+    "create_time": "Tue Apr 24 16:41:37 +0000 2012", 
+    "location": "Mountain View, CA"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/3092003750/9b72a46e957a52740c667f4c64fa5d10_normal.jpeg", 
+    "screen_name": "Android", 
+    "text": "We\u2019ve started rolling out Android 4.0.4, Ice Cream Sandwich, to UMTS/GSM Nexus S, Xoom Wi-Fi, and HSPA+ Galaxy Nexus devices. #android", 
+    "tweet_id": "185117144651018240", 
+    "create_time": "Wed Mar 28 21:32:21 +0000 2012", 
+    "location": "Mountain View, CA"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/3092003750/9b72a46e957a52740c667f4c64fa5d10_normal.jpeg", 
+    "screen_name": "Android", 
+    "text": "RT @googlenexus: Introducing Chrome for Android Beta, available for Android 4.0 #ICS devices in select countries and languages: http://t ...", 
+    "tweet_id": "166941498875707393", 
+    "create_time": "Tue Feb 07 17:48:49 +0000 2012", 
+    "location": "Mountain View, CA"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/3092003750/9b72a46e957a52740c667f4c64fa5d10_normal.jpeg", 
+    "screen_name": "Android", 
+    "text": "RT @Arubin: There are now over 700,000 Android devices activated every day", 
+    "tweet_id": "149547127238955008", 
+    "create_time": "Wed Dec 21 17:49:48 +0000 2011", 
+    "location": "Mountain View, CA"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/3092003750/9b72a46e957a52740c667f4c64fa5d10_normal.jpeg", 
+    "screen_name": "Android", 
+    "text": "RT @googlenexus: We're rolling out Android 4.0, Ice Cream Sandwich, to GSM/UMTS Nexus S devices over the coming month, starting today: h ...", 
+    "tweet_id": "147783202973556737", 
+    "create_time": "Fri Dec 16 21:00:35 +0000 2011", 
+    "location": "Mountain View, CA"
+   }
   ]
  }
 
@@ -7394,7 +7492,3004 @@ function DataCtrl($scope){
    "retweeter_id": 1217189778, 
    "screen_name": "GR_SH_KH"
   }
- ]
+ ],
+ "400441209841135616": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1721614413/sac53s_normal.jpg", 
+   "name": " Tech Guru", 
+   "text": "I' fan of Technology. Love TV Shows Like CELL GURU And TECH GURU.........", 
+   "tweet_id": 411864670501220352, 
+   "create_time": "Sat Dec 14 14:26:04 +0000 2013", 
+   "location": "Sunam", 
+   "retweeter_id": 449772460, 
+   "screen_name": "kansalkaran"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411665950337806336/ceUFgItp_normal.png", 
+   "name": " Yoky Barus \u30c4 ", 
+   "text": "Follow me back, love meeting new people :) xo", 
+   "tweet_id": 411012074488074241, 
+   "create_time": "Thu Dec 12 05:58:09 +0000 2013", 
+   "location": "Indonesia", 
+   "retweeter_id": 1290635864, 
+   "screen_name": "yoky_barus"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000848293642/da10261258b51424d2e7eecc564ab009_normal.jpeg", 
+   "name": "Nazifi", 
+   "text": "Hi..... I'm Nazifi... 19 years old... ex student in Sekolah Menengah Teknik Ipoh.... I like cars and most of all GAME... Study at ILTJM.. Just follow me k.....", 
+   "tweet_id": 409865722781638656, 
+   "create_time": "Mon Dec 09 02:02:57 +0000 2013", 
+   "location": "Malaysia", 
+   "retweeter_id": 375685620, 
+   "screen_name": "Nazifi1234"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000836516632/7580c0aa5e1b03ebb9f1f099bf9447b8_normal.jpeg", 
+   "name": "Misha Burda", 
+   "text": "", 
+   "tweet_id": 409235424683782144, 
+   "create_time": "Sat Dec 07 08:18:23 +0000 2013", 
+   "location": "London", 
+   "retweeter_id": 1823245273, 
+   "screen_name": "Misha_Burda1"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000830951953/8a6b045227e982a6499d37ce3117b9b4_normal.jpeg", 
+   "name": "Alifah Gandis", 
+   "text": "Menyanyi adalah sahabatku yang tak akan tergantikan. Loves singing so much.", 
+   "tweet_id": 409119000325398528, 
+   "create_time": "Sat Dec 07 00:35:45 +0000 2013", 
+   "location": "Jakarta", 
+   "retweeter_id": 116628336, 
+   "screen_name": "alifahgandis"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000857293785/Z8Dve6YR_normal.jpeg", 
+   "name": "K e C e n K  \u30c4", 
+   "text": "Banyak KERJA KERAS yang harus dilakukan UNTUK meraih MIMPIMU, tapi itu TIDAK SEBANDING dengan sa'at KETIKA kau telah MENGGAPAI MIMPI ITU. !!", 
+   "tweet_id": 408842770858524672, 
+   "create_time": "Fri Dec 06 06:18:07 +0000 2013", 
+   "location": "IMPOSIBLE IS NOTHING !!", 
+   "retweeter_id": 1122801571, 
+   "screen_name": "nhieev"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000810423496/d4ca86475bceaeb339eb42ed04630e56_normal.jpeg", 
+   "name": "Mobile News World", 
+   "text": "Community italiano sulla Tecnologia e sul Web in generale, cerchiamo anche moderatori seri, qualora foste interessati vi preghiamo di contattarci sul sito", 
+   "tweet_id": 406796402950701056, 
+   "create_time": "Sat Nov 30 14:46:35 +0000 2013", 
+   "location": "Milano", 
+   "retweeter_id": 2223031272, 
+   "screen_name": "MobileNews1993"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000646944663/f1a8137222f6672c853c0e3efb1bb1e6_normal.jpeg", 
+   "name": "rahul", 
+   "text": "", 
+   "tweet_id": 405872723026378753, 
+   "create_time": "Thu Nov 28 01:36:12 +0000 2013", 
+   "location": "Mumbai", 
+   "retweeter_id": 487223031, 
+   "screen_name": "ishwrahul"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000802145354/b6bc312dd9dd1b4c9a37cd46b79b8ecc_normal.jpeg", 
+   "name": "Yuuji X Taka", 
+   "text": "im super extreme Arashist~ follow at your own risk. :D NOW SEMI-HIATUS. WILL ONLY ONLINE WHEN IM FREE AND STRESS WITH THESIS", 
+   "tweet_id": 405864664749199360, 
+   "create_time": "Thu Nov 28 01:04:11 +0000 2013", 
+   "location": "Kuala Lumpur", 
+   "retweeter_id": 431696472, 
+   "screen_name": "ninobiela617"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000774691591/01203c1afd3c54ecc3b1ba8dc47586b4_normal.jpeg", 
+   "name": "\u2884 tya' \u2884 ", 
+   "text": "\u30dfnjoy life ( \u3065\uffe3\u00b3\uffe3)\u3065  @LiistraMayasari 8812", 
+   "tweet_id": 405209681045368834, 
+   "create_time": "Tue Nov 26 05:41:31 +0000 2013", 
+   "location": "kota daeng", 
+   "retweeter_id": 1063906351, 
+   "screen_name": "androiderstya"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000521227880/a0df81eeece30dc4eb444c5bd8ffe856_normal.jpeg", 
+   "name": "Krzysztof", 
+   "text": "Human", 
+   "tweet_id": 405066178055634944, 
+   "create_time": "Mon Nov 25 20:11:17 +0000 2013", 
+   "location": "Warszawa, Polska", 
+   "retweeter_id": 59262273, 
+   "screen_name": "last24"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000863976877/8Wlsh6Uo_normal.jpeg", 
+   "name": "Fida Hussain", 
+   "text": "SEO-Search Engine Optimization \r\nSMO-Social Media Optimization\r\nCustomer Support | Network & Hardware Solutions, Domain Hosting", 
+   "tweet_id": 404715395543990272, 
+   "create_time": "Sun Nov 24 20:57:24 +0000 2013", 
+   "location": "Customer Support Executive", 
+   "retweeter_id": 2153505620, 
+   "screen_name": "Fidahussainit"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2207889942/image_normal.jpg", 
+   "name": "Emanuel Coelho", 
+   "text": "Just a regular person....", 
+   "tweet_id": 404630091931844608, 
+   "create_time": "Sun Nov 24 15:18:26 +0000 2013", 
+   "location": "Portugal", 
+   "retweeter_id": 144335599, 
+   "screen_name": "ei14560"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000817250008/059a5e6177ac31f253b1011a2676c681_normal.jpeg", 
+   "name": "Christmas Cheer(an)", 
+   "text": "Surrounded by Technology and Wonder, Optimist, Mocha Addict, Tweeter. //Head over heels for @gaughannn x//", 
+   "tweet_id": 404162752002142208, 
+   "create_time": "Sat Nov 23 08:21:23 +0000 2013", 
+   "location": "The Cosmos", 
+   "retweeter_id": 2180489956, 
+   "screen_name": "ImNotKeyRun"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1869812371/222788_2062442519904_1209938453_2519469_3516844_n_normal.jpg", 
+   "name": "Cecil", 
+   "text": "", 
+   "tweet_id": 404111944468033536, 
+   "create_time": "Sat Nov 23 04:59:30 +0000 2013", 
+   "location": "/export/home", 
+   "retweeter_id": 120855185, 
+   "screen_name": "CecilKr"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000789678724/4150866ea1103208bad8b6f89fb95d3d_normal.jpeg", 
+   "name": "Bala", 
+   "text": "Gamer,Techie, Kinda Aloof,Tennis Maniac", 
+   "tweet_id": 404043628953092096, 
+   "create_time": "Sat Nov 23 00:28:02 +0000 2013", 
+   "location": "Mumbai,India", 
+   "retweeter_id": 69054488, 
+   "screen_name": "bkj_thevonbraun"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000264975601/82d7b596b511addfd2657834850e94f7_normal.jpeg", 
+   "name": "G. Cruzatto", 
+   "text": "Engenheiro Eletricista, Secularista, Humanista. P\u00e9ssimo piadista.", 
+   "tweet_id": 404008188238114816, 
+   "create_time": "Fri Nov 22 22:07:12 +0000 2013", 
+   "location": "Earth", 
+   "retweeter_id": 83460375, 
+   "screen_name": "gcruzatto"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000566447929/62dde0dd6ea466557f7274d7bf73e036_normal.jpeg", 
+   "name": "Leo Tang", 
+   "text": "\u5fe7\u4f24\uff0c\u4f9d\u7136\u9633\u5149\u4e0b", 
+   "tweet_id": 403901496078499840, 
+   "create_time": "Fri Nov 22 15:03:15 +0000 2013", 
+   "location": "china", 
+   "retweeter_id": 308351562, 
+   "screen_name": "kanhai1983"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000862437180/Nje0FfdZ_normal.jpeg", 
+   "name": "Joshua Kasweka", 
+   "text": "I love Jesus. family and people  |Cathedral HS  | Phillipians 4:13", 
+   "tweet_id": 403886803411017728, 
+   "create_time": "Fri Nov 22 14:04:52 +0000 2013", 
+   "location": "Hamilton", 
+   "retweeter_id": 114610013, 
+   "screen_name": "IamJoshuaK"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000784467974/7503948dcadd34779ffba2f39cfc9789_normal.jpeg", 
+   "name": "Aditya", 
+   "text": "|| Techsavy || Software Doctor || Internet Buff || Music Junkie||", 
+   "tweet_id": 403405936066170880, 
+   "create_time": "Thu Nov 21 06:14:04 +0000 2013", 
+   "location": "Hyderabad,Andhra Pradesh,India", 
+   "retweeter_id": 89650918, 
+   "screen_name": "techieadi"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000791507001/19e73bb0983cd814ddb403cad5fe8220_normal.jpeg", 
+   "name": "Flavio Cavada", 
+   "text": "", 
+   "tweet_id": 403273982045986816, 
+   "create_time": "Wed Nov 20 21:29:44 +0000 2013", 
+   "location": "'Zona", 
+   "retweeter_id": 1087867513, 
+   "screen_name": "FlavioCavada"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000173371473/5c4c3b17e9684e497aa49d656a67d088_normal.jpeg", 
+   "name": "AjMaLrAhMaN", 
+   "text": "http://t.co/hpogcRxlRF http://t.co/xgDBqnOVNV http://t.co/AwMOvWP0OR", 
+   "tweet_id": 403264016283230208, 
+   "create_time": "Wed Nov 20 20:50:08 +0000 2013", 
+   "location": "United Arab Emirites", 
+   "retweeter_id": 123609559, 
+   "screen_name": "ajmalajwa"
+  }, 
+  {
+   "profile_pic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png", 
+   "name": "Ravin Seju", 
+   "text": "", 
+   "tweet_id": 403118122070470656, 
+   "create_time": "Wed Nov 20 11:10:24 +0000 2013", 
+   "location": "India", 
+   "retweeter_id": 203469847, 
+   "screen_name": "RavinSeju"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000670298321/5400d48439e5978e0d5513a740bc9034_normal.png", 
+   "name": "Darius M.", 
+   "text": "\u2013\u2013\u2013", 
+   "tweet_id": 403110313178169344, 
+   "create_time": "Wed Nov 20 10:39:22 +0000 2013", 
+   "location": "Germany", 
+   "retweeter_id": 143809959, 
+   "screen_name": "darius_morawiec"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000471166729/ab7f607dfdee57a49118458837d21ab9_normal.jpeg", 
+   "name": "Unified WWE Champ\u2122", 
+   "text": "Future UNIFIED WWE CHAMPION and a fulltime fan of JOHN CENA!!!! NEVER GIVE UP | RISE ABOVE HATE | HUSTLE LOYALTY RESPECT U WANT SOME ,COME GET SOME!!!", 
+   "tweet_id": 403002736922206209, 
+   "create_time": "Wed Nov 20 03:31:54 +0000 2013", 
+   "location": "potong pasir  makkalzz", 
+   "retweeter_id": 1361304685, 
+   "screen_name": "bmwfarhan49"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000515124901/ee6d73bff2acee2fdea8574f0419210e_normal.jpeg", 
+   "name": "Velsmakende", 
+   "text": "16 anos, estudante, estranho e mais um adepto \u00e0 permanecer em casa em fins de semana. luv bandinha da Hayley   . SAVE ME KAIZER!", 
+   "tweet_id": 402926145488035840, 
+   "create_time": "Tue Nov 19 22:27:33 +0000 2013", 
+   "location": "Norway. Mentira \u00e9 Brasil,RJ", 
+   "retweeter_id": 286440569, 
+   "screen_name": "draconetto"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000470386346/8f7bb36618062236b29cdc4fed547b0c_normal.jpeg", 
+   "name": "Raunak Chetty", 
+   "text": "Avid cyclist, technology & automobile fan!", 
+   "tweet_id": 402898722922573824, 
+   "create_time": "Tue Nov 19 20:38:35 +0000 2013", 
+   "location": "Mumbai", 
+   "retweeter_id": 39958156, 
+   "screen_name": "raunak_chetty"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000851275451/d71f2c6289f25d6575cfbad91cf9dfbe_normal.jpeg", 
+   "name": "iJune Walker", 
+   "text": "RIP PAUL WALKER, U WILL BE MISSED :3", 
+   "tweet_id": 402883920380690432, 
+   "create_time": "Tue Nov 19 19:39:46 +0000 2013", 
+   "location": "Glendale, California, USA", 
+   "retweeter_id": 61833780, 
+   "screen_name": "iJune_lol"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000646100531/1c185fdad662ed7980c929540261e8d8_normal.jpeg", 
+   "name": "Phalin", 
+   "text": "The child who never grew up.", 
+   "tweet_id": 402871407287480320, 
+   "create_time": "Tue Nov 19 18:50:03 +0000 2013", 
+   "location": "Bombay", 
+   "retweeter_id": 37162653, 
+   "screen_name": "PhalinShah"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000861451419/P9pHlIi4_normal.jpeg", 
+   "name": "Geetika Agarwal", 
+   "text": "I study at IIM Calcutta and I love most things tech", 
+   "tweet_id": 402869353537757184, 
+   "create_time": "Tue Nov 19 18:41:53 +0000 2013", 
+   "location": "New Delhi", 
+   "retweeter_id": 43838357, 
+   "screen_name": "geetika13"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000825750956/8b19576d28d688e67b8d546ecf483c02_normal.jpeg", 
+   "name": "Equipe_Answers", 
+   "text": "http://t.co/Jmv1G0C0GX", 
+   "tweet_id": 402843707679850496, 
+   "create_time": "Tue Nov 19 16:59:59 +0000 2013", 
+   "location": "S\u00e3o Paulo ", 
+   "retweeter_id": 2161668473, 
+   "screen_name": "Equipe_Answers"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000271262631/142da5f14fc0e3df221dc7080edcc042_normal.jpeg", 
+   "name": "Riccardo Belletti", 
+   "text": "", 
+   "tweet_id": 402812329563140096, 
+   "create_time": "Tue Nov 19 14:55:17 +0000 2013", 
+   "location": "Bologna (Italy)", 
+   "retweeter_id": 96091003, 
+   "screen_name": "RickyBO89"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000672919759/652c2f05c632114a42ee9d39069c41b1_normal.png", 
+   "name": "E3raf.Net", 
+   "text": "\u0645\u0639\u0646\u0627 \u062a\u0641\u062f\u0631 \u062a\u062a\u0627\u0628\u0639 \u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0627\u0644\u0635\u062d\u0641 \u0648 \u0643\u0644\u0627\u062a \u0627\u0644\u0623\u0646\u0628\u0627\u0621 \u0647\u062f\u0641\u0646\u0627 \u0646\u0642\u0644 \u0627\u0644\u062d\u0642\u064a\u0642\u0629 \u0641\u0642\u0637 \u0625\u0644\u064a\u0643 \u30c4 - \u062a\u0627\u0628\u0639 \u0645\u0627 \u0647\u0648 \u0627\u0643\u062b\u0631 \u062a\u0627\u062b\u064a\u0631\u0627\u064f \u0648 \u0645\u0634\u0627\u0647\u062f\u0629 \u0639\u0644\u064a \u062a\u0648\u064a\u062a\u0631 \u0645\u0647\u0645\u0627 \u0643\u0627\u0646 \u0645\u0648\u062f\u0643 \u0627\u064a\u0629.", 
+   "tweet_id": 402750515525591040, 
+   "create_time": "Tue Nov 19 10:49:40 +0000 2013", 
+   "location": "Eygpt", 
+   "retweeter_id": 1484908663, 
+   "screen_name": "E3rafNet"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000269310693/b096b8733f7da5dfe4317603af160599_normal.jpeg", 
+   "name": "Mahran Zameel", 
+   "text": "Developer: Measure Raajje (http://t.co/fiMSDbP2)", 
+   "tweet_id": 402708654383575040, 
+   "create_time": "Tue Nov 19 08:03:19 +0000 2013", 
+   "location": "Maldives", 
+   "retweeter_id": 328989233, 
+   "screen_name": "mahranZameel"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000678491648/bfd0175d1292d5e58078bdb3ef55893b_normal.jpeg", 
+   "name": "Ariya Hidayat", 
+   "text": "Software Provocateur. Author of @PhantomJS and @Esprima. Director of Engineering at @ShapeSecurity. Tweets are my own.", 
+   "tweet_id": 402699672784867329, 
+   "create_time": "Tue Nov 19 07:27:38 +0000 2013", 
+   "location": "Mountain View, California", 
+   "retweeter_id": 15608761, 
+   "screen_name": "ariyahidayat"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000750829532/562223c1a3d8bb6dd7ceb72684c08d80_normal.jpeg", 
+   "name": "oenat amet69", 
+   "text": "pengen jadi yg terbaik", 
+   "tweet_id": 402684535193600000, 
+   "create_time": "Tue Nov 19 06:27:29 +0000 2013", 
+   "location": "kota bumi", 
+   "retweeter_id": 2198993102, 
+   "screen_name": "OenatAmet"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000837298870/b7442b0807ef5a6b2d1a6aadc0bc82f7_normal.jpeg", 
+   "name": "calvinachilles", 
+   "text": "#Red is not just a colour. 13 is not just a number.", 
+   "tweet_id": 402661350972723200, 
+   "create_time": "Tue Nov 19 04:55:21 +0000 2013", 
+   "location": "TO", 
+   "retweeter_id": 371111877, 
+   "screen_name": "TayLorde13"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3701639970/42a155be06ba7275db0e2bd06107fb3b_normal.jpeg", 
+   "name": "Prince Gonzalez", 
+   "text": "", 
+   "tweet_id": 402588551675920384, 
+   "create_time": "Tue Nov 19 00:06:05 +0000 2013", 
+   "location": "Paterson, NJ", 
+   "retweeter_id": 225242343, 
+   "screen_name": "marcopoliolio"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000734462906/1bb11e4f31b07449e29274ed32591dae_normal.jpeg", 
+   "name": "AbdulKareem Al-Adwan", 
+   "text": "\u200f\u200f\u0637\u0627\u0644\u0628 \u062c\u0627\u0645\u0639\u064a - \u062a\u062e\u0635\u0635/ Computer Science - | \u0647\u0627\u0648\u064a \u062a\u0635\u0648\u064a\u0631 \u0636\u0648\u0626\u064a \u0648\u0645\u0647\u062a\u0645 \u0628\u0645\u062c\u0627\u0644 \u0627\u0644\u062a\u0642\u0646\u064a\u0629 \u0648\u0627\u0644\u0627\u0644\u0639\u0627\u0628 \u0627\u0644\u0627\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0647 |\n| Photographer , Tech Geek & Gamer |", 
+   "tweet_id": 402587159695474688, 
+   "create_time": "Tue Nov 19 00:00:33 +0000 2013", 
+   "location": "Qatar", 
+   "retweeter_id": 229556043, 
+   "screen_name": "Adwan96"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000685668978/6cb355d7cb6df9c1dae6d1d89b57a97d_normal.jpeg", 
+   "name": "Kenneth Vargas", 
+   "text": "La vida se debe vivir porque es algo que hay que vivir. Si no se vive la vida, que se ha de vivir?", 
+   "tweet_id": 402579637974228992, 
+   "create_time": "Mon Nov 18 23:30:39 +0000 2013", 
+   "location": "Costa Rica", 
+   "retweeter_id": 1180362530, 
+   "screen_name": "KennethVargas64"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3572607719/35590678d6e2c1e236cbb7cb70cd47a0_normal.jpeg", 
+   "name": "Ravi Srinivas", 
+   "text": "technology and science buff", 
+   "tweet_id": 402524198225969152, 
+   "create_time": "Mon Nov 18 19:50:22 +0000 2013", 
+   "location": "New South Wales, Australia", 
+   "retweeter_id": 1355358914, 
+   "screen_name": "ravisjaguar"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000157551670/3a3ebe6f73b5ca9a609091e435387674_normal.jpeg", 
+   "name": "Sandip Mukherjee", 
+   "text": "When I am good, I am good. But when I am bad, I am better.", 
+   "tweet_id": 402516226271756288, 
+   "create_time": "Mon Nov 18 19:18:41 +0000 2013", 
+   "location": "Pune, India", 
+   "retweeter_id": 118436967, 
+   "screen_name": "sandipjee"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000196867278/943ecedeac8e27e380587d53fe843a20_normal.jpeg", 
+   "name": "Ashwin S", 
+   "text": "", 
+   "tweet_id": 402494165449064449, 
+   "create_time": "Mon Nov 18 17:51:01 +0000 2013", 
+   "location": "Bengaluru", 
+   "retweeter_id": 129780660, 
+   "screen_name": "ashWINsrao"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000389432171/33afca361e8f15306b01f5efce67d2a1_normal.jpeg", 
+   "name": "Dom Bowling", 
+   "text": "", 
+   "tweet_id": 402492815139422208, 
+   "create_time": "Mon Nov 18 17:45:39 +0000 2013", 
+   "location": "Russia ", 
+   "retweeter_id": 183202017, 
+   "screen_name": "SLowRiderD"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2826814097/9db7eceff503310e2a31aa1a6b3f579f_normal.jpeg", 
+   "name": "JASMIN DEDANIA", 
+   "text": "Former Secretary General at ISHRAE and Mechanical Engineer From M.S.University", 
+   "tweet_id": 402432778953691136, 
+   "create_time": "Mon Nov 18 13:47:06 +0000 2013", 
+   "location": "BARODA", 
+   "retweeter_id": 113255140, 
+   "screen_name": "jazzydedania728"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000743204463/cc8eef837b9ac516bec0ed0e375d5fe5_normal.jpeg", 
+   "name": "Daegi (D-Soft)", 
+   "text": "ELF Indo. JHS10 (8F\u20229G). Big Family Of The Ajax Amsterdam Fance Clubs. Hack, Chet, and Desain is My Job.", 
+   "tweet_id": 402415892123750400, 
+   "create_time": "Mon Nov 18 12:39:59 +0000 2013", 
+   "location": "Bandung", 
+   "retweeter_id": 1123921358, 
+   "screen_name": "Daegihong_HC1"
+  }, 
+  {
+   "profile_pic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png", 
+   "name": "Kamal Kishor", 
+   "text": "proud to be Indian", 
+   "tweet_id": 402395233331068929, 
+   "create_time": "Mon Nov 18 11:17:54 +0000 2013", 
+   "location": "Bangalore", 
+   "retweeter_id": 56408790, 
+   "screen_name": "pnkamalkishor"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000853616895/10593937999bcaf2dab57b0bcdf30fbf_normal.jpeg", 
+   "name": "@xkevinrenaldix", 
+   "text": "Pathhh::KevinRenaldiThen \u25d5\u203f\u25d5 \u273f  \u01aa(\u02d8\u2323\u02d8)\u0283 \u01aa(\u02d8\u2323\u02d8)\u0283 (\u0e07'\u0300\u2323'\u0301)\u0e07 (\u0e07'\u0300\u2323'\u0301)\u0e07\n\u01aa(\u02d8\u2323\u02d8)\u2510\u01aa(\u02d8\u2323\u02d8)\u0283 XI IPA (\u02c7\u25bc\u02c7)~ Follback @xKevinrenaldix \u01aa(^\u2323^)\u0283 \u01aa(^\u2323^)\u0283 \u25d5\u203f\u25d5 \u2570(\u273f\u00b4\u2323`\u273f)\u256f\u2570(\u273f\u00b4\u2323`\u273f)\u256f", 
+   "tweet_id": 402378251001016320, 
+   "create_time": "Mon Nov 18 10:10:25 +0000 2013", 
+   "location": "Tasikmalaya", 
+   "retweeter_id": 969564199, 
+   "screen_name": "xkevinrenaldix"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000757011497/d9da2c7156b6c9abd706da1bed1c227b_normal.jpeg", 
+   "name": "\u041a\u0438\u0440\u0438\u043b\u043b \u0427\u0435\u0440\u043d\u0435\u043d\u043a\u043e", 
+   "text": "", 
+   "tweet_id": 402354993430544384, 
+   "create_time": "Mon Nov 18 08:38:00 +0000 2013", 
+   "location": "\u041a\u0440\u044b\u043c", 
+   "retweeter_id": 331679471, 
+   "screen_name": "Kirill_TOLSTOY"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000714545014/4ed7f724944f8967454b3679acdb0b79_normal.jpeg", 
+   "name": "Nnachi Ukachi", 
+   "text": "Music Producer, film editor, video director; Crew Jimmy's Jump Off; CEO Nexus Studios. Pin:22D5CAEA +2347038642284 http://t.co/GTAUiH3MHH", 
+   "tweet_id": 402352195922055168, 
+   "create_time": "Mon Nov 18 08:26:53 +0000 2013", 
+   "location": "Lagos, Nigeria", 
+   "retweeter_id": 305848847, 
+   "screen_name": "Chixonnexus"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000837126656/9e2889cd3debf18d7c5b3f05d79dd975_normal.jpeg", 
+   "name": "Nexus On Tv", 
+   "text": "We did expose with Lola, winners circle, Rejoice Africa, Frank talk, Jimmy's Jump off, now #nexusontv, http://t.co/v7Q37JwIKO +2347038642284 pin:22D5CAEA", 
+   "tweet_id": 402351525177344000, 
+   "create_time": "Mon Nov 18 08:24:13 +0000 2013", 
+   "location": "Lagos Nigeria", 
+   "retweeter_id": 891084415, 
+   "screen_name": "NexusStudiosTv"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2298810432/VxkbL31S_normal", 
+   "name": "Stephan Ullrich", 
+   "text": "I \u2665 #HipHop! #FLER #KingBushido #SilladerKilla #Jihad #Nicone #Shindy ;))) #MASKULIN & #ersguterjunge 4 life! ^____^ instagram: _maskulin_egj_ I follow back! :)", 
+   "tweet_id": 402274375086657536, 
+   "create_time": "Mon Nov 18 03:17:39 +0000 2013", 
+   "location": "Pottendorf", 
+   "retweeter_id": 504817188, 
+   "screen_name": "_MASKULIN_EGJ_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000790103578/3ec4415fdb1953b7809a529a8de931fb_normal.jpeg", 
+   "name": "Sasmar Aurivan Harya", 
+   "text": "Unidentified~\n\nPart of Public Health Faculty 07 & 13.\nPart time photographer.", 
+   "tweet_id": 402262727420149760, 
+   "create_time": "Mon Nov 18 02:31:22 +0000 2013", 
+   "location": "@zavriska's heart", 
+   "retweeter_id": 78266285, 
+   "screen_name": "isasvanharya"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000755799379/e823c1396d9b70d7a8bd82e5838541c2_normal.png", 
+   "name": "Samuel", 
+   "text": "Music, Movies, and Technology!!!", 
+   "tweet_id": 402234618851905537, 
+   "create_time": "Mon Nov 18 00:39:40 +0000 2013", 
+   "location": "Florida, USA", 
+   "retweeter_id": 1146942708, 
+   "screen_name": "samuelc69"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000718048705/91693d4ec55c0c4e7350d71f0c6527c3_normal.jpeg", 
+   "name": "\u0639\u064e\u0644\u064a\u0651 \u0627\u0644\u063a\u0630\u0627\u0645\u064a ", 
+   "text": "\u0643\u064f\u0646 \u0643\u0645\u0627 \u0627\u0646\u062a \u0628\u0644\u0627 \u062a\u0635\u0646\u0639\u0651\u060c \u0645\u0642\u0648\u0644\u0629 \u0623\u0624\u0645\u0646 \u0628\u0647\u0627 \u0628\u0634\u062f\u0629\u060c \u0627\u062a\u0645\u0646\u0649 \u0627\u0646 \u0627\u0643\u0648\u0646 \u0633\u0628\u0628 \u0641\u064a \u062a\u063a\u064a\u064a\u0631 \u062d\u064a\u0627\u0629 \u0627\u0646\u0627\u0633 \u062a\u0645\u0646\u0648\u0627 \u0627\u0646 \u062a\u062a\u063a\u064a\u0631 \u062d\u064a\u0627\u062a\u0647\u0645 \u0641\u0643\u064f\u0646\u062a \u0627\u0644\u0633\u0628\u0628. \n\n #\u0641\u0631\u064a\u0642_\u0639\u0648\u0646_\u0627\u0644\u062a\u0637\u0648\u0639\u064a\u060c #330  \n\n\u0648\u0648\u0628\u0633 \u0630\u0627 \u0627\u0646\u0627 $:", 
+   "tweet_id": 402157506044391425, 
+   "create_time": "Sun Nov 17 19:33:15 +0000 2013", 
+   "location": "instagram: _3lawe", 
+   "retweeter_id": 370924518, 
+   "screen_name": "3LAWE1"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000493324860/a787f25d7b835abd22df8f6843ec2b8a_normal.jpeg", 
+   "name": "Sandeep Dheringe", 
+   "text": "Android user, developer, curious about iOS, WP,BB, Mob Tech, Network Domain, Embedded systems", 
+   "tweet_id": 402134225807093760, 
+   "create_time": "Sun Nov 17 18:00:45 +0000 2013", 
+   "location": "Nashik, India", 
+   "retweeter_id": 433960228, 
+   "screen_name": "sdheringe"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000863365141/dZHqnkI8_normal.jpeg", 
+   "name": "Chixon", 
+   "text": "Aquarius, optimist, Music Producer, Film Editor, Video Director. Crew, Jimmy's Jump Off, #NexusOnTv  +2347038642284 Pin:22D5CAEA facebook: chixon nexus", 
+   "tweet_id": 402091438638661633, 
+   "create_time": "Sun Nov 17 15:10:44 +0000 2013", 
+   "location": "Lagos Nigeria", 
+   "retweeter_id": 444552841, 
+   "screen_name": "chixon_nexus"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/344513261584004489/665d2ccc6bbeeecb55275d3dba003955_normal.jpeg", 
+   "name": "Rafael Azuaje", 
+   "text": "Almost an Engineer | Estudiante de M\u00fasica y Guitarra Cl\u00e1sica | Amando a @katherinekstill", 
+   "tweet_id": 402084046089777152, 
+   "create_time": "Sun Nov 17 14:41:21 +0000 2013", 
+   "location": "Venezuela", 
+   "retweeter_id": 125375093, 
+   "screen_name": "rafael_azuaje"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000659517605/fb085f4ac613eea57930c25e26acd85b_normal.jpeg", 
+   "name": "farzanana", 
+   "text": "", 
+   "tweet_id": 402063031523213312, 
+   "create_time": "Sun Nov 17 13:17:51 +0000 2013", 
+   "location": "bandar sabindo,tawau", 
+   "retweeter_id": 2152437567, 
+   "screen_name": "farzanana2"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000749570168/a4e8b2514d65de5a259fc669ca9b19d9_normal.jpeg", 
+   "name": "Sang Ho Yoon", 
+   "text": "", 
+   "tweet_id": 401902687630815233, 
+   "create_time": "Sun Nov 17 02:40:42 +0000 2013", 
+   "location": "seoul", 
+   "retweeter_id": 198670679, 
+   "screen_name": "koya0717"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000546478045/d4a57c78e8771f250ce87fcde143e5db_normal.jpeg", 
+   "name": "MrTa7a7bEk", 
+   "text": "\u0627\u0644\u062e\u0628\u0631", 
+   "tweet_id": 401822902674550785, 
+   "create_time": "Sat Nov 16 21:23:40 +0000 2013", 
+   "location": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629", 
+   "retweeter_id": 432432411, 
+   "screen_name": "AhmedAlRumahi"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000695988256/73e7e7739b321c21e3aa743da06e7c18_normal.jpeg", 
+   "name": "Phillip Ressler", 
+   "text": "I like technology (tech), professional (pro) wrestling, news, politics, entertainment, cleaning up after others, including myself, collecting things, and so on.", 
+   "tweet_id": 401795674275999744, 
+   "create_time": "Sat Nov 16 19:35:28 +0000 2013", 
+   "location": "Palmdale, CA USA", 
+   "retweeter_id": 2175055010, 
+   "screen_name": "macresslertech"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000433769094/5eead88fad1257dc9beae2940c11e22a_normal.jpeg", 
+   "name": "Pawe\u0142 \u0141adna", 
+   "text": "Student ostatniego roku psychologii, trener i fan militari\u00f3w oraz nowych technologii", 
+   "tweet_id": 401748798198013952, 
+   "create_time": "Sat Nov 16 16:29:12 +0000 2013", 
+   "location": "Poland, Pruszk\u00f3w", 
+   "retweeter_id": 50619873, 
+   "screen_name": "skorban"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000359079416/781c75cdd227e73c79d4371de83f246f_normal.jpeg", 
+   "name": "A r f e e n", 
+   "text": "programming, web, in short ..\r\njust another one on Twitter ...!!!", 
+   "tweet_id": 401710607449489408, 
+   "create_time": "Sat Nov 16 13:57:26 +0000 2013", 
+   "location": "Karachi, Pakistan", 
+   "retweeter_id": 19911560, 
+   "screen_name": "arfeen77"
+  }
+ ], 
+ "400441100436918272": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411665950337806336/ceUFgItp_normal.png", 
+   "name": " Yoky Barus \u30c4 ", 
+   "text": "Follow me back, love meeting new people :) xo", 
+   "tweet_id": 411012083350646784, 
+   "create_time": "Thu Dec 12 05:58:11 +0000 2013", 
+   "location": "Indonesia", 
+   "retweeter_id": 1290635864, 
+   "screen_name": "yoky_barus"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000503628048/b3eaef6ba18756a6b9b62f5b70c747af_normal.jpeg", 
+   "name": "Vishnu", 
+   "text": "hollow", 
+   "tweet_id": 409697512723726336, 
+   "create_time": "Sun Dec 08 14:54:33 +0000 2013", 
+   "location": "Mumbai", 
+   "retweeter_id": 728987400, 
+   "screen_name": "fluxophiliac"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000836516632/7580c0aa5e1b03ebb9f1f099bf9447b8_normal.jpeg", 
+   "name": "Misha Burda", 
+   "text": "", 
+   "tweet_id": 409235321688424448, 
+   "create_time": "Sat Dec 07 08:17:58 +0000 2013", 
+   "location": "London", 
+   "retweeter_id": 1823245273, 
+   "screen_name": "Misha_Burda1"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000831611436/e7dd30411b71c7192133a319d1efbb38_normal.jpeg", 
+   "name": "Michael Hurcum", 
+   "text": "Working in internal communications. CIM qualified digital marker. I enjoy podcasts, squash, US tv shows, films, crime thriller books. All views are my own.", 
+   "tweet_id": 405472346573524994, 
+   "create_time": "Tue Nov 26 23:05:15 +0000 2013", 
+   "location": "Essex, England, UK", 
+   "retweeter_id": 418903379, 
+   "screen_name": "mhurcum"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3602071633/b108866a6a27c4a63d1f88535c789358_normal.png", 
+   "name": "FazzoMetal", 
+   "text": "Diplomato in Elettronica e Telecomunicazioni, studente di Ingegneria Elettronica, tecnomaniaco ed overclocker per diletto. Per gli amici, FazzoMetal", 
+   "tweet_id": 405228701606215680, 
+   "create_time": "Tue Nov 26 06:57:05 +0000 2013", 
+   "location": "Torino, Italia", 
+   "retweeter_id": 258415812, 
+   "screen_name": "FazzoMetal"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000815880280/e2871662454ae571d74bc198b8d81667_normal.png", 
+   "name": "Web and IT Studio", 
+   "text": "Garry Kelsall is Web & IT Studio. Bespoke web design and cloud hosting; domain name registration; encryption; data recovery; corporate branding and logo design", 
+   "tweet_id": 404278073383985152, 
+   "create_time": "Sat Nov 23 15:59:38 +0000 2013", 
+   "location": "South Yorkshire", 
+   "retweeter_id": 2196686786, 
+   "screen_name": "WebandITstudio"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000861411012/WYKfIxgC_normal.jpeg", 
+   "name": "Jimmy Segaradana", 
+   "text": "cuma ada satu cewek ({}) nih @PebyDewa_\u2665", 
+   "tweet_id": 404159636153970688, 
+   "create_time": "Sat Nov 23 08:09:00 +0000 2013", 
+   "location": "Taman Jimbaran", 
+   "retweeter_id": 2210201676, 
+   "screen_name": "segaradana"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3142524627/310229d613ec1612f0491195eb5ad292_normal.jpeg", 
+   "name": "Regina Brown", 
+   "text": "I'm an educationalist cum writer. I'm passionate about learning and transforming education to all corners of the world.", 
+   "tweet_id": 403764869259743232, 
+   "create_time": "Fri Nov 22 06:00:21 +0000 2013", 
+   "location": "United Kingdom", 
+   "retweeter_id": 1100772666, 
+   "screen_name": "ReginaB08042425"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000303923017/ebbbb8d3a3b0a02b14caa47413b33b6a_normal.jpeg", 
+   "name": "SooSunSeo~", 
+   "text": "You're not yet home if you have problems because your home is HEAVEN. :)", 
+   "tweet_id": 403740914570375168, 
+   "create_time": "Fri Nov 22 04:25:09 +0000 2013", 
+   "location": "Taytay Rizal", 
+   "retweeter_id": 364254260, 
+   "screen_name": "wearewithGod"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/15846182/120px-Yin_yang.svg_normal.png", 
+   "name": "\u5185\u85e4\u6e09", 
+   "text": "\u4eba\u755c\u7121\u5bb3", 
+   "tweet_id": 403711922152828928, 
+   "create_time": "Fri Nov 22 02:29:57 +0000 2013", 
+   "location": "\u6771\u4eac\u90fd\u5317\u533a", 
+   "retweeter_id": 4254791, 
+   "screen_name": "wnaitou"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000473826630/cfc648dcea42d4b6cd253e408a3e23dd_normal.jpeg", 
+   "name": "Chad", 
+   "text": "Who the hell left the plastic on the cheese?", 
+   "tweet_id": 403670422904119296, 
+   "create_time": "Thu Nov 21 23:45:03 +0000 2013", 
+   "location": "Raleigh, NC", 
+   "retweeter_id": 24650800, 
+   "screen_name": "ChadLovesMariah"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000029676851/65120689bc01f3329c9420af7b0b0ec1_normal.jpeg", 
+   "name": "Manish Chiniwalar", 
+   "text": "Product Dude @multunus. Like lime tea? Need company? You know where to find me.", 
+   "tweet_id": 403194072577622016, 
+   "create_time": "Wed Nov 20 16:12:12 +0000 2013", 
+   "location": "Belgaum, India", 
+   "retweeter_id": 75336018, 
+   "screen_name": "manishrc"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3710407876/e08a9b17428f7efaa49b7cc032478d07_normal.jpeg", 
+   "name": "Yogesh Mangaj", 
+   "text": "\u25cf Developer \u25cf Creative \u25cf Geek \u25cf BioMedEngineer \u25cf Tech \u25cf Science", 
+   "tweet_id": 403116698607566848, 
+   "create_time": "Wed Nov 20 11:04:45 +0000 2013", 
+   "location": "Belgaum", 
+   "retweeter_id": 15630703, 
+   "screen_name": "yogeshmangaj"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000774777345/f3e7d735471eb09db195a2d30dc51992_normal.jpeg", 
+   "name": "Jonathan Potts", 
+   "text": "I like drinking video games and playing Coke.", 
+   "tweet_id": 403068771763761152, 
+   "create_time": "Wed Nov 20 07:54:18 +0000 2013", 
+   "location": "Wolverhampton", 
+   "retweeter_id": 454053856, 
+   "screen_name": "TehEpicJP"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000811495874/75c61af402bfbd3ece55e6e3628058a8_normal.jpeg", 
+   "name": "Ramkishore Sankar", 
+   "text": "Very Cool Person.NeUtRaL.Music freak,Dance Lover, Photography enthusiast.Hardcore Gamer.Exploring my way to reach the desired TarGET.!", 
+   "tweet_id": 403045227411148800, 
+   "create_time": "Wed Nov 20 06:20:45 +0000 2013", 
+   "location": "Chennai ,India", 
+   "retweeter_id": 2203144087, 
+   "screen_name": "Ram_kishr"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3070501956/6c12edf55d6bed69e8b0467e9f187c3d_normal.jpeg", 
+   "name": "Bill", 
+   "text": "http://t.co/86P36TYK\r\n\r\nhttp://t.co/GxUDYulA\r\nhttp://t.co/BjJwgkoA", 
+   "tweet_id": 403005653020844032, 
+   "create_time": "Wed Nov 20 03:43:29 +0000 2013", 
+   "location": "UT", 
+   "retweeter_id": 30710014, 
+   "screen_name": "balsobrook"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000837126656/9e2889cd3debf18d7c5b3f05d79dd975_normal.jpeg", 
+   "name": "Nexus On Tv", 
+   "text": "We did expose with Lola, winners circle, Rejoice Africa, Frank talk, Jimmy's Jump off, now #nexusontv, http://t.co/v7Q37JwIKO +2347038642284 pin:22D5CAEA", 
+   "tweet_id": 402793581662199808, 
+   "create_time": "Tue Nov 19 13:40:48 +0000 2013", 
+   "location": "Lagos Nigeria", 
+   "retweeter_id": 891084415, 
+   "screen_name": "NexusStudiosTv"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000750829532/562223c1a3d8bb6dd7ceb72684c08d80_normal.jpeg", 
+   "name": "oenat amet69", 
+   "text": "pengen jadi yg terbaik", 
+   "tweet_id": 402684551824044032, 
+   "create_time": "Tue Nov 19 06:27:33 +0000 2013", 
+   "location": "kota bumi", 
+   "retweeter_id": 2198993102, 
+   "screen_name": "OenatAmet"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000811454089/2d8759da1ccda075044f704735554124_normal.jpeg", 
+   "name": "Amiruddin Adzhar", 
+   "text": "I will be me. You will be you. Together we will be friends when we accept who we are.", 
+   "tweet_id": 402493086816681985, 
+   "create_time": "Mon Nov 18 17:46:44 +0000 2013", 
+   "location": "MY", 
+   "retweeter_id": 275173161, 
+   "screen_name": "AMiRudDyn"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000749119052/14318e3244a936b51ebd6f922f054adc_normal.jpeg", 
+   "name": "Dery Dwi Ef", 
+   "text": "the best of me and the best of you", 
+   "tweet_id": 402438509799034880, 
+   "create_time": "Mon Nov 18 14:09:52 +0000 2013", 
+   "location": "Benjeng,Gresik", 
+   "retweeter_id": 321400392, 
+   "screen_name": "DeryDwery"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000731345889/ba1ddf05375f1f4b7b44c76d448fc8bc_normal.jpeg", 
+   "name": "Michael Torres", 
+   "text": "Enamorado de Jesus Guitarrista,Chef,Caricaturista y esposo de una Hermosa Ministra Adoradora de Cristo @EmmaJonisCotton", 
+   "tweet_id": 402437494232207360, 
+   "create_time": "Mon Nov 18 14:05:50 +0000 2013", 
+   "location": "Willimantic,Connecticut", 
+   "retweeter_id": 53510258, 
+   "screen_name": "JesusRockStar"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3599177639/17dbef74c0e067469399ad79e1ba0c46_normal.jpeg", 
+   "name": "Andy Scherzinger", 
+   "text": "Lead IT Consultant @ msg systems // Wizard @appricoo // NYC Lover // @andlytics committer", 
+   "tweet_id": 402431921873252352, 
+   "create_time": "Mon Nov 18 13:43:41 +0000 2013", 
+   "location": "Mainhattan", 
+   "retweeter_id": 26726172, 
+   "screen_name": "AndyScherzinger"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000716506288/978f27e6aaa0ee1a86eb4ab3bf7e8fb8_normal.jpeg", 
+   "name": "Fearless", 
+   "text": "Having forfeited his car deal business at Ladipo, Fearless a.k.a. 30Kg is determined 2 take his music career 2 an extreme. Signed under Nexus Records.", 
+   "tweet_id": 402424313711960064, 
+   "create_time": "Mon Nov 18 13:13:27 +0000 2013", 
+   "location": "Lagos Nigeria", 
+   "retweeter_id": 2184518042, 
+   "screen_name": "Fearless30kg"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000853616895/10593937999bcaf2dab57b0bcdf30fbf_normal.jpeg", 
+   "name": "@xkevinrenaldix", 
+   "text": "Pathhh::KevinRenaldiThen \u25d5\u203f\u25d5 \u273f  \u01aa(\u02d8\u2323\u02d8)\u0283 \u01aa(\u02d8\u2323\u02d8)\u0283 (\u0e07'\u0300\u2323'\u0301)\u0e07 (\u0e07'\u0300\u2323'\u0301)\u0e07\n\u01aa(\u02d8\u2323\u02d8)\u2510\u01aa(\u02d8\u2323\u02d8)\u0283 XI IPA (\u02c7\u25bc\u02c7)~ Follback @xKevinrenaldix \u01aa(^\u2323^)\u0283 \u01aa(^\u2323^)\u0283 \u25d5\u203f\u25d5 \u2570(\u273f\u00b4\u2323`\u273f)\u256f\u2570(\u273f\u00b4\u2323`\u273f)\u256f", 
+   "tweet_id": 402378106385608704, 
+   "create_time": "Mon Nov 18 10:09:51 +0000 2013", 
+   "location": "Tasikmalaya", 
+   "retweeter_id": 969564199, 
+   "screen_name": "xkevinrenaldix"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2149740732/god-of-war_normal.jpg", 
+   "name": "Constantine Ioakim", 
+   "text": "", 
+   "tweet_id": 402344016731467776, 
+   "create_time": "Mon Nov 18 07:54:23 +0000 2013", 
+   "location": "kastoria", 
+   "retweeter_id": 156324901, 
+   "screen_name": "Constantine_io"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2298810432/VxkbL31S_normal", 
+   "name": "Stephan Ullrich", 
+   "text": "I \u2665 #HipHop! #FLER #KingBushido #SilladerKilla #Jihad #Nicone #Shindy ;))) #MASKULIN & #ersguterjunge 4 life! ^____^ instagram: _maskulin_egj_ I follow back! :)", 
+   "tweet_id": 402274089538449408, 
+   "create_time": "Mon Nov 18 03:16:31 +0000 2013", 
+   "location": "Pottendorf", 
+   "retweeter_id": 504817188, 
+   "screen_name": "_MASKULIN_EGJ_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000867576950/ZYQWQXIx_normal.jpeg", 
+   "name": "Marsha", 
+   "text": "I am an Andriod fangirl w/passion of technology, always fun to think what will come next. Into music, fashion & high tech gadgets. Animal (cat) lover!", 
+   "tweet_id": 402268359338622976, 
+   "create_time": "Mon Nov 18 02:53:45 +0000 2013", 
+   "location": "NY", 
+   "retweeter_id": 40163309, 
+   "screen_name": "mhtsang718"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2303032425/z4tsvn3q1v36usn59pac_normal.jpeg", 
+   "name": "Ken of Zen", 
+   "text": "Business Model Expert. Entrepreneur. Poet. Sun Devil. Fly Fisher. Alternative Energy Enthusiast. Visionary. Mountain Biker.", 
+   "tweet_id": 402176509609115648, 
+   "create_time": "Sun Nov 17 20:48:46 +0000 2013", 
+   "location": "Utah & New Jersey & Barcelona", 
+   "retweeter_id": 15118418, 
+   "screen_name": "holymully"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2358101473/b6x1ysvqor401ytg2mzj_normal.jpeg", 
+   "name": "woodroots", 
+   "text": "Web\u30b5\u30fc\u30d3\u30b9\u904b\u55b6\u8005\u517c\u30b5\u30e9\u30ea\u30fc\u30de\u30f3\u30c7\u30b6\u30a4\u30ca\u30fc\u3002jQuery\u3068WordPress\u304c\u597d\u7269\u3067\u3059\u3002   \u904b\u55b6\u30b5\u30a4\u30c8\uff1aCodetter\uff08\u3053\u30fc\u3069\u3063\u305f\u30fc\uff09\u3000http://t.co/xsyVTGAb\u3000Web\u5236\u4f5c\u8005\u306e\uff08\u82e6\u7b11\uff09http://t.co/4pzIYw1o\u3000\u697d\u30e2 http://t.co/ubdtyKe9", 
+   "tweet_id": 402116659608944640, 
+   "create_time": "Sun Nov 17 16:50:57 +0000 2013", 
+   "location": "\u5927\u962a\u5e9c", 
+   "retweeter_id": 89241110, 
+   "screen_name": "woodroots"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000757162343/c9dec000e04fa3a9872909818fd481cc_normal.jpeg", 
+   "name": "Vaibhav Jain", 
+   "text": "A Proud Indian", 
+   "tweet_id": 402087612782870528, 
+   "create_time": "Sun Nov 17 14:55:31 +0000 2013", 
+   "location": "India", 
+   "retweeter_id": 21088187, 
+   "screen_name": "Vibhi"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1172709639/Guardian_128_normal.jpg", 
+   "name": "Chris", 
+   "text": "I fight for the Users. My format: Guardian. To mend and defend.", 
+   "tweet_id": 401967982131544064, 
+   "create_time": "Sun Nov 17 07:00:09 +0000 2013", 
+   "location": "The Grid, The Super Computer", 
+   "retweeter_id": 10119842, 
+   "screen_name": "SteelCougar307"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000594376012/dcce46e951951733da6a13d8a1982f26_normal.jpeg", 
+   "name": "AsyrafSyafiq", 
+   "text": "Don't come to my funeral to show how much you loved me.", 
+   "tweet_id": 401892544222478337, 
+   "create_time": "Sun Nov 17 02:00:24 +0000 2013", 
+   "location": "Hawaii,United States", 
+   "retweeter_id": 397815024, 
+   "screen_name": "asyrafiq_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3448977974/7a378067984269237929f215b47a9cb9_normal.jpeg", 
+   "name": "Tom", 
+   "text": "Techie, gamer, former game dev, release engineer/devops, mustang and triumph enthusiast.", 
+   "tweet_id": 401815185389662208, 
+   "create_time": "Sat Nov 16 20:53:00 +0000 2013", 
+   "location": "Seattle, WA", 
+   "retweeter_id": 29828034, 
+   "screen_name": "drakino"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000866463742/gPRLu57L_normal.png", 
+   "name": "William Ingram", 
+   "text": "Lived in portland oregon since 1984. Serving in the US Navy for 11 years. Love my Seahawks. GO SEAHAWKS!", 
+   "tweet_id": 401793186713980928, 
+   "create_time": "Sat Nov 16 19:25:35 +0000 2013", 
+   "location": "Oak Harbor, Washington", 
+   "retweeter_id": 23516514, 
+   "screen_name": "ingram1225"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000249989852/c32ca1be2ad0f8e3a683598ce93400e9_normal.jpeg", 
+   "name": "Herv\u00e9 KOUEKE ", 
+   "text": "Web/Software/Mobile developer, .NET/JAVA+Android Professional, SQL/Oracle/PSQL DBA, IT security/Online transactions/Web services researcher. Urban music fan...", 
+   "tweet_id": 401758473094197248, 
+   "create_time": "Sat Nov 16 17:07:38 +0000 2013", 
+   "location": "Douala, Cameroun", 
+   "retweeter_id": 1650225182, 
+   "screen_name": "HKOUEKE"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1119982672/Foto_Facebook_escalada_normal.jpg", 
+   "name": "Abel Ar\u00e9valo", 
+   "text": "Software developer", 
+   "tweet_id": 401734531629449216, 
+   "create_time": "Sat Nov 16 15:32:30 +0000 2013", 
+   "location": "Castell\u00f3n, Spain", 
+   "retweeter_id": 104948784, 
+   "screen_name": "efectoflash"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3367572006/e949178ccfa93db69a179344289276a0_normal.jpeg", 
+   "name": "Florian LE MINOUX", 
+   "text": "Je suis un Geek, et j'aime les PC... #GeekOfTheDead", 
+   "tweet_id": 401734490848247808, 
+   "create_time": "Sat Nov 16 15:32:21 +0000 2013", 
+   "location": "Avranches, France", 
+   "retweeter_id": 1237349180, 
+   "screen_name": "fleminoux22"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2250102297/460__1__normal.gif", 
+   "name": "Arvin", 
+   "text": "I think I have fell in love with you!", 
+   "tweet_id": 401723353980870656, 
+   "create_time": "Sat Nov 16 14:48:05 +0000 2013", 
+   "location": "NJ", 
+   "retweeter_id": 590431711, 
+   "screen_name": "Arvin08S"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000711127461/26fcceb03e07eae719451928147d13cc_normal.jpeg", 
+   "name": "\u56fd\u4e59\u8d64\u70b9\u56de\u907f", 
+   "text": "\u4eac\u90fd\u306e\u51ac\u306f\u5bd2\u3044", 
+   "tweet_id": 401676254954283008, 
+   "create_time": "Sat Nov 16 11:40:56 +0000 2013", 
+   "location": "\u4eac\u90fd", 
+   "retweeter_id": 1189803444, 
+   "screen_name": "kyosuke12103"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000746385261/cc288f831072ddef02067e0a21ee7e74_normal.jpeg", 
+   "name": "Romain", 
+   "text": "", 
+   "tweet_id": 401632383885398017, 
+   "create_time": "Sat Nov 16 08:46:36 +0000 2013", 
+   "location": "Switzerland", 
+   "retweeter_id": 1699088816, 
+   "screen_name": "trackromain"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2203980907/gianluca_normal.jpg", 
+   "name": "Gianluca De Lorenzo", 
+   "text": "Universit\u00e0 della Calabria, rugby vela e sub, tifo Toro e mi appassiona la fotografia.", 
+   "tweet_id": 401608959888728064, 
+   "create_time": "Sat Nov 16 07:13:32 +0000 2013", 
+   "location": "Paola (CS)", 
+   "retweeter_id": 291701380, 
+   "screen_name": "giandelor"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000740997271/a4c9f496afad702a0b29efaeb4bfda1d_normal.jpeg", 
+   "name": "mark reeves", 
+   "text": "Tinker,  sailor, daddy, baker, rich man, poor man,  rocketship maker", 
+   "tweet_id": 401547444325842945, 
+   "create_time": "Sat Nov 16 03:09:05 +0000 2013", 
+   "location": "angelina college", 
+   "retweeter_id": 2194870116, 
+   "screen_name": "markcrawdaddy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1494094362/image_normal.jpg", 
+   "name": "JM", 
+   "text": "Born in Hilongos,Leyte on July 1983", 
+   "tweet_id": 401448163313078272, 
+   "create_time": "Fri Nov 15 20:34:35 +0000 2013", 
+   "location": "Australia,Philippines,Leyte", 
+   "retweeter_id": 354086748, 
+   "screen_name": "mark87nexus"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2637496106/5fe9816dedbc5f6a99327dea258889e9_normal.jpeg", 
+   "name": "Steven Halliwell", 
+   "text": "British nerd who likes to rant.", 
+   "tweet_id": 401427216497922048, 
+   "create_time": "Fri Nov 15 19:11:21 +0000 2013", 
+   "location": "England", 
+   "retweeter_id": 149239541, 
+   "screen_name": "TheCre8a"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000662982194/f73bdb4a8e15a38c06e9152cd70de9de_normal.jpeg", 
+   "name": "Kogure", 
+   "text": "Welcome. Here I talk about anything ranging from politics to girls with dicks. So pretty much everything. RP details in the link. (Can get NSFW.)", 
+   "tweet_id": 401403256813158400, 
+   "create_time": "Fri Nov 15 17:36:08 +0000 2013", 
+   "location": "Amsterdam", 
+   "retweeter_id": 373523861, 
+   "screen_name": "Kogure_Chan"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3140194228/c03379cfc45779330be3bcac5223b397_normal.jpeg", 
+   "name": "Shreyas Jain", 
+   "text": "https://t.co/zwrROfyZ", 
+   "tweet_id": 401377393673134080, 
+   "create_time": "Fri Nov 15 15:53:22 +0000 2013", 
+   "location": "india", 
+   "retweeter_id": 113685428, 
+   "screen_name": "Shreyas_Jain"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000853413438/3d5fff9d6351e95ad9a90a950ce42c80_normal.jpeg", 
+   "name": "\u266cJanuWd\u2122\u2665Liverpool", 
+   "text": "StayHere Remember THAT !! follow us\u2661instagraam/ @januwd", 
+   "tweet_id": 401355309857255424, 
+   "create_time": "Fri Nov 15 14:25:37 +0000 2013", 
+   "location": "Central JAVA ", 
+   "retweeter_id": 1354332572, 
+   "screen_name": "JanuLFC"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000376000133/621285b9d61ce2319fb96c5575aae329_normal.jpeg", 
+   "name": "Kenny V.", 
+   "text": "Twitter de Kenny Voegelin alias @kennyxboxisapro ! Personne aimant la t\u00e9l\u00e9vision et la radio, et r\u00e9agis par de simples tweets :p #EnoraLeSoir #PDLP #TPMP", 
+   "tweet_id": 401335437798932480, 
+   "create_time": "Fri Nov 15 13:06:39 +0000 2013", 
+   "location": "Mulhouse (Alsace), France", 
+   "retweeter_id": 119847953, 
+   "screen_name": "kenny_v68"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000742758916/b305d7b52ceb3fea937c08388b335d2e_normal.jpeg", 
+   "name": "\u0625\u0650\u0633\u0652\u0644\u0627\u0645", 
+   "text": "", 
+   "tweet_id": 401317214735065088, 
+   "create_time": "Fri Nov 15 11:54:14 +0000 2013", 
+   "location": "Alexandria, Egypt", 
+   "retweeter_id": 373912263, 
+   "screen_name": "IslamMostafa42"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3341955316/7bb9f3e985347867ada57f8bf8bb59cf_normal.jpeg", 
+   "name": "John R", 
+   "text": "IT Manager working in Melksham, Wiltshire. Trading oil & gas shares.", 
+   "tweet_id": 401304128607232000, 
+   "create_time": "Fri Nov 15 11:02:14 +0000 2013", 
+   "location": "Wiltshire, UK", 
+   "retweeter_id": 138049209, 
+   "screen_name": "jrmelksham"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000862927430/-bLUZ6XB_normal.jpeg", 
+   "name": "\u4e0b\u9d28[\u306a]\u30b0\u30e9\u30bf\u30f3\u306f\u7a7a\u9593\u306e\u65c5\u4eba", 
+   "text": "2-13\u306b\u3044\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u4f55\u304b \u304d\u3063\u3068E\u985e\u578b\n@__________nagra", 
+   "tweet_id": 401302396187332608, 
+   "create_time": "Fri Nov 15 10:55:21 +0000 2013", 
+   "location": "\u30de\u30c4\u30c9\u30a2\u30f3\u30b0\u30e9\u30fc", 
+   "retweeter_id": 728476147, 
+   "screen_name": "____________na"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1837219797/_____normal.gif", 
+   "name": "\u3056\u308f\u3057", 
+   "text": "\u7cbe\u795e\u7684\u306b\u5411\u4e0a\u5fc3\u306e\u7121\u3044\u5974\u306f\u4f55\u3092\u3084\u3063\u3066\u3082\u30c0\u30e1", 
+   "tweet_id": 401292720494219265, 
+   "create_time": "Fri Nov 15 10:16:54 +0000 2013", 
+   "location": "Utsunomiya, Tochigi, Japan", 
+   "retweeter_id": 141181172, 
+   "screen_name": "zwxi"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000738899787/b9b31a4ec76098590a6c61ec2d43c604_normal.jpeg", 
+   "name": "\u0e2a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e15\u0e19\u0e4c \u0e41\u0e23\u0e07\u0e40\u0e23\u0e37\u0e2d\u0e07", 
+   "text": "\u0e17\u0e38\u0e01\u0e2a\u0e34\u0e48\u0e07\u0e43\u0e19\u0e0a\u0e35\u0e27\u0e34\u0e15 \u0e42\u0e14\u0e22\u0e1e\u0e37\u0e49\u0e19\u0e10\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 \u0e04\u0e37\u0e2d \u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d \n\u0e08\u0e07\u0e01\u0e32\u0e07\u0e21\u0e37\u0e2d\u0e23\u0e31\u0e1a \u0e2a\u0e34\u0e48\u0e07\u0e19\u0e31\u0e49\u0e19 \u0e41\u0e25\u0e30 \u0e16\u0e37\u0e2d\u0e44\u0e27\u0e49 #\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e2d\u0e19\u0e32\u0e04\u0e15\u0e01\u0e39\u0e2a\u0e39\u0e49\u0e19\u0e30\u0e40\u0e2d\u0e4b\u0e2d!!", 
+   "tweet_id": 401281553034002434, 
+   "create_time": "Fri Nov 15 09:32:32 +0000 2013", 
+   "location": "14.7473457,103.4842368", 
+   "retweeter_id": 319497931, 
+   "screen_name": "Sureerat_Rr"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1676056536/zoso_normal.jpg", 
+   "name": "Fran\u00e7ois de Broissia", 
+   "text": "J'aime Led Zeppelin et je fais de l'affiliation", 
+   "tweet_id": 401280234101936128, 
+   "create_time": "Fri Nov 15 09:27:17 +0000 2013", 
+   "location": "Paris", 
+   "retweeter_id": 429310365, 
+   "screen_name": "francoisdebrois"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1729388367/S57722__0705cc1989_normal.jpg", 
+   "name": "Pratheesh PS", 
+   "text": "Me ..A Engineering Graduate Of age 22 with love for the webworld...Likes to share time with my Friends...I am passionate about the apps,technology articles", 
+   "tweet_id": 401266415996370944, 
+   "create_time": "Fri Nov 15 08:32:23 +0000 2013", 
+   "location": "Thiruvananthapuram", 
+   "retweeter_id": 228445390, 
+   "screen_name": "pratheesh_ps"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000644789901/c1e60b821de5e5571dcb0c3e1a1c7dcb_normal.png", 
+   "name": "KURN", 
+   "text": "Facebook : https://t.co/wqLDFSQWHD , YouTube : \r\nhttp://t.co/eEMvGewL9g", 
+   "tweet_id": 401264369910046720, 
+   "create_time": "Fri Nov 15 08:24:15 +0000 2013", 
+   "location": "\u2714 Jakarta", 
+   "retweeter_id": 1958341050, 
+   "screen_name": "A_GUNGKURNIAWAN"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2332738732/phruqqincbucx6mifv4p_normal.gif", 
+   "name": "Laxman Shrigire", 
+   "text": "I'm a Indian. Music Lover (Son,Brother,Student,Employee) Life is Music. Service job @BAFNA Motors, As a CM.\nLives in Latur MH-24. Incredible India!\nALLisWeLL", 
+   "tweet_id": 401242224274325504, 
+   "create_time": "Fri Nov 15 06:56:15 +0000 2013", 
+   "location": "Latur", 
+   "retweeter_id": 226469031, 
+   "screen_name": "LaxmanShrigire7"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000840252101/13db697fb209f169b55291d29f5953c2_normal.jpeg", 
+   "name": "Nancy J.", 
+   "text": "Be still my heart, 'cause it's freaking out, right now. #NeonLights. 23.#Holton #TeenWolf #Lovatic", 
+   "tweet_id": 401241370334994432, 
+   "create_time": "Fri Nov 15 06:52:52 +0000 2013", 
+   "location": "California", 
+   "retweeter_id": 394801950, 
+   "screen_name": "i_shipholton"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000812158999/4659ac786fb8892cd26aea4ff2a280a5_normal.jpeg", 
+   "name": "Robert Wood", 
+   "text": "", 
+   "tweet_id": 401168755319132160, 
+   "create_time": "Fri Nov 15 02:04:19 +0000 2013", 
+   "location": "Murfreesboro", 
+   "retweeter_id": 15747537, 
+   "screen_name": "Robzw"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000472246191/632818a3930fabbeb9d0ab7b0dc682cf_normal.png", 
+   "name": "Carroll Winn", 
+   "text": "A long life lived in the pursuit of clear thought free of  superstitions.Unionmember#UniteBlue #LGBTQ #ConectTheLeft #StopTheocracy #NyetRussianVodka", 
+   "tweet_id": 401165295370653696, 
+   "create_time": "Fri Nov 15 01:50:34 +0000 2013", 
+   "location": "In own world", 
+   "retweeter_id": 1410601014, 
+   "screen_name": "winn1_winn"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/351807868/icon_normal.jpg", 
+   "name": "rightstaff", 
+   "text": "\u5287\u5834\u7248\u30da\u30eb\u30bd\u30ca3\u898b\u307e\u3057\u305f", 
+   "tweet_id": 401158855821754368, 
+   "create_time": "Fri Nov 15 01:24:59 +0000 2013", 
+   "location": "Saitama,Japan", 
+   "retweeter_id": 15871406, 
+   "screen_name": "rightstaff"
+  }
+ ], 
+ "314474626245853186": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411665950337806336/ceUFgItp_normal.png", 
+   "name": " Yoky Barus \u30c4 ", 
+   "text": "Follow me back, love meeting new people :) xo", 
+   "tweet_id": 411012316763676672, 
+   "create_time": "Thu Dec 12 05:59:07 +0000 2013", 
+   "location": "Indonesia", 
+   "retweeter_id": 1290635864, 
+   "screen_name": "yoky_barus"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3684893096/fc59a9f29f654c51dbd9a503e8531f79_normal.jpeg", 
+   "name": "Muhammad Amin", 
+   "text": "I will always try to get to the heart of a woman I loved, even though it was only a dream. keep the spirit \\(^_^)/", 
+   "tweet_id": 401673608377798657, 
+   "create_time": "Sat Nov 16 11:30:25 +0000 2013", 
+   "location": "Banjarmasin", 
+   "retweeter_id": 528219079, 
+   "screen_name": "Amin_7src"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000738899787/b9b31a4ec76098590a6c61ec2d43c604_normal.jpeg", 
+   "name": "\u0e2a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e15\u0e19\u0e4c \u0e41\u0e23\u0e07\u0e40\u0e23\u0e37\u0e2d\u0e07", 
+   "text": "\u0e17\u0e38\u0e01\u0e2a\u0e34\u0e48\u0e07\u0e43\u0e19\u0e0a\u0e35\u0e27\u0e34\u0e15 \u0e42\u0e14\u0e22\u0e1e\u0e37\u0e49\u0e19\u0e10\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 \u0e04\u0e37\u0e2d \u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d \n\u0e08\u0e07\u0e01\u0e32\u0e07\u0e21\u0e37\u0e2d\u0e23\u0e31\u0e1a \u0e2a\u0e34\u0e48\u0e07\u0e19\u0e31\u0e49\u0e19 \u0e41\u0e25\u0e30 \u0e16\u0e37\u0e2d\u0e44\u0e27\u0e49 #\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e2d\u0e19\u0e32\u0e04\u0e15\u0e01\u0e39\u0e2a\u0e39\u0e49\u0e19\u0e30\u0e40\u0e2d\u0e4b\u0e2d!!", 
+   "tweet_id": 401281824300597249, 
+   "create_time": "Fri Nov 15 09:33:37 +0000 2013", 
+   "location": "14.7473457,103.4842368", 
+   "retweeter_id": 319497931, 
+   "screen_name": "Sureerat_Rr"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000856122100/fe2f82b7dc856d31b414be85d56dfbbc_normal.jpeg", 
+   "name": "Leonardo Jasiko", 
+   "text": "Be a strong wall in the hard times and be a smiling sun in the good times.", 
+   "tweet_id": 399352317075390464, 
+   "create_time": "Sun Nov 10 01:46:26 +0000 2013", 
+   "location": "Nganjuk Indonesia", 
+   "retweeter_id": 609927323, 
+   "screen_name": "leonardojasiko"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000728631103/7dece7e1964677f0b772cf4e38c0a5d6_normal.jpeg", 
+   "name": "\u2665\u2665Twinkle\u2665\u2665", 
+   "text": "\u2665\u2665 Just a :-) \u00a7\u00efM\u00b6L\u20ac (-: \u2665\u2665", 
+   "tweet_id": 394880863164317696, 
+   "create_time": "Mon Oct 28 17:38:29 +0000 2013", 
+   "location": "\u2026\u00abIndonesia-Medan\u00bb\u2026", 
+   "retweeter_id": 311380351, 
+   "screen_name": "TwinkleFortuna"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000813664314/f43c791e893571646a2df0d8c600e875_normal.jpeg", 
+   "name": "Ridwan D A Lubis", 
+   "text": "Support \u00bb @R_besar @raffiahmadafi | Favorit Singer \u00bb Ariel NOAH, Raffi Ahmad | Instagram : ridwan_lubis", 
+   "tweet_id": 392955175540760576, 
+   "create_time": "Wed Oct 23 10:06:29 +0000 2013", 
+   "location": "Ciranjang-Cianjur, jawa barat ", 
+   "retweeter_id": 1709160792, 
+   "screen_name": "_RidwanLubis"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411991028489388032/YMTFvxvx_normal.jpeg", 
+   "name": "Jendral Fariq", 
+   "text": "Jangan liat liat nanti naksir loh :D :P | Male | My name is Fariq Al-Fatir | Mts Assa'addah | 8'3 paling okee !", 
+   "tweet_id": 392599911784390656, 
+   "create_time": "Tue Oct 22 10:34:47 +0000 2013", 
+   "location": "Jakarta selatan", 
+   "retweeter_id": 1963422210, 
+   "screen_name": "Jendralfariqq"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000590310290/7607d0dd7d81633d840c586c300a5d6f_normal.jpeg", 
+   "name": "Kobayashi|S4ndman", 
+   "text": "YNWA.Sicals17|Ravendix 14|Follow back? Just mention\u2606Guardian|S\u2665", 
+   "tweet_id": 389394942616813568, 
+   "create_time": "Sun Oct 13 14:19:23 +0000 2013", 
+   "location": "Guardian|Death Knight D2", 
+   "retweeter_id": 446670571, 
+   "screen_name": "nadhifraditya"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000583973948/912681042663bea8fe8e6665376d2399_normal.jpeg", 
+   "name": "\u2122FatarulAkmal\u2122  \u200f", 
+   "text": "Guitarist In Own Band (Suicide In Darkest) New Death-Core Band", 
+   "tweet_id": 388974390429237249, 
+   "create_time": "Sat Oct 12 10:28:16 +0000 2013", 
+   "location": "New Jersey, New York", 
+   "retweeter_id": 1862722284, 
+   "screen_name": "fatarulakmal"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000847384531/db5ccd1ad954b7c90858a4fed9f2ed93_normal.jpeg", 
+   "name": "+18 \u2122", 
+   "text": "FOLLOW BACK BRO ;) || whatsapp para cualquier honda +595993578342", 
+   "tweet_id": 388773775472611328, 
+   "create_time": "Fri Oct 11 21:11:05 +0000 2013", 
+   "location": "jap\u00f3n", 
+   "retweeter_id": 1358934308, 
+   "screen_name": "EncantoPerras"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000289348303/134fd88b54d69c1ad14e0794062a8ea4_normal.jpeg", 
+   "name": "Soul #1437", 
+   "text": "Soul #1437  Our Quarterback", 
+   "tweet_id": 384626077408059392, 
+   "create_time": "Mon Sep 30 10:29:37 +0000 2013", 
+   "location": "Columbus, Oh", 
+   "retweeter_id": 616329988, 
+   "screen_name": "KrisONeillNYD"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000721169712/ee7707ba8052b08f9dc62e6dc2bfea80_normal.jpeg", 
+   "name": "Linda Vieira", 
+   "text": "Just Keepin' It Real...", 
+   "tweet_id": 378604935312457728, 
+   "create_time": "Fri Sep 13 19:43:45 +0000 2013", 
+   "location": "Oakdale, California", 
+   "retweeter_id": 1379503928, 
+   "screen_name": "lilbitsweets62"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1538855487/41480_100001522950039_1163_q_normal.jpg", 
+   "name": "prisciliafalcone", 
+   "text": "", 
+   "tweet_id": 372964324626530304, 
+   "create_time": "Thu Aug 29 06:09:59 +0000 2013", 
+   "location": "arjetina", 
+   "retweeter_id": 371911361, 
+   "screen_name": "priscilianadia"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411651406827753473/wmiOeoos_normal.jpeg", 
+   "name": "Mia Agustina", 
+   "text": "ngga terlalu berharap punya pacar, tapi se enggak-enggaknya masih ada yg perhatian. iyagitu. Line & IG : miaagustina__ pin 7420A56E", 
+   "tweet_id": 371424995097837568, 
+   "create_time": "Sun Aug 25 00:13:14 +0000 2013", 
+   "location": "dimana mana hatiku senang", 
+   "retweeter_id": 625528353, 
+   "screen_name": "miaagustina__"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000251444704/af4a0c6c34c19886f2abe4acee157a20_normal.png", 
+   "name": "Solveb Indonesia", 
+   "text": "Web Design, Building, Developing | SEO Service | Article Writing", 
+   "tweet_id": 371325620568870912, 
+   "create_time": "Sat Aug 24 17:38:21 +0000 2013", 
+   "location": "Bandung, Indonesia", 
+   "retweeter_id": 1568253452, 
+   "screen_name": "solveb_id"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3701639970/42a155be06ba7275db0e2bd06107fb3b_normal.jpeg", 
+   "name": "Prince Gonzalez", 
+   "text": "", 
+   "tweet_id": 370798477455806464, 
+   "create_time": "Fri Aug 23 06:43:40 +0000 2013", 
+   "location": "Paterson, NJ", 
+   "retweeter_id": 225242343, 
+   "screen_name": "marcopoliolio"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000523391222/438c6a94eea38427f157ad5f4b409327_normal.jpeg", 
+   "name": "YY", 
+   "text": "Yanti Yulina || SMP SANTA MONIKA || Grade IX || 19 Januari 2000 || FOLLOW ME PLEASE !!! || ASK FOR FOLLOWBACK", 
+   "tweet_id": 367844744602214400, 
+   "create_time": "Thu Aug 15 03:06:36 +0000 2013", 
+   "location": "Seoul", 
+   "retweeter_id": 1223271948, 
+   "screen_name": "yantiyulina"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000853783688/d2d394de48edf940a43776aefed422cc_normal.jpeg", 
+   "name": ".", 
+   "text": "", 
+   "tweet_id": 364927305682259968, 
+   "create_time": "Wed Aug 07 01:53:44 +0000 2013", 
+   "location": "Someplace", 
+   "retweeter_id": 57257958, 
+   "screen_name": "IrwanMauluddin"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000633471904/ef9bc645affb5fd1600a4bf49b345e40_normal.jpeg", 
+   "name": "fahri\u2665{FAH}\u2665", 
+   "text": "|| masa depan gw itu \u2665\u2665 @KrisniartiM \u2665\u2665 | #Arsenal @Arsenal ||", 
+   "tweet_id": 363223841851445248, 
+   "create_time": "Fri Aug 02 09:04:46 +0000 2013", 
+   "location": "Bekasi Sono Dikit", 
+   "retweeter_id": 630854473, 
+   "screen_name": "fahrilah_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2678427659/99760badb88f5467a188a44b022d50fc_normal.jpeg", 
+   "name": "MARCOS MEJIA", 
+   "text": "", 
+   "tweet_id": 361635530234015745, 
+   "create_time": "Sun Jul 28 23:53:23 +0000 2013", 
+   "location": "\u00dcT: 18.4832186,-69.9699812", 
+   "retweeter_id": 343607921, 
+   "screen_name": "CMAASOCIADOS"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000784724782/8822ccb1705e19f0f99b6df985dcd557_normal.jpeg", 
+   "name": "Dicky\u2022", 
+   "text": "\u2022Towards a bright future and strive to be the best \u2022 DKV - Brawijaya University", 
+   "tweet_id": 361594618481098753, 
+   "create_time": "Sun Jul 28 21:10:49 +0000 2013", 
+   "location": "Malang, Indonesia", 
+   "retweeter_id": 379570321, 
+   "screen_name": "Dickerv"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3170352952/34266f3e66b86308e3d866f9c43ede55_normal.jpeg", 
+   "name": "Dedi Junaedi", 
+   "text": "Sekarang bekerja di PT. Satyaraya Keramindoindah Dept. Laboratorium Bagian Quality Assurance Divisi FT d/a Jl. Raya Serang KM.25 Balaraja Tangerang 15610", 
+   "tweet_id": 361100362679197696, 
+   "create_time": "Sat Jul 27 12:26:50 +0000 2013", 
+   "location": "Indonesia", 
+   "retweeter_id": 1125282876, 
+   "screen_name": "DediJun43844518"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000852065324/c5f45a96b12b44b86ad246744c1f98a0_normal.jpeg", 
+   "name": "raja alfarisi", 
+   "text": "I don't care who you are, if you are nice to me, i'll be nice to you", 
+   "tweet_id": 358357896599314435, 
+   "create_time": "Fri Jul 19 22:49:15 +0000 2013", 
+   "location": "Home", 
+   "retweeter_id": 524037704, 
+   "screen_name": "rajasykes"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000858045580/ZtI-fOsy_normal.jpeg", 
+   "name": "Er~", 
+   "text": "simple, calm, little bit handsome & care to friends| FTTM ITB or FKUGM amin!!| proud to be part of galaxy nexus developers and part of CastleSmansa", 
+   "tweet_id": 357490870292975617, 
+   "create_time": "Wed Jul 17 13:24:00 +0000 2013", 
+   "location": "find me in google earth", 
+   "retweeter_id": 99834352, 
+   "screen_name": "R_Arya_S"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000224853294/3ac7299d2af80e761c6960ba655d4853_normal.jpeg", 
+   "name": "GORGEOUS MAGAZINE", 
+   "text": "IG: @mygorgeousmag PREMIERE MAG FOR SEXY, BOLD, DIVERSE & CREATIVE IMAGING. THIS IS GORGEOUS EVERYTHING THEY'RE NOT! mygorgeousmedia@gmail.com", 
+   "tweet_id": 356293030619254784, 
+   "create_time": "Sun Jul 14 06:04:12 +0000 2013", 
+   "location": "NYC ", 
+   "retweeter_id": 61452205, 
+   "screen_name": "gorgeousmag"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000720243669/c761206a80c43514f03205e34bcfee60_normal.jpeg", 
+   "name": "Florida Georgia Line", 
+   "text": "Street Team for all things @FLAGALine. Folllow us if you're a fan of\nthem and help us spread the word about FLAGALine nationwide", 
+   "tweet_id": 355956160458784768, 
+   "create_time": "Sat Jul 13 07:45:36 +0000 2013", 
+   "location": "worldwide", 
+   "retweeter_id": 1520892032, 
+   "screen_name": "TeamFLAGAline"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000825654572/7360bd65b8da86bec577159870918a27_normal.jpeg", 
+   "name": "-EDUARDO", 
+   "text": "Esse mundo \u00e9 fantastico", 
+   "tweet_id": 353944792352305152, 
+   "create_time": "Sun Jul 07 18:33:09 +0000 2013", 
+   "location": "Oh!", 
+   "retweeter_id": 1566410006, 
+   "screen_name": "EduardoArno"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000444306270/9e3654c113680608c6b8df8048e75d10_normal.png", 
+   "name": "Mr.\u0418ass\u00e9\u0433 ", 
+   "text": "\u200f\u200f\u0645\u0635\u0645\u0645 \u0641\u0648\u062a\u0648\u0634\u0648\u0628 - \u0647\u0622\u0648\u064a \u062a\u0635\u0648\u064a\u0631 - \u0633\u0648\u064a \u0641\u0648\u0644\u0648 \u0648\u062d\u062a\u0633\u062a\u0645\u062a\u0639 \u0645\u0639\u0646\u0627 \u263a", 
+   "tweet_id": 349187838601994241, 
+   "create_time": "Mon Jun 24 15:30:42 +0000 2013", 
+   "location": "One Love is All we Need", 
+   "retweeter_id": 1161259194, 
+   "screen_name": "TJAHLTK"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3042254976/999f59b7b8a6a35a8bde0c84197f2bb1_normal.jpeg", 
+   "name": "startbyfinish.com", 
+   "text": "http://t.co/WLBC1k52  is a blog. Keep Waiting sunlight            (By Bongga Sambolangi)", 
+   "tweet_id": 348701052515782656, 
+   "create_time": "Sun Jun 23 07:16:24 +0000 2013", 
+   "location": "Indonesia", 
+   "retweeter_id": 577957537, 
+   "screen_name": "startbyfinish24"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/241728238/nota15_2_normal.jpg", 
+   "name": "edusis", 
+   "text": "Especialista y amante de las tecnolog\u00edas en general sobre todo TI. Un habitante de la red. Geek por propia elecci\u00f3n :)", 
+   "tweet_id": 348509915284897792, 
+   "create_time": "Sat Jun 22 18:36:53 +0000 2013", 
+   "location": "Lima", 
+   "retweeter_id": 43718305, 
+   "screen_name": "edusis"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000827453982/5f92fbd9fe581e35464e60a88b46389d_normal.jpeg", 
+   "name": "Reyhan", 
+   "text": "ask for followback! on: http://t.co/vRvCywZ3cP", 
+   "tweet_id": 347251238452211712, 
+   "create_time": "Wed Jun 19 07:15:21 +0000 2013", 
+   "location": "Semarang", 
+   "retweeter_id": 185532798, 
+   "screen_name": "reyhan_putra"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3782480763/d0cb9ebb41fd63adc594abe708243a65_normal.jpeg", 
+   "name": "Emilan Diaz", 
+   "text": "", 
+   "tweet_id": 345984504269254657, 
+   "create_time": "Sat Jun 15 19:21:48 +0000 2013", 
+   "location": "cali", 
+   "retweeter_id": 1499187361, 
+   "screen_name": "EmiiD2"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2692957977/6c31608b4a5c5cdd9fedc1676d7e4afe_normal.jpeg", 
+   "name": "\u0410\u0440\u0442\u0443\u0440 \u041f\u0430\u043d\u0430\u0435\u0432", 
+   "text": "\u0412\u0441\u0435\u0445 \u0432\u0437\u0430\u0438\u043c\u043d\u043e \u0437\u0430\u043d\u043e\u0448\u0443 \u0432 \u0447\u0438\u0442\u0430\u0442\u0435\u043b\u0438, \u043a\u0442\u043e \u0447\u0438\u0442\u0430\u0435\u0442 \u043c\u0435\u043d\u044f.", 
+   "tweet_id": 345655461976092672, 
+   "create_time": "Fri Jun 14 21:34:18 +0000 2013", 
+   "location": "\u0422\u0443\u043b\u0430", 
+   "retweeter_id": 351454303, 
+   "screen_name": "easyshopmd"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2475755533/ixibacm34lmtntelirye_normal.jpeg", 
+   "name": "Deas Revidrian", 
+   "text": "Hi guys,Deas Revidrian is my name.Indonesia is my country.\r\nDeas dan Keluarga Mengucapkan Minal Aidzin Walfaidzin. : )", 
+   "tweet_id": 344447680858173441, 
+   "create_time": "Tue Jun 11 13:35:01 +0000 2013", 
+   "location": "Indonesia", 
+   "retweeter_id": 168051398, 
+   "screen_name": "DeasRevidrian"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411905315106336768/hGJ4pITZ_normal.png", 
+   "name": "ahmeedsoefiyan", 
+   "text": "Stay Happy, Stay Awesome :)", 
+   "tweet_id": 343115632704897025, 
+   "create_time": "Fri Jun 07 21:21:56 +0000 2013", 
+   "location": "Medan", 
+   "retweeter_id": 277504450, 
+   "screen_name": "ahmeedsoefiyan"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000742478193/dae16fe97282df0440f67ce3dbcbacda_normal.jpeg", 
+   "name": "Wulan Rahmadianty", 
+   "text": "\u2661 VMYP | Sukses UN 2014 amiinn! | 22 juni 1999", 
+   "tweet_id": 342209923700105218, 
+   "create_time": "Wed Jun 05 09:22:58 +0000 2013", 
+   "location": "Ngayogyakarta Hadiningrat ", 
+   "retweeter_id": 1381523412, 
+   "screen_name": "rahmawul"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/673241440/Moi_normal.PNG", 
+   "name": "Mohammed Belatar", 
+   "text": "Researcher in the field of Human Computer Interaction", 
+   "tweet_id": 340953574366392320, 
+   "create_time": "Sat Jun 01 22:10:41 +0000 2013", 
+   "location": "France", 
+   "retweeter_id": 110990629, 
+   "screen_name": "belatar"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000131981243/8f9d804edcb0c4f2356a6c04342f4886_normal.jpeg", 
+   "name": "Devanand.M.V", 
+   "text": "Don't make promise when you are in JOY . Don't reply when you are SAD.\r\nDon't take decisions when you are ANGRY. Think twice, Act wise. BE happy. .", 
+   "tweet_id": 339245121348448257, 
+   "create_time": "Tue May 28 05:01:54 +0000 2013", 
+   "location": "KOLLAM", 
+   "retweeter_id": 254081861, 
+   "screen_name": "devanandmv5518"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3075197923/8eca985f97d3ff2d362e6a99d69acbed_normal.jpeg", 
+   "name": "28MayShoppingMall", 
+   "text": "The Official twitter page of 28 Mall\r\n#28Mall\r\nhttp://t.co/yLwZJFUQMz", 
+   "tweet_id": 339045753613856770, 
+   "create_time": "Mon May 27 15:49:41 +0000 2013", 
+   "location": "Baku,Azerbaijan", 
+   "retweeter_id": 559004435, 
+   "screen_name": "28Mall"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000676190695/235f812dd3282e76a76616df6a5d12a7_normal.jpeg", 
+   "name": "MAYBACH MUSIC 9JA", 
+   "text": "TEAM NO SLEEP #MCNA #MAYBACHCLUB #MAYBACH9JA #MAYBACHNIGERIA MAYBACHNIGERIA@GMAIL.COM SUPPORTS AND RESPECTS #MMG @MaybachMusicGrp @RICKYROZAY", 
+   "tweet_id": 339032987851165696, 
+   "create_time": "Mon May 27 14:58:57 +0000 2013", 
+   "location": "Nigeria Africa", 
+   "retweeter_id": 366773064, 
+   "screen_name": "MaybachNigeria"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411705904677924865/zP6QEn-H_normal.jpeg", 
+   "name": "RAMA", 
+   "text": "Thinking, Confident, Do It!", 
+   "tweet_id": 338657718606888961, 
+   "create_time": "Sun May 26 14:07:46 +0000 2013", 
+   "location": "Tasikmalaya - Pekanbaru", 
+   "retweeter_id": 289795637, 
+   "screen_name": "anjas_rama"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000155528713/3d38c09f1baf4ff780b67a6b3c30bdcf_normal.jpeg", 
+   "name": "friansandika ", 
+   "text": "aqu slalu syg sm km.wlo ta mungkin tuk mmilikimu.\r\n(hy H ssorang i lve yu)", 
+   "tweet_id": 338470776229470208, 
+   "create_time": "Sun May 26 01:44:56 +0000 2013", 
+   "location": "depok", 
+   "retweeter_id": 1458456877, 
+   "screen_name": "asfriansandika"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000481554934/f244120f1eb0783f33c282c34c8e04d1_normal.png", 
+   "name": "\u0645\u0652\u0644\u0640\ufc61\u06af\u0647 \u0627\u0644\u0623\u0647\u0644\u064a\u06d2 \u2665", 
+   "text": "", 
+   "tweet_id": 338469433146228736, 
+   "create_time": "Sun May 26 01:39:35 +0000 2013", 
+   "location": "\u0627\u0645\u0640\u0640\u0640\u0640\u0640\u0640\u0640\ufbdd\ufbdd\ufbdd\u0644\u0640\ufba7", 
+   "retweeter_id": 999077605, 
+   "screen_name": "moooool9"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000539512146/8f05a5e35f2e5166c1bbb7a69faecaba_normal.jpeg", 
+   "name": "\u3299Emi\u3299", 
+   "text": "", 
+   "tweet_id": 338277096939982848, 
+   "create_time": "Sat May 25 12:55:19 +0000 2013", 
+   "location": "Japan", 
+   "retweeter_id": 502365672, 
+   "screen_name": "3m1_49"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000493876389/53432ccd41f3d0f5128120b1fd3d0d27_normal.jpeg", 
+   "name": "ADITYA PANWAR", 
+   "text": "Yet an another romantic guy who loves to explore things out beyond the wall of boundations , never limit my potential and a big tym cric freak  !!!", 
+   "tweet_id": 338242231309840385, 
+   "create_time": "Sat May 25 10:36:46 +0000 2013", 
+   "location": "Delhi , India", 
+   "retweeter_id": 170943576, 
+   "screen_name": "aditya_0910"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412058047498842113/njRCBy_y_normal.jpeg", 
+   "name": "Schwichtenberg.", 
+   "text": "Guitarrista e vocal reserva do Helloween.", 
+   "tweet_id": 338115669734330368, 
+   "create_time": "Sat May 25 02:13:52 +0000 2013", 
+   "location": "-BR-", 
+   "retweeter_id": 140129191, 
+   "screen_name": "IzaVieiraP"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000820140766/03119c8991d25828984956c42c71b0da_normal.jpeg", 
+   "name": "David Alexander T.", 
+   "text": "Fear not, keep it real #VictoriaConcordiaCrescit @ElQuarte30", 
+   "tweet_id": 337967592994123776, 
+   "create_time": "Fri May 24 16:25:27 +0000 2013", 
+   "location": "Seattle ", 
+   "retweeter_id": 1454004342, 
+   "screen_name": "ImDavidat"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000451043970/d53704d2cbdadbbf5531bc3430d2337f_normal.jpeg", 
+   "name": "\u0e27\u0e34\u0e27", 
+   "text": "\u0e25\u0e30\u0e04\u0e23 #\u0e2a\u0e38\u0e14\u0e2a\u0e32\u0e22\u0e1b\u0e48\u0e32\u0e19 \u0e23\u0e35\u0e23\u0e31\u0e19 \u0e23\u0e2d\u0e25\u0e30\u0e04\u0e23\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e43\u0e2b\u0e21\u0e48 MV\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08 Real :@wannarotvill", 
+   "tweet_id": 337779189765775362, 
+   "create_time": "Fri May 24 03:56:49 +0000 2013", 
+   "location": "\u0e1d\u0e32\u0e41\u0e1d\u0e14", 
+   "retweeter_id": 848920045, 
+   "screen_name": "wannarot_Vil"
+  }
+ ], 
+ "194828454171119616": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3531752857/3abd1db89295b2fd9e75f2dcd1f97279_normal.jpeg", 
+   "name": "Roberto Re", 
+   "text": "Ich bin ein Mail\u00e4nder. Electronic Engineer, CCNP /.*/ Networker. Analytical Independent Thinker. Informations & Ideas Exchanger  on Twitter.    RT \u2260 Endorsement", 
+   "tweet_id": 378328110242230272, 
+   "create_time": "Fri Sep 13 01:23:45 +0000 2013", 
+   "location": "Milano,Italia ", 
+   "retweeter_id": 180317088, 
+   "screen_name": "robertore62"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3531752857/3abd1db89295b2fd9e75f2dcd1f97279_normal.jpeg", 
+   "name": "Roberto Re", 
+   "text": "Ich bin ein Mail\u00e4nder. Electronic Engineer, CCNP /.*/ Networker. Analytical Independent Thinker. Informations & Ideas Exchanger  on Twitter.    RT \u2260 Endorsement", 
+   "tweet_id": 375705852185161728, 
+   "create_time": "Thu Sep 05 19:43:50 +0000 2013", 
+   "location": "Milano,Italia ", 
+   "retweeter_id": 180317088, 
+   "screen_name": "robertore62"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000825654572/7360bd65b8da86bec577159870918a27_normal.jpeg", 
+   "name": "-EDUARDO", 
+   "text": "Esse mundo \u00e9 fantastico", 
+   "tweet_id": 353946558905061376, 
+   "create_time": "Sun Jul 07 18:40:10 +0000 2013", 
+   "location": "Oh!", 
+   "retweeter_id": 1566410006, 
+   "screen_name": "EduardoArno"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000482867086/9947385359411f956d270ab4484600cf_normal.jpeg", 
+   "name": "Mega SMS Service", 
+   "text": "SMS Service", 
+   "tweet_id": 329184351621357568, 
+   "create_time": "Tue Apr 30 10:44:00 +0000 2013", 
+   "location": "Lahore", 
+   "retweeter_id": 873461910, 
+   "screen_name": "MegaSMS4u"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000658778038/f8a9ed889d54a067d8a1aa212012285d_normal.jpeg", 
+   "name": "PrAvEeN ", 
+   "text": "feelings change memories don't", 
+   "tweet_id": 271094747597246464, 
+   "create_time": "Wed Nov 21 03:36:39 +0000 2012", 
+   "location": "Netherlands ", 
+   "retweeter_id": 57357341, 
+   "screen_name": "Praveen113"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000823462526/83e4c95429b004363650c2826be06e1c_normal.jpeg", 
+   "name": "s\u20acndy", 
+   "text": "Alamat Rumah: Masih Dibangun Tempat Tanggal Lahir: Diatas Kasur, Dulu Sebelum Perang Pekerjaan Tetap:Berlibur", 
+   "tweet_id": 261227018102915072, 
+   "create_time": "Wed Oct 24 22:05:49 +0000 2012", 
+   "location": "Mataram, Indonesia", 
+   "retweeter_id": 335014316, 
+   "screen_name": "sandy_qurnia"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000834352258/4fead3372572906c749d4cb379d51654_normal.jpeg", 
+   "name": "Faris", 
+   "text": "Eighteen // Nur Farrisha's. Picoms' student. Diploma in Pharmacy. Instagram : ahmadfaris_", 
+   "tweet_id": 223391881600569345, 
+   "create_time": "Thu Jul 12 12:22:29 +0000 2012", 
+   "location": "Malaysia", 
+   "retweeter_id": 353567138, 
+   "screen_name": "invxsxblx"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3131385031/e56bf4efa4404e6bf581b5c935f25fa7_normal.jpeg", 
+   "name": "Oliver Klozzof ", 
+   "text": "#40 runnin rebels power forward btw im cashed out hoe #LTG", 
+   "tweet_id": 221285614832721920, 
+   "create_time": "Fri Jul 06 16:52:56 +0000 2012", 
+   "location": "chicago illinois", 
+   "retweeter_id": 628016140, 
+   "screen_name": "budz3r0"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/417834762/heli_normal.jpg", 
+   "name": "Dhananjaya", 
+   "text": "Tech Lead specializing in Java and Mobile Applications", 
+   "tweet_id": 211367149527248897, 
+   "create_time": "Sat Jun 09 08:00:30 +0000 2012", 
+   "location": "Sri Lanka - Colombo", 
+   "retweeter_id": 74653425, 
+   "screen_name": "dhananjaya81"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000842587563/fd60d386486671c827a537064e243bcb_normal.jpeg", 
+   "name": "Agung Nugroho", 
+   "text": "Choices affect the taste | hukum UB '12", 
+   "tweet_id": 211277398178664450, 
+   "create_time": "Sat Jun 09 02:03:51 +0000 2012", 
+   "location": "\u00dcT: -7.4864974,112.43844", 
+   "retweeter_id": 494715336, 
+   "screen_name": "agungnugz"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000313710330/c99839ef32ab0fb83ef9c482b4d0cb46_normal.png", 
+   "name": "\u25cf\u0e4b\u2022Robustter\u25cf\u0e4b\u2022 \u2642", 
+   "text": "Copyright \u00a9 ROBUSTTER DOWNLOADS \u2013 O Mundo \u00e9 seu! - Download de Programas, Aplicativos Android, Games e Emuladores - Powered by Robustter", 
+   "tweet_id": 208979882791804928, 
+   "create_time": "Sat Jun 02 17:54:21 +0000 2012", 
+   "location": "Brazil.", 
+   "retweeter_id": 85461600, 
+   "screen_name": "robustter"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2374338786/image_normal.jpg", 
+   "name": "Corey Wright", 
+   "text": "I think big, I got lot idea get thing done I go for down I turn back keep going forward life money good way go.", 
+   "tweet_id": 208972370399072256, 
+   "create_time": "Sat Jun 02 17:24:30 +0000 2012", 
+   "location": "Chicago", 
+   "retweeter_id": 88087459, 
+   "screen_name": "bigman1325"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3546814115/eaa53364e3c7604131f3d575ae7469c7_normal.jpeg", 
+   "name": "Sashika Dissanayeke", 
+   "text": "Theorist by nature. Obsessed in balancing everything. ENTJ... \r\n:) I'm pretty extraordinarily average- The way too good kind...", 
+   "tweet_id": 202696960803733504, 
+   "create_time": "Wed May 16 09:48:16 +0000 2012", 
+   "location": "Sri Lanka", 
+   "retweeter_id": 83650101, 
+   "screen_name": "SooshDiss"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000857074272/_GLi9p_o_normal.jpeg", 
+   "name": "Actually Wanda", 
+   "text": "Fantasy-Adventure-Science Fiction-Action-Drama", 
+   "tweet_id": 202399962565320704, 
+   "create_time": "Tue May 15 14:08:06 +0000 2012", 
+   "location": "Magelang - Yogyakarta", 
+   "retweeter_id": 231079509, 
+   "screen_name": "WandaIsma"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2995184685/a4abf4bc1c11575ea18d0986d49a0b42_normal.jpeg", 
+   "name": "Syncretic", 
+   "text": "Your Technology Partner", 
+   "tweet_id": 200935963843764225, 
+   "create_time": "Fri May 11 13:10:41 +0000 2012", 
+   "location": "Wilmington, Delaware", 
+   "retweeter_id": 65107446, 
+   "screen_name": "SyncreticInc"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1834152614/l__2__normal.jpg", 
+   "name": "rp-  on.fb.me/sAIX7I", 
+   "text": "Exa-Scale AndroidOS http://t.co/9dNQHFet Systems http://t.co/N2v6gN2T  http://t.co/BsnLAjPL", 
+   "tweet_id": 197658529312673795, 
+   "create_time": "Wed May 02 12:07:20 +0000 2012", 
+   "location": "1.usa.gov/asaOYG bit.ly/8D3pYx", 
+   "retweeter_id": 494465036, 
+   "screen_name": "Inthehighest1"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/344513261568533371/74725d57d3c9a7abd57224aa8ed2373e_normal.jpeg", 
+   "name": "Zeeshan Arif", 
+   "text": "They don't miss you when you're gone.. \r\nThey miss you when you're doing better..", 
+   "tweet_id": 197272384338792448, 
+   "create_time": "Tue May 01 10:32:56 +0000 2012", 
+   "location": "Saudi Arabia", 
+   "retweeter_id": 133639859, 
+   "screen_name": "ladecent"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1220789020/baris_profil_foto_normal.jpg", 
+   "name": "BARI\u015e MALKO\u00c7", 
+   "text": "D\u0130REN", 
+   "tweet_id": 195964765686861824, 
+   "create_time": "Fri Apr 27 19:56:55 +0000 2012", 
+   "location": "Istanbul ", 
+   "retweeter_id": 227964347, 
+   "screen_name": "baris_malkoc"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3538190629/4365f8b9b30e393a0d673d5eaf910eea_normal.jpeg", 
+   "name": "Ankit Kukadia", 
+   "text": "Chartered Accountant", 
+   "tweet_id": 195926581837959168, 
+   "create_time": "Fri Apr 27 17:25:11 +0000 2012", 
+   "location": "Mumbai", 
+   "retweeter_id": 146412465, 
+   "screen_name": "abkukadia"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000379996393/ed8284248720bae270226bfb79163449_normal.jpeg", 
+   "name": "Dazines Ltd", 
+   "text": "We're a web design company based in London offering uniquely designed, high-quality websites and SEO/marketing.", 
+   "tweet_id": 195644956533211136, 
+   "create_time": "Thu Apr 26 22:46:07 +0000 2012", 
+   "location": "London", 
+   "retweeter_id": 237285889, 
+   "screen_name": "dazines"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000605293692/c19a20f483f7b1c2d23a203d662bf3bf_normal.jpeg", 
+   "name": "U.S. Cellular", 
+   "text": "Come visit us on Sunset Ave or on Jeffrey's Rd", 
+   "tweet_id": 195521150028226561, 
+   "create_time": "Thu Apr 26 14:34:09 +0000 2012", 
+   "location": "Rocky Mount NC", 
+   "retweeter_id": 410055493, 
+   "screen_name": "USCCRockyMount"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2181079021/PuXugqpL_normal", 
+   "name": "Drake van der bosh", 
+   "text": "ArsenalSupporterTrust", 
+   "tweet_id": 195362834534772737, 
+   "create_time": "Thu Apr 26 04:05:04 +0000 2012", 
+   "location": "South East London", 
+   "retweeter_id": 563418104, 
+   "screen_name": "drakeVder"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/133831597/monkies2_normal.JPG", 
+   "name": "David", 
+   "text": "", 
+   "tweet_id": 195306882179674112, 
+   "create_time": "Thu Apr 26 00:22:43 +0000 2012", 
+   "location": "Wouldn't you like to know...", 
+   "retweeter_id": 30536794, 
+   "screen_name": "dtubbs06"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2907833181/ebedb05bd53c04b8c04b240681461424_normal.png", 
+   "name": "Office of IT", 
+   "text": "The Office of Information Technology provides operational, development, hardware and software services and support for Boise State University.", 
+   "tweet_id": 195273688990490624, 
+   "create_time": "Wed Apr 25 22:10:50 +0000 2012", 
+   "location": "Boise, ID", 
+   "retweeter_id": 40037180, 
+   "screen_name": "BoiseStateHelp"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000859820933/OdpdzYaL_normal.png", 
+   "name": "Alternate Instinct", 
+   "text": "AI is a niche internet marketing company located in Auckland NZ.", 
+   "tweet_id": 195254305673068546, 
+   "create_time": "Wed Apr 25 20:53:48 +0000 2012", 
+   "location": "Auckland, NZ", 
+   "retweeter_id": 142086125, 
+   "screen_name": "altinsnz"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1649010122/avatar_me_normal.JPG", 
+   "name": "Emil V", 
+   "text": "Trucker Owner Op father of two and fascinated by tech gadgets. Follow and I will follow back.", 
+   "tweet_id": 195195625820790784, 
+   "create_time": "Wed Apr 25 17:00:38 +0000 2012", 
+   "location": "42.632162,-83.090006", 
+   "retweeter_id": 45440734, 
+   "screen_name": "EmilVasile"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2956936725/b69e0a1603a2fbd9314941b4bfacfec7_normal.png", 
+   "name": "ETD", 
+   "text": "ETD a young entrepreneurial company, providing solutions in the field of Web, Mobile and Cloud-based Applications.", 
+   "tweet_id": 195052561311600640, 
+   "create_time": "Wed Apr 25 07:32:09 +0000 2012", 
+   "location": "Dubai - UAE", 
+   "retweeter_id": 225283794, 
+   "screen_name": "emadtech"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000257726793/98691f12bbe2396a11660d9dbb756c83_normal.jpeg", 
+   "name": "Mariano Fandos", 
+   "text": "Productor en Endemol Argentina", 
+   "tweet_id": 195051705770049537, 
+   "create_time": "Wed Apr 25 07:28:45 +0000 2012", 
+   "location": "Ciudad Jardin Palomar", 
+   "retweeter_id": 15001970, 
+   "screen_name": "flandoor"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3437133550/447f7096dcd4ee0fad5db7d5b148cac1_normal.jpeg", 
+   "name": "Klaas", 
+   "text": "Klaas. Vaak.", 
+   "tweet_id": 195049764067356672, 
+   "create_time": "Wed Apr 25 07:21:02 +0000 2012", 
+   "location": "Belgium", 
+   "retweeter_id": 217764264, 
+   "screen_name": "klaasballegeer"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411814234566057984/GQfVXAWI_normal.jpeg", 
+   "name": "Sander Hoogerwaard", 
+   "text": "", 
+   "tweet_id": 195047941851975682, 
+   "create_time": "Wed Apr 25 07:13:47 +0000 2012", 
+   "location": "Rotterdam", 
+   "retweeter_id": 520402914, 
+   "screen_name": "SanderH83"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000520581442/a5273941fc24c9391977c52f6b41b9c8_normal.jpeg", 
+   "name": "Amit Merchant", 
+   "text": "Digitally processed, Logically disappeared, occasional student of anger management classes and a PHP Programmer by choice http://t.co/YeD5SNS8dP", 
+   "tweet_id": 195046970421817344, 
+   "create_time": "Wed Apr 25 07:09:56 +0000 2012", 
+   "location": "Gujrat, India", 
+   "retweeter_id": 88370761, 
+   "screen_name": "amit_merchant"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1818093332/WG_2011_normal.jpg", 
+   "name": "Wojciech Gembalczyk", 
+   "text": "Passionate about consumerization of IT, smartphones, telco, e-commerce and social media.", 
+   "tweet_id": 195046305234558976, 
+   "create_time": "Wed Apr 25 07:07:17 +0000 2012", 
+   "location": "Poland", 
+   "retweeter_id": 313364966, 
+   "screen_name": "WG_PL"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000858026452/5L6V7xL8_normal.jpeg", 
+   "name": "\u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0bbe", 
+   "text": "I'm not stupid, I'm just too lazy to show how smart I am..read more http://t.co/sqb1i6SnUH", 
+   "tweet_id": 195042552527859713, 
+   "create_time": "Wed Apr 25 06:52:22 +0000 2012", 
+   "location": "Singapore / madurai", 
+   "retweeter_id": 122927962, 
+   "screen_name": "childchinna"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000384623795/7e57f5c3958984cef8945756be750921_normal.jpeg", 
+   "name": "\u0b8a\u0bae\u0b9a\u0bcd\u0b9a\u0bbf \u0ba8\u0bbe\u0baf\u0b95\u0ba9\u0bcd ", 
+   "text": "retweet \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0b93\u0baf\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0ba9\u0bcd", 
+   "tweet_id": 195039694805925888, 
+   "create_time": "Wed Apr 25 06:41:01 +0000 2012", 
+   "location": "\u0b9a\u0bbf\u0baf\u0bcb\u0bb2\u0bcd \u0b9f\u0bb5\u0bb0\u0bbf\u0bb2\u0bcd ", 
+   "retweeter_id": 429725150, 
+   "screen_name": "telangohere"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000554413255/fe15d419fbc816cc9a5bd851f3234a59_normal.jpeg", 
+   "name": "\u0b9a\u0bc6. \u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd", 
+   "text": "\u0b93\u0bb0\u0bb3\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bb2\u0bcd\u0bb2\u0bb5\u0ba9\u0bcd ;-)", 
+   "tweet_id": 195039629601284096, 
+   "create_time": "Wed Apr 25 06:40:46 +0000 2012", 
+   "location": "\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bb2\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1", 
+   "retweeter_id": 145930123, 
+   "screen_name": "SeSenthilkumar"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3531661129/9ba633cc2dfb1f53ced208f5a651920f_normal.jpeg", 
+   "name": "\u0b9a\u0bc1\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd", 
+   "text": "\u0baa\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bca\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe \u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd", 
+   "tweet_id": 195039068634087425, 
+   "create_time": "Wed Apr 25 06:38:32 +0000 2012", 
+   "location": "\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd", 
+   "retweeter_id": 220248696, 
+   "screen_name": "susthan18"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1828647007/gerald_27k_1__normal.jpg", 
+   "name": "gerald grangis", 
+   "text": "sales manager emea. for red lion / sixnet / ntron.", 
+   "tweet_id": 195034208454983681, 
+   "create_time": "Wed Apr 25 06:19:13 +0000 2012", 
+   "location": "FRANCE", 
+   "retweeter_id": 40192881, 
+   "screen_name": "geraldgrangis"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2523829092/R22rSzHj_normal", 
+   "name": "Paul Odero", 
+   "text": "Software Engineer.", 
+   "tweet_id": 195029168998711296, 
+   "create_time": "Wed Apr 25 05:59:12 +0000 2012", 
+   "location": "Nairobi, Kenya", 
+   "retweeter_id": 214334657, 
+   "screen_name": "paulodero"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1248003473/1c46501_normal.jpg", 
+   "name": "Michele Pagnucci", 
+   "text": "", 
+   "tweet_id": 195027182609895424, 
+   "create_time": "Wed Apr 25 05:51:18 +0000 2012", 
+   "location": "Piombino", 
+   "retweeter_id": 253975572, 
+   "screen_name": "michelepagnucci"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/66606787/188_normal.jpeg", 
+   "name": "ObiSkyWalker", 
+   "text": "", 
+   "tweet_id": 195027092361052160, 
+   "create_time": "Wed Apr 25 05:50:56 +0000 2012", 
+   "location": "Brno", 
+   "retweeter_id": 17933828, 
+   "screen_name": "ObiSkyWalker"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/962983994/alex_normal.jpg", 
+   "name": "Alex Pesold", 
+   "text": "Saint John Lover #livelifeuptown #peoplecity Technology buff, Linux and Open Source Software Enthusiast, Advocate and supporter of unconditional Love.", 
+   "tweet_id": 195022313106845696, 
+   "create_time": "Wed Apr 25 05:31:57 +0000 2012", 
+   "location": "Saint John, NB, Canada", 
+   "retweeter_id": 152394637, 
+   "screen_name": "alexpesold"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000854504946/aae96a4df6f8e71e9f45f13bb4925806_normal.jpeg", 
+   "name": "Shivam M", 
+   "text": "I am an instance i.e. object of my own class, so all those who know me is via this object only; n not all methods n variables are accessible outside the class!", 
+   "tweet_id": 195020867401555968, 
+   "create_time": "Wed Apr 25 05:26:12 +0000 2012", 
+   "location": "Dilli", 
+   "retweeter_id": 110389013, 
+   "screen_name": "Observer68"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000774823696/66733819f7b535dd2942e1cd09f87d35_normal.jpeg", 
+   "name": "luckymichellangelo", 
+   "text": "jazzyrockboy", 
+   "tweet_id": 195017838740770816, 
+   "create_time": "Wed Apr 25 05:14:10 +0000 2012", 
+   "location": "Gran Central hotel", 
+   "retweeter_id": 555216120, 
+   "screen_name": "shinejulliette"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2698317218/5cdd724cc9905b60708bc8af11225655_normal.png", 
+   "name": "Adeel Ijaz", 
+   "text": "Software developer, Cricketer (Preston Cricket Club, Melbourne, Australia), M.S. in Computer Science", 
+   "tweet_id": 195014556567879681, 
+   "create_time": "Wed Apr 25 05:01:08 +0000 2012", 
+   "location": "Melbourne, Australia", 
+   "retweeter_id": 70322173, 
+   "screen_name": "AdeelIjaz49"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000556603301/ca6fb2ada18308cd795f619abd2f5a12_normal.png", 
+   "name": "Xavier Van Herpe", 
+   "text": "PHP developer for belgian railway, using eZ Publish (4 & 5), Symfony\u00b2 ...", 
+   "tweet_id": 195002766219948032, 
+   "create_time": "Wed Apr 25 04:14:17 +0000 2012", 
+   "location": "Mons, Belgium", 
+   "retweeter_id": 6159042, 
+   "screen_name": "taenadil"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/330219438/IMG_0024_normal.JPG", 
+   "name": "J\u0101nis Mucenieks", 
+   "text": "", 
+   "tweet_id": 194999958695460864, 
+   "create_time": "Wed Apr 25 04:03:07 +0000 2012", 
+   "location": "Latvija", 
+   "retweeter_id": 59578093, 
+   "screen_name": "maucenaiks"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1318105753/Untitled1_normal.jpg", 
+   "name": "Atul Varaskar", 
+   "text": "That I.T guy, Lotus Notes/Domino Administrator, Music Fanatic, Gadget Lover and a happy go lucky guy.", 
+   "tweet_id": 194995119731126272, 
+   "create_time": "Wed Apr 25 03:43:54 +0000 2012", 
+   "location": "Mumbai, India", 
+   "retweeter_id": 15796454, 
+   "screen_name": "technofunky"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000593604123/6baaf86ec0c5f9e1142f7fa27e5916d0_normal.jpeg", 
+   "name": "( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)", 
+   "text": "Al\u00f4 al\u00f4, gra\u00e7as a deus!", 
+   "tweet_id": 194989533190828033, 
+   "create_time": "Wed Apr 25 03:21:42 +0000 2012", 
+   "location": "S\u00e3o Paulo, Brazil", 
+   "retweeter_id": 25396369, 
+   "screen_name": "eduaxx"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000498649791/cf47dd8f4dcbda311c61e62c87695893_normal.jpeg", 
+   "name": "Sebasti\u00e1n Luzuriaga", 
+   "text": "Ing Comercial, emprendedor , apasionado del deporte", 
+   "tweet_id": 194985789925494784, 
+   "create_time": "Wed Apr 25 03:06:49 +0000 2012", 
+   "location": "Guayaquil", 
+   "retweeter_id": 74780895, 
+   "screen_name": "sebasluzu"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3755398545/2b8b1e1e92cc154f466768b0d31d27e9_normal.jpeg", 
+   "name": "Narayan Babu", 
+   "text": "a curious soul who loves music, art, technology. Founder CEO @Dexetra", 
+   "tweet_id": 194985561952497664, 
+   "create_time": "Wed Apr 25 03:05:55 +0000 2012", 
+   "location": "Bangalore , India", 
+   "retweeter_id": 7399812, 
+   "screen_name": "nyn"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1718214910/Copy_of_Copy_of_SDC12496_ojos_rojos_normal.jpg", 
+   "name": "Mariano", 
+   "text": "", 
+   "tweet_id": 194968899840786432, 
+   "create_time": "Wed Apr 25 01:59:42 +0000 2012", 
+   "location": "Argentina", 
+   "retweeter_id": 443070961, 
+   "screen_name": "Mariano_ut"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2117633889/5660_117278631025_782161025_2382988_857697_n_normal.jpg", 
+   "name": "Leon Lopez", 
+   "text": "App developer for smartphones (iOS and Android devices) - Elance developer & computer games passionate", 
+   "tweet_id": 194959570664292352, 
+   "create_time": "Wed Apr 25 01:22:38 +0000 2012", 
+   "location": "Andalucia - Spain", 
+   "retweeter_id": 271114459, 
+   "screen_name": "loewenx"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1248765348/ME_normal.JPG", 
+   "name": "Jaspreet Sethi", 
+   "text": "Excellent Quote by Osho Rajneesh..... \r\nI am responsible for what I Speak, \r\nBut Not for what you Understood.", 
+   "tweet_id": 194957749921136640, 
+   "create_time": "Wed Apr 25 01:15:24 +0000 2012", 
+   "location": "Dubai", 
+   "retweeter_id": 83302033, 
+   "screen_name": "sethijs"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000777359088/5b02a3bf129caa1bd22f52fc8e4c193b_normal.jpeg", 
+   "name": "Muhammad Bustami Y", 
+   "text": "imagine", 
+   "tweet_id": 194957050030206976, 
+   "create_time": "Wed Apr 25 01:12:37 +0000 2012", 
+   "location": "Aichi Prefecture", 
+   "retweeter_id": 355207171, 
+   "screen_name": "mubuya"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000174539982/0b34b8a1dd7a231e714d032667224163_normal.jpeg", 
+   "name": "Tom Pollock", 
+   "text": "Editor of @melbfootball. Proud @LFC & @Atleti fan.", 
+   "tweet_id": 194957018715537408, 
+   "create_time": "Wed Apr 25 01:12:30 +0000 2012", 
+   "location": "Melbourne, Australia", 
+   "retweeter_id": 226348697, 
+   "screen_name": "tomwrp"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3389022816/1c2c502651e7b1485f59a38b0be3496b_normal.jpeg", 
+   "name": "Matt", 
+   "text": "[ Insert Biography Text Here ] :D", 
+   "tweet_id": 194956221470621697, 
+   "create_time": "Wed Apr 25 01:09:19 +0000 2012", 
+   "location": "Michigan", 
+   "retweeter_id": 13459032, 
+   "screen_name": "djrythem"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/697098840/cartoom_normal.jpg", 
+   "name": "Alexandro Pastore", 
+   "text": "InfoSec CISSP Android Geek Gadgets Food Astronomy Photography Stocks", 
+   "tweet_id": 194956208422141956, 
+   "create_time": "Wed Apr 25 01:09:16 +0000 2012", 
+   "location": "Brasil", 
+   "retweeter_id": 104650832, 
+   "screen_name": "pastorealex"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2867667457/9386f309f1abfd7daab210fc9c86cff5_normal.png", 
+   "name": "Steven Chang", 
+   "text": "Football. Politics (radical Left). Melbourne Victory. I write football things for @melbfootball & run @MVFCNEWS. I support #MVFC #LFC & #BVB.", 
+   "tweet_id": 194950523584135168, 
+   "create_time": "Wed Apr 25 00:46:41 +0000 2012", 
+   "location": "AAMI Park, Melbourne", 
+   "retweeter_id": 49180207, 
+   "screen_name": "Gixibyte"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2636122391/1543ab33b7025d88775572bbc49d2ecb_normal.jpeg", 
+   "name": "Bruno Moura", 
+   "text": "Jornalista | retu\u00edtes n\u00e3o s\u00e3o necessariamente endossos.", 
+   "tweet_id": 194948368831758338, 
+   "create_time": "Wed Apr 25 00:38:07 +0000 2012", 
+   "location": "Rio de Janeiro, Brasil", 
+   "retweeter_id": 138320997, 
+   "screen_name": "brunofmoura"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000236917443/551dc319b24ffea799038dde97ad2430_normal.jpeg", 
+   "name": "Liz", 
+   "text": "My loves: #family #dallascowboys #rabbitohs #champagne #wine #shoes", 
+   "tweet_id": 194948034612830209, 
+   "create_time": "Wed Apr 25 00:36:48 +0000 2012", 
+   "location": "Texas", 
+   "retweeter_id": 21125018, 
+   "screen_name": "LizFarmer"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/344513261572475212/428eaf7e9c9cbdf84ff3fef97d088002_normal.png", 
+   "name": "pOH7", 
+   "text": "#Tweedle; #Nexus 4 (KOT49H); #earpods; #Ingress Level 7; #Windows 8.1; #Google Chrome; #steam DOTA 2; #music Linkin Park; #AKG K450; #ZUNE; #Anime", 
+   "tweet_id": 194946895146258432, 
+   "create_time": "Wed Apr 25 00:32:16 +0000 2012", 
+   "location": "\u626c\u5dde\u5927\u5b66", 
+   "retweeter_id": 441749776, 
+   "screen_name": "pOHVII"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2280479194/avatar_normal.JPEG", 
+   "name": "WeSay", 
+   "text": "While we're here we might as well do our best, right?", 
+   "tweet_id": 194944597330378752, 
+   "create_time": "Wed Apr 25 00:23:08 +0000 2012", 
+   "location": "Downtown", 
+   "retweeter_id": 31014923, 
+   "screen_name": "aWisseh"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000863119194/N_H-5ln3_normal.jpeg", 
+   "name": "\u7e54\u4ec1", 
+   "text": "\u3042\u304b\u306b\u3057\u541b\u5fdc\u63f4\u3057\u3066\u307e\u3059\u3002\u6d0b\u697d \u90a6\u697d \u307e\u305f\u30a8\u30f3\u30bf\u30fc\u30c6\u30a3\u30e1\u30f3\u30c8\u597d\u304d\u3067\u3059\uff01\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059(*^^*)", 
+   "tweet_id": 194943066380050434, 
+   "create_time": "Wed Apr 25 00:17:03 +0000 2012", 
+   "location": "\u65e5\u51fa\u308b\u56fd", 
+   "retweeter_id": 189847969, 
+   "screen_name": "orijin7420"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1832162554/6XJ0vXjD_normal", 
+   "name": "Eduardo Goytizolo", 
+   "text": "", 
+   "tweet_id": 194941983901495299, 
+   "create_time": "Wed Apr 25 00:12:45 +0000 2012", 
+   "location": "Hoy aqu\u00ed, ma\u00f1ana sabe Dios...", 
+   "retweeter_id": 72042524, 
+   "screen_name": "edugoyti"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1787660121/IMG_0045_-_Karen_Burn_Grunge1_-_Copy_normal.jpg", 
+   "name": "Fenil Desai", 
+   "text": "The Opening Batsman - A cricketer by heart & a developer by mistake....", 
+   "tweet_id": 194941323588018176, 
+   "create_time": "Wed Apr 25 00:10:08 +0000 2012", 
+   "location": "Pune,Maharashtra", 
+   "retweeter_id": 17698806, 
+   "screen_name": "fenildesai"
+  }
+ ], 
+ "395975079999197185": [], 
+ "322043387832324096": [], 
+ "374933880916033537": [], 
+ "185117144651018240": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000825654572/7360bd65b8da86bec577159870918a27_normal.jpeg", 
+   "name": "-EDUARDO", 
+   "text": "Esse mundo \u00e9 fantastico", 
+   "tweet_id": 353946700001452032, 
+   "create_time": "Sun Jul 07 18:40:43 +0000 2013", 
+   "location": "Oh!", 
+   "retweeter_id": 1566410006, 
+   "screen_name": "EduardoArno"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3131385031/e56bf4efa4404e6bf581b5c935f25fa7_normal.jpeg", 
+   "name": "Oliver Klozzof ", 
+   "text": "#40 runnin rebels power forward btw im cashed out hoe #LTG", 
+   "tweet_id": 221287590333132801, 
+   "create_time": "Fri Jul 06 17:00:47 +0000 2012", 
+   "location": "chicago illinois", 
+   "retweeter_id": 628016140, 
+   "screen_name": "budz3r0"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2260253211/314898_198902833512660_100001788348510_472734_1244891521_n_normal.jpg", 
+   "name": "Malcolm", 
+   "text": "Fun loving, Full of humour, Kind, Gentle, Meek, Dilligent, Persistent & i love http://t.co/chqZu4rM01", 
+   "tweet_id": 214072087978061824, 
+   "create_time": "Sat Jun 16 19:08:57 +0000 2012", 
+   "location": "Pune", 
+   "retweeter_id": 577139935, 
+   "screen_name": "MalcolmiLeader"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000313710330/c99839ef32ab0fb83ef9c482b4d0cb46_normal.png", 
+   "name": "\u25cf\u0e4b\u2022Robustter\u25cf\u0e4b\u2022 \u2642", 
+   "text": "Copyright \u00a9 ROBUSTTER DOWNLOADS \u2013 O Mundo \u00e9 seu! - Download de Programas, Aplicativos Android, Games e Emuladores - Powered by Robustter", 
+   "tweet_id": 209739969298841602, 
+   "create_time": "Mon Jun 04 20:14:40 +0000 2012", 
+   "location": "Brazil.", 
+   "retweeter_id": 85461600, 
+   "screen_name": "robustter"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000825235653/7c614714156b065ef3a3ec76dbf29230_normal.jpeg", 
+   "name": "fitri sakinah surati", 
+   "text": "diCubit balas tojok !! \r\n\r\nPart of @ladiessensasi n join us :) \r\n\r\nPublic health at muhammadiyah\r\nuniversity of Prof. DR. Hamka", 
+   "tweet_id": 207885316986642432, 
+   "create_time": "Wed May 30 17:24:56 +0000 2012", 
+   "location": "slipi, jakarta", 
+   "retweeter_id": 263059976, 
+   "screen_name": "fitrisakinahG"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2212851354/8RKpY9Gc_normal", 
+   "name": "Akhil Raj", 
+   "text": "nothing to say !", 
+   "tweet_id": 201393228270936064, 
+   "create_time": "Sat May 12 19:27:41 +0000 2012", 
+   "location": "India", 
+   "retweeter_id": 557879356, 
+   "screen_name": "bystwn2"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000332947209/f57db62147a7179a4a532c142b9072a2_normal.jpeg", 
+   "name": "Firdausi", 
+   "text": "Gamers\\Android4.3\\iOS7\\SONY\\WatchDogs\\TalkLessDoMore\\PES'14\\ProjectCJ", 
+   "tweet_id": 192492206634975232, 
+   "create_time": "Wed Apr 18 05:58:13 +0000 2012", 
+   "location": "SMPN252JKT / WORLD", 
+   "retweeter_id": 289782851, 
+   "screen_name": "F_A_R_23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3027799477/d89e70687aec3da5c9fcc0527fd5c9f6_normal.jpeg", 
+   "name": "Randriamihaingo", 
+   "text": "", 
+   "tweet_id": 191891390274338817, 
+   "create_time": "Mon Apr 16 14:10:47 +0000 2012", 
+   "location": "Clairac", 
+   "retweeter_id": 242337202, 
+   "screen_name": "randlz"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000835858054/dfa65b8bac62de893b32d045e1ec82b1_normal.jpeg", 
+   "name": "Ngobrol Android", 
+   "text": "Disini tempat berbagi info seputar Android , Promo Harga , AndroidGames , Aplikasi Android , Tanya Jawab, Rekomendasi hape ,dll ;)", 
+   "tweet_id": 191868365072113666, 
+   "create_time": "Mon Apr 16 12:39:17 +0000 2012", 
+   "location": "Indonesia", 
+   "retweeter_id": 30153772, 
+   "screen_name": "NgobrolAndroid"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000525351536/34bf4d9a86e7f2c13769091e89e103c4_normal.jpeg", 
+   "name": "Joony", 
+   "text": "Mobile developer.", 
+   "tweet_id": 190818747496402944, 
+   "create_time": "Fri Apr 13 15:08:29 +0000 2012", 
+   "location": "Copenhagen", 
+   "retweeter_id": 7560172, 
+   "screen_name": "Joony"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000823997951/55a02150460ba577368783f7fc0ebe21_normal.jpeg", 
+   "name": "Mohamed Elbanhawi", 
+   "text": "\u0633\u0644\u0627\u0645 \u0644\u0623\u0631\u0636 \u062e\u0644\u0642\u062a \u0644\u0644\u0633\u0644\u0627\u0645\u060c \u0645\u0627 \u0631\u0623\u062a \u064a\u0648\u0645\u0627\u064b \u0633\u0644\u0627\u0645\u0627\u064b", 
+   "tweet_id": 187396085868797952, 
+   "create_time": "Wed Apr 04 04:28:03 +0000 2012", 
+   "location": "Melbourne/Alexandria", 
+   "retweeter_id": 116898750, 
+   "screen_name": "ELBANHAWI"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000836264230/efa04829e23caa3584369872fac5e3f9_normal.jpeg", 
+   "name": "elice", 
+   "text": "11", 
+   "tweet_id": 187389667409272832, 
+   "create_time": "Wed Apr 04 04:02:32 +0000 2012", 
+   "location": "Gianyar, Bali", 
+   "retweeter_id": 241821312, 
+   "screen_name": "maransikaputrii"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1260410911/Photo_GM_normal.png", 
+   "name": "Gael MUSQUET", 
+   "text": "Chairman of OpenStreetMap France. I'm just a westindian who loves Caribbean, Debian, OpenStreetMap, H4cks. In charge of OpenData and Maps @lafonderie_idf", 
+   "tweet_id": 187282203749781504, 
+   "create_time": "Tue Apr 03 20:55:31 +0000 2012", 
+   "location": "http://osm.org/go/YzRSqc5T-", 
+   "retweeter_id": 97231658, 
+   "screen_name": "RatZillaS"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1436238344/ln_normal.jpg", 
+   "name": "Victor M. Santos", 
+   "text": "Publicit\u00e1rio metido a entendedor de tecnologia", 
+   "tweet_id": 187272655085371392, 
+   "create_time": "Tue Apr 03 20:17:34 +0000 2012", 
+   "location": "Rio de Janeiro", 
+   "retweeter_id": 332477102, 
+   "screen_name": "vitutim"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2581706206/v3g0808py51xh8csn2n1_normal.jpeg", 
+   "name": "Orkhan Rza", 
+   "text": "", 
+   "tweet_id": 187236822441656320, 
+   "create_time": "Tue Apr 03 17:55:11 +0000 2012", 
+   "location": "fokin hyel", 
+   "retweeter_id": 534416480, 
+   "screen_name": "OrkhanR"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000790936378/a554953a751a92ff224ac15b9982a86f_normal.jpeg", 
+   "name": "Suprema!", 
+   "text": "Esquecendo tudo desde mil novecentos e alguma coisa! @ClubeFollowBack", 
+   "tweet_id": 186998559374196738, 
+   "create_time": "Tue Apr 03 02:08:25 +0000 2012", 
+   "location": "burn witch, burn!", 
+   "retweeter_id": 40913305, 
+   "screen_name": "justbeingmarcio"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2020852878/PyracleLogo_normal.jpg", 
+   "name": "Pyracle", 
+   "text": "Mobile app geniuses", 
+   "tweet_id": 186913772722585600, 
+   "create_time": "Mon Apr 02 20:31:30 +0000 2012", 
+   "location": "UK", 
+   "retweeter_id": 528875238, 
+   "screen_name": "Pyracle"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000655438109/69ac36622c27fc7e696f586d7ae02bff_normal.jpeg", 
+   "name": "Shubz", 
+   "text": "Front-end and Ruby on Rails extremist. @Ony777 lover.", 
+   "tweet_id": 186731239967948801, 
+   "create_time": "Mon Apr 02 08:26:11 +0000 2012", 
+   "location": "BFD/NYC", 
+   "retweeter_id": 358227694, 
+   "screen_name": "shubzinator"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1981835355/IMAG0206_normal.jpg", 
+   "name": "Engel", 
+   "text": "Buscado por el cielo, odiado por el infierno. Un caballero sin alma ni corazon.", 
+   "tweet_id": 186437357271130112, 
+   "create_time": "Sun Apr 01 12:58:24 +0000 2012", 
+   "location": "Eshta-dan, Guatemala", 
+   "retweeter_id": 309360301, 
+   "screen_name": "Shaduck_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000116971271/d1a6a841eb611623587a73a2a9b87c26_normal.png", 
+   "name": "Raanjhanaa \u2665", 
+   "text": "Affection, patience & adjusting nature.. Only these are foundations of love.The DREAM is not that you see in sleep , DREAM is which does not let you sleep.", 
+   "tweet_id": 186405172900151296, 
+   "create_time": "Sun Apr 01 10:50:31 +0000 2012", 
+   "location": "Hell", 
+   "retweeter_id": 154079192, 
+   "screen_name": "damoReacher"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3762027306/09489f3af8d46d528ff47d9ca16267b4_normal.jpeg", 
+   "name": "Marvin Castillo", 
+   "text": "PC gamer and hardware enthusiast, open source advocate and hater. Metalhead but open mind, and enjoy weeaboo shit like anime and manga, some western comics too.", 
+   "tweet_id": 186318402288230403, 
+   "create_time": "Sun Apr 01 05:05:43 +0000 2012", 
+   "location": "Guatemala", 
+   "retweeter_id": 35412629, 
+   "screen_name": "mcastilloy2k"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411784147653234688/oEXh3JtE_normal.png", 
+   "name": " \u0644\u0640\u0640\u0640\u0640\u0624\u064a\u0651  \u2601", 
+   "text": "\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u0645\u062d\u0628 \u0644\u0640  \u0627\u0644\u062a\u0635\u0640\u0648\u064a\u0631 \u25aa \u0627\u0644\u0640\u0631\u0633\u0645 \u25ab \u0627\u0644\u062a\u0640\u0631\u062c\u0645\u0629 \u25aa \u0627\u0644\u062a\u0640\u0635\u0645\u064a\u0645 \u25ab \u0627\u0644\u0639\u0640\u0632\u0641 \u25aa \u0627\u0644\u062c\u0640\u064a\u0645\u0632 \u25ab \u0627\u0644\u062a\u0642\u0646\u064a\u0640\u0640\u0629 \u25aa \u0627\u0644\u0642\u0640\u0631\u0627\u0621\u0629", 
+   "tweet_id": 186075043648901121, 
+   "create_time": "Sat Mar 31 12:58:42 +0000 2012", 
+   "location": "\u2601 TUMBLR \u21e8", 
+   "retweeter_id": 403958610, 
+   "screen_name": "luayprince"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000823416827/96aeeebe1b07a4fb3c822a81e5b3670f_normal.jpeg", 
+   "name": "Henda", 
+   "text": "Musician, tech addict, guitarist, singer, songwriter. My Project: @TRUELIFE_HC (Lead Guitar) ~ MATERIALS LEFT ASIDE ~ NAMELESS LIBERTY SIXTH GUNS ~ CRISSxCROSS", 
+   "tweet_id": 185991735711772672, 
+   "create_time": "Sat Mar 31 07:27:40 +0000 2012", 
+   "location": "BDG, INA", 
+   "retweeter_id": 238548657, 
+   "screen_name": "HendaBastian"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2658408333/237a22f286feefa6368fae0d384a0a5c_normal.jpeg", 
+   "name": "Avril Number 1", 
+   "text": "I will Smile if u call me Darlin!!I won't say Goodbye to u and Wish You Were Here!!What The Hell,ur name is Avril not Alice", 
+   "tweet_id": 185975825517117442, 
+   "create_time": "Sat Mar 31 06:24:26 +0000 2012", 
+   "location": "Somewhere at Puchong", 
+   "retweeter_id": 372318465, 
+   "screen_name": "ILoveAvril___"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1372101693/8_normal.jpg", 
+   "name": "Alessandro Beggi", 
+   "text": "", 
+   "tweet_id": 185967625824768001, 
+   "create_time": "Sat Mar 31 05:51:51 +0000 2012", 
+   "location": "Reggio Emilia", 
+   "retweeter_id": 193438619, 
+   "screen_name": "il_bez"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000566801315/ffd3e66616d58966ba8089037b30e66d_normal.png", 
+   "name": "Robin Caroff", 
+   "text": "French technology enthusiast, full time Developer and Rugby fan", 
+   "tweet_id": 185852779053584384, 
+   "create_time": "Fri Mar 30 22:15:30 +0000 2012", 
+   "location": "Manchester", 
+   "retweeter_id": 117882522, 
+   "screen_name": "RobinCaroff"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1817762538/image_normal.jpg", 
+   "name": "Anuj Gargeya", 
+   "text": "", 
+   "tweet_id": 185749103001612289, 
+   "create_time": "Fri Mar 30 15:23:31 +0000 2012", 
+   "location": "India", 
+   "retweeter_id": 469521482, 
+   "screen_name": "anujgargeya"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3742665916/e4d3f8046736b8ec263b910010b94da5_normal.jpeg", 
+   "name": "Ciar\u00e1n Walsh", 
+   "text": "Project Manager (http://t.co/MTRu9R3p) and technology enthusiast", 
+   "tweet_id": 185725843950153729, 
+   "create_time": "Fri Mar 30 13:51:06 +0000 2012", 
+   "location": "Dublin, Ireland", 
+   "retweeter_id": 22832814, 
+   "screen_name": "ciaran_walsh"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1870562059/IMG_3858_700k_normal.jpg", 
+   "name": "Anselmo Rucci", 
+   "text": "You can often find me pressing the mouse button just as often you can see me pushing the shutter release button of my Canon.", 
+   "tweet_id": 185685274901229569, 
+   "create_time": "Fri Mar 30 11:09:54 +0000 2012", 
+   "location": "@Roma", 
+   "retweeter_id": 15056489, 
+   "screen_name": "am5i5"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3692235704/ea8e06341a3e21db154acdc49de783ed_normal.jpeg", 
+   "name": "Robert Andrew Grant", 
+   "text": "Recent graduate (twice over) actively seeks career in return for pluckiness.", 
+   "tweet_id": 185679543405780992, 
+   "create_time": "Fri Mar 30 10:47:07 +0000 2012", 
+   "location": "Southwark", 
+   "retweeter_id": 26177601, 
+   "screen_name": "shitone"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1945836630/281774_2207614918817_1500768507_2489961_4128075_n_normal.jpg", 
+   "name": "Brando Meniconi", 
+   "text": "Head Developer @fuoricentro", 
+   "tweet_id": 185670195858259969, 
+   "create_time": "Fri Mar 30 10:09:58 +0000 2012", 
+   "location": "Firenze ", 
+   "retweeter_id": 114796964, 
+   "screen_name": "brandomeniconi"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000844280962/eb1ebf3066237356151d51938533500c_normal.jpeg", 
+   "name": "Hardeep", 
+   "text": "Conspiracist. Believes in the coattail effect. Maybe a demagogue. Devious. Radical right. Maybe an agent provocateur.", 
+   "tweet_id": 185625902154121217, 
+   "create_time": "Fri Mar 30 07:13:58 +0000 2012", 
+   "location": "Kuala Lumpur, Malaysia.", 
+   "retweeter_id": 268597454, 
+   "screen_name": "hardeepsidhu28"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000007420923/348ad58474e5880e03541f25a7bdda3c_normal.jpeg", 
+   "name": "ruhrschnellweg", 
+   "text": "Screaming for mercy in nineteen languages, and just screaming in another forty-four.", 
+   "tweet_id": 185623800384204800, 
+   "create_time": "Fri Mar 30 07:05:37 +0000 2012", 
+   "location": "Ruhrgebiet, Germany", 
+   "retweeter_id": 46554199, 
+   "screen_name": "ruhrschnellweg"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/623867767/meee_normal.jpg", 
+   "name": "Suryadevi Balarajan", 
+   "text": "", 
+   "tweet_id": 185620167420674048, 
+   "create_time": "Fri Mar 30 06:51:11 +0000 2012", 
+   "location": "Chennai", 
+   "retweeter_id": 103773497, 
+   "screen_name": "suryabalarajan"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1148154781/DSC_3026_normal.jpg", 
+   "name": "Pierrick Martino", 
+   "text": "Consultant for Capital Banking Solutions, Monaco", 
+   "tweet_id": 185617942141087745, 
+   "create_time": "Fri Mar 30 06:42:20 +0000 2012", 
+   "location": "Monaco ", 
+   "retweeter_id": 59449274, 
+   "screen_name": "PierrickMartino"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000182740711/d349f2f7ecb50b2356fa70e3ebdccb1d_normal.jpeg", 
+   "name": "Luis Felipe Ribas ", 
+   "text": "Sou um ser simples com grande car\u00e1ter, mantenho minha boa postura no meio de tanta ignorancia e falcidade.   me sigam no instagram luis_ribas18", 
+   "tweet_id": 185612038624653313, 
+   "create_time": "Fri Mar 30 06:18:53 +0000 2012", 
+   "location": "viam\u00e3o RS", 
+   "retweeter_id": 476054419, 
+   "screen_name": "luis_ribas18"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000508668935/6270afff37ce8535ac5bf6d399aad8db_normal.png", 
+   "name": "Gladi Ad", 
+   "text": "K A D E S", 
+   "tweet_id": 185611692636516352, 
+   "create_time": "Fri Mar 30 06:17:30 +0000 2012", 
+   "location": "Balai Kota", 
+   "retweeter_id": 521898555, 
+   "screen_name": "gladi_ad"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1291067180/RodrigoMitre_normal.jpg", 
+   "name": "Rodrigo Mitre", 
+   "text": "", 
+   "tweet_id": 185566052422389760, 
+   "create_time": "Fri Mar 30 03:16:09 +0000 2012", 
+   "location": "Brazil", 
+   "retweeter_id": 59555552, 
+   "screen_name": "rmitre"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2158205306/a71RTILD_normal", 
+   "name": "Tony Johnson", 
+   "text": "Political Commentator", 
+   "tweet_id": 185562993327734785, 
+   "create_time": "Fri Mar 30 03:03:59 +0000 2012", 
+   "location": "27103", 
+   "retweeter_id": 416194552, 
+   "screen_name": "realgjohnson5"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2456551739/ykte3eteby7g725lxiyd_normal.jpeg", 
+   "name": "Bruno Freitas", 
+   "text": "Analista de sistemas, m\u00fasico e fot\u00f3grafo amador. Aqui rola um pouco de tudo e do meu cotidiano. Bem vindo(a)!", 
+   "tweet_id": 185526700682121216, 
+   "create_time": "Fri Mar 30 00:39:47 +0000 2012", 
+   "location": "Rio de Janeiro", 
+   "retweeter_id": 14943533, 
+   "screen_name": "brunofreitas"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000121802511/2e091ebc8f780ea954f2a4c2b5bfe9be_normal.jpeg", 
+   "name": "Rubbi Widiantoro", 
+   "text": "Father and Freelancer - Social Media Specialist", 
+   "tweet_id": 185520071530131456, 
+   "create_time": "Fri Mar 30 00:13:26 +0000 2012", 
+   "location": "Jakarta - Indonesia", 
+   "retweeter_id": 78260291, 
+   "screen_name": "RubbiKu"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000729997319/654f7daff75fac59bcd4aa356741eb98_normal.jpeg", 
+   "name": "Alberto Fernandez", 
+   "text": "Programador Web, Instructor de Spinning y TRX, apasionado de la F1 y de los gadgets con Android a la cabeza. Fotografo aficionado", 
+   "tweet_id": 185479014318747649, 
+   "create_time": "Thu Mar 29 21:30:17 +0000 2012", 
+   "location": "Lorca", 
+   "retweeter_id": 81403333, 
+   "screen_name": "AlbertoFL"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2156543610/dolphin4_normal.jpg", 
+   "name": "Vitaliy Dovbysh", 
+   "text": "", 
+   "tweet_id": 185478200590213120, 
+   "create_time": "Thu Mar 29 21:27:03 +0000 2012", 
+   "location": "Kharkiv", 
+   "retweeter_id": 35857733, 
+   "screen_name": "mrvital"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000062613692/f22340f49bceb2e185c7406bea9ecbef_normal.png", 
+   "name": "Oscar Ros Gurrea", 
+   "text": "Respirando tecnolog\u00eda desde 1986", 
+   "tweet_id": 185467178680717312, 
+   "create_time": "Thu Mar 29 20:43:15 +0000 2012", 
+   "location": "Spain", 
+   "retweeter_id": 47613635, 
+   "screen_name": "Rossyafk"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000595300794/a452b4aca99195a620584525b8113e8c_normal.png", 
+   "name": "Valentin Planche", 
+   "text": "@ISCOM Montpellier Market Pub 2 en cours. Designer digital et print. Pass\u00e9 par @TVSUD et @_lasourisverte", 
+   "tweet_id": 185465054148313090, 
+   "create_time": "Thu Mar 29 20:34:49 +0000 2012", 
+   "location": "Montpellier", 
+   "retweeter_id": 185182980, 
+   "screen_name": "ValentinPlanche"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1705816222/386371_2183448467493_1285433628_31937636_577082607_n_3__normal.jpg", 
+   "name": "Abdullah AlShaikh", 
+   "text": "Web Developer, That Is All.", 
+   "tweet_id": 185447109259051008, 
+   "create_time": "Thu Mar 29 19:23:30 +0000 2012", 
+   "location": "Kuwait", 
+   "retweeter_id": 67857301, 
+   "screen_name": "AlShai5"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000614969952/4b18a7af5aabff0815b3d7b5b99eba91_normal.jpeg", 
+   "name": "Miguel.", 
+   "text": "Engineer. Devops Enthusiast. Linux Ninja. Her's Truly.", 
+   "tweet_id": 185441834674294785, 
+   "create_time": "Thu Mar 29 19:02:33 +0000 2012", 
+   "location": "Porto, Portugal", 
+   "retweeter_id": 145042832, 
+   "screen_name": "miguelcnf"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2389427532/xe9cc7ilkq8u9k13uifx_normal.jpeg", 
+   "name": "HyperContent", 
+   "text": "D\u00e9bat sur ACTA    http://t.co/M5meuSj32g", 
+   "tweet_id": 185439814680723456, 
+   "create_time": "Thu Mar 29 18:54:31 +0000 2012", 
+   "location": "France", 
+   "retweeter_id": 44192317, 
+   "screen_name": "acheteunandroid"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1938002658/dharma-initiative_normal.jpg", 
+   "name": "Saidjarrah", 
+   "text": "#News #Macbook #Apple #Android #Freebox #HpTouchpad #series #cinema #Reggae #GalaxyS4 #FreeMobile............   =^..^=", 
+   "tweet_id": 185436997605793792, 
+   "create_time": "Thu Mar 29 18:43:20 +0000 2012", 
+   "location": "77, France", 
+   "retweeter_id": 122790969, 
+   "screen_name": "saidjarrah"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3759710105/7b4524f993db27d6f427e52ef1cceb7b_normal.png", 
+   "name": "Jeroen Prins", 
+   "text": "", 
+   "tweet_id": 185428540458663937, 
+   "create_time": "Thu Mar 29 18:09:43 +0000 2012", 
+   "location": "Gelderland, Arnhem", 
+   "retweeter_id": 23091687, 
+   "screen_name": "PrinsJeroen"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2966272062/a29b4dac5cc34f22f4a23adc554f03c6_normal.jpeg", 
+   "name": "\u2694 Ed\uf8ff Firmansyah \u2694", 
+   "text": "android \u25a0 Diponegoro University \u25a0 Al-Muharrik Syi'ar Staff \u25a0 48 Family \u25a0 http://t.co/afSSSQyNfa", 
+   "tweet_id": 185426420514828288, 
+   "create_time": "Thu Mar 29 18:01:18 +0000 2012", 
+   "location": "AKB48\u5287\u5834 @35.700735,139.771886", 
+   "retweeter_id": 105433953, 
+   "screen_name": "edoutensei"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/421266424/1__11__normal.jpg", 
+   "name": "Pedro Vicente ", 
+   "text": "A foul led by love & tragedy...\r\nalso Android Developer & geek...", 
+   "tweet_id": 185413036633366528, 
+   "create_time": "Thu Mar 29 17:08:07 +0000 2012", 
+   "location": " Coimbra", 
+   "retweeter_id": 22836268, 
+   "screen_name": "neteinstein"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1849252595/img_normal.jpg", 
+   "name": "Benoit RIPERT", 
+   "text": "Business Intelligence Consultant", 
+   "tweet_id": 185411003113152512, 
+   "create_time": "Thu Mar 29 17:00:02 +0000 2012", 
+   "location": "France / Canada", 
+   "retweeter_id": 96560844, 
+   "screen_name": "benoitripert"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1416921211/DSCF8010-foto-square_normal.jpg", 
+   "name": "Tom\u00e1\u0161 Proch\u00e1zka", 
+   "text": "Java/Android developer and software engineer.", 
+   "tweet_id": 185410797764222976, 
+   "create_time": "Thu Mar 29 16:59:13 +0000 2012", 
+   "location": "Central Bohemia, Prague", 
+   "retweeter_id": 82881658, 
+   "screen_name": "tprochazka"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3578036853/0c7855815f204fc108e18880a0c9f3ac_normal.jpeg", 
+   "name": "Vipul D.", 
+   "text": "I never threw away that paper with my Grammy speech, because I haven't hit the pinnacles I plan to reach.\nEngineer | iOS developer | Tech | UI Design | Music", 
+   "tweet_id": 185406346701713408, 
+   "create_time": "Thu Mar 29 16:41:32 +0000 2012", 
+   "location": "Mumbai,India", 
+   "retweeter_id": 47354612, 
+   "screen_name": "die_no_might"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/578792970/image_normal.jpg", 
+   "name": "Android News Report", 
+   "text": "Best darn Android News & Blog site around!", 
+   "tweet_id": 185402320291504128, 
+   "create_time": "Thu Mar 29 16:25:32 +0000 2012", 
+   "location": "USA", 
+   "retweeter_id": 87788110, 
+   "screen_name": "Android_News_4u"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3275112121/57f62452d23fc540cc49020234f13ab3_normal.png", 
+   "name": "Waiyaki Studio", 
+   "text": "Wouldn't it be cool?\r\n\r\nNot another startup!!! yeehaw!", 
+   "tweet_id": 185385592257908737, 
+   "create_time": "Thu Mar 29 15:19:04 +0000 2012", 
+   "location": "Spain", 
+   "retweeter_id": 464303527, 
+   "screen_name": "waiyaki_studio"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1126571318/MattPics0779_normal.jpg", 
+   "name": "Mateo Acosta", 
+   "text": "", 
+   "tweet_id": 185381518280105984, 
+   "create_time": "Thu Mar 29 15:02:52 +0000 2012", 
+   "location": "Luque - Paraguay", 
+   "retweeter_id": 192390456, 
+   "screen_name": "mattacos"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2181772320/oxyung_normal.jpg", 
+   "name": "\u50b3\u8aaa\u4e2d\u7684\u5c0f\u660e", 
+   "text": "\u5176\u5be6\u5927\u5bb6\u540c\u662f\u4e95\u5e95\u4e4b\u86d9\uff0c\u5340\u5225\u53ea\u662f\u5404\u81ea\u6240\u5728\u7684\u4e95\u7684\u6df1\u8207\u6dfa\u7f77\u4e86\u3002 #csz GFW/Google/Google Plus/Android/Nexus S/Red Devil/Manchester United/Lakers/\u66ab\u4f4f\u5728\u5ee3\u5dde/\u5b8c\u7f8e\u4e3b\u7fa9\u8005/\u8f15\u5ea6\u6f54\u7656/\u5f37\u8feb\u75c7\u672b\u671f/\u62d6\u5ef6\u75c7\u672b\u671f/\u9078\u64c7\u56f0\u96e3\u75c7\u672b\u671f/\u9593\u6b47\u6027\u81ea\u8a00\u81ea\u8a9e\u2026\u2026", 
+   "tweet_id": 185375204216807424, 
+   "create_time": "Thu Mar 29 14:37:47 +0000 2012", 
+   "location": "Canton", 
+   "retweeter_id": 114153637, 
+   "screen_name": "oxyung"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2638899629/44509e2a5b6520c4d1da5f60ca7f7fac_normal.jpeg", 
+   "name": "U.S. Cellular", 
+   "text": "I love living and working in the great city of Columbia.  I get to lead a team at the best wireless company in the world!  Come check us out today!", 
+   "tweet_id": 185374121780183041, 
+   "create_time": "Thu Mar 29 14:33:29 +0000 2012", 
+   "location": "Columbia", 
+   "retweeter_id": 410115321, 
+   "screen_name": "USCCColumbia"
+  }
+ ], 
+ "149547127238955008": [], 
+ "166941498875707393": [], 
+ "147783202973556737": [], 
+ "223843385679675392": []
 }
    
 	var mapOptions = {
