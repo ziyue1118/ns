@@ -1,0 +1,111 @@
+.left {
+	float:left;
+	display: inline;
+}
+.right {
+	width:400px;
+	float:left;
+}
+.header{
+        height:60px ;
+        background: rgb(74, 174, 255);/* instagram blue*/
+        margin:0px auto;
+}
+.site-title{
+        padding-top: 25px;
+        padding-left: 50px; 
+        font-family: 'Indie Flower', cursive;
+        color:#FFFFFF;
+        font-size: 33px;
+        font-weight: 900;
+        margin-top: -10px;
+
+}
+.map-wrapper{
+    background-color: #fff;
+    border: 1px solid #c4cde0;
+    -webkit-border-radius: 0 0 2px 2px;
+    border-top: 0;
+    width: 800px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height:auto;
+}
+#map {
+    height:600px;
+    width:795px;
+}
+.panel-thin {
+	padding:5px 0px 5px 10px;
+}
+.panel-width {
+	width:400px;
+}
+.home-wrapper {
+	margin: 0px auto;
+    width: 1200px;
+}
+.twitter-wrapper {
+	background-color: #F8F5F5;
+    border:1px solid #c4cde0;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    width:385px;
+    padding:5px;
+    margin-left: -10px;
+    min-height: 62px;
+}
+
+.twitter-profile-photo-container{
+	width:50px;
+	height:50px;
+	display: block;
+	float:left;
+}
+.twitter-profile-photo {
+	width:50px;
+}
+
+.tweet-container {
+	width:320px;
+	margin-left: 55px;
+}
+.twitter-name-text-box {
+	width:300px;
+}
+.twitter-name {
+	font-weight: 600;
+	font-family: sans-serif;
+	display: inline;
+}
+.twitter-name-text {
+    color: #3f729b;
+    font-weight: 700;
+    display: inline;
+   
+}
+.date-text {
+    color: #999999;
+    font-size:12px;
+}
+.description-text-box {
+    width:300px;
+}
+.description-text {
+    color: #000;
+    font-family: "Helvetica Neue", Arial, sans-serif;;
+    width:300px;
+    word-wrap:break-word;
+}
+
+.twitter-info-wrapper {
+	background-color: #F8F5F5;
+    border:1px solid #c4cde0;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    width:385px;
+    padding:5px;
+    margin-left: -10px;
+    min-height: 62px;
+    margin-left:1px;
+}
+
+
