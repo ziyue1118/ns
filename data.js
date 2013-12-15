@@ -843,7 +843,127 @@ function DataCtrl($scope){
     "location": "New York, New York",
     "name": "Jimmy Fallon"
    }
+  ],
+   "LBJ": [
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/378800000664611531/99c26fa602ca16a424966aeb5d71d03d_normal.jpeg", 
+    "screen_name": "KingJames", 
+    "text": "Man the weather at this Det vs Phi game is crazy! Can't even see the players.", 
+    "tweet_id": "409748580325269504", 
+    "create_time": "Sun Dec 08 18:17:28 +0000 2013", 
+    "location": "Amongst La Familia! ",
+    "name": "Lebron James"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/378800000664611531/99c26fa602ca16a424966aeb5d71d03d_normal.jpeg", 
+    "screen_name": "KingJames", 
+    "text": "As a huge football fan I have to get to a Seahawks game! That joint look like it be rocking!! #12thMan", 
+    "tweet_id": "407690823875432448", 
+    "create_time": "Tue Dec 03 02:00:41 +0000 2013", 
+    "location": "Amongst La Familia! ",
+    "name": "Lebron James"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/378800000664611531/99c26fa602ca16a424966aeb5d71d03d_normal.jpeg", 
+    "screen_name": "KingJames", 
+    "text": "Good morning and Happy Thanksgiving to all out there! Be thankful for family and life itself! #Blessed #GobbleGobble #StriveForGreatness", 
+    "tweet_id": "406042629198348288", 
+    "create_time": "Thu Nov 28 12:51:21 +0000 2013", 
+    "location": "Amongst La Familia! ",
+    "name": "Lebron James"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/378800000664611531/99c26fa602ca16a424966aeb5d71d03d_normal.jpeg", 
+    "screen_name": "KingJames", 
+    "text": "Miley Cyrus has a great voice! Can sing for real. Just turn down the shananigans a lil and she winning!", 
+    "tweet_id": "404821110975651840", 
+    "create_time": "Mon Nov 25 03:57:28 +0000 2013", 
+    "location": "Amongst La Familia! ",
+    "name": "Lebron James"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/378800000664611531/99c26fa602ca16a424966aeb5d71d03d_normal.jpeg", 
+    "screen_name": "KingJames", 
+    "text": "\"@DwyaneWade: The beginning... @KingJames @DwyaneWade @CameronAnthony http://t.co/VBxWKCNCaz\"\"(And nowhere near the end!)", 
+    "tweet_id": "404807971433377792", 
+    "create_time": "Mon Nov 25 03:05:16 +0000 2013", 
+    "location": "Amongst La Familia! ",
+    "name": "Lebron James"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/378800000664611531/99c26fa602ca16a424966aeb5d71d03d_normal.jpeg", 
+    "screen_name": "KingJames", 
+    "text": "Need that Xbox One!", 
+    "tweet_id": "403710785358422016", 
+    "create_time": "Fri Nov 22 02:25:26 +0000 2013", 
+    "location": "Amongst La Familia! ",
+    "name": "Lebron James"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/378800000664611531/99c26fa602ca16a424966aeb5d71d03d_normal.jpeg", 
+    "screen_name": "KingJames", 
+    "text": "GM's wish the draft was tomorrow", 
+    "tweet_id": "400496675422502912", 
+    "create_time": "Wed Nov 13 05:33:42 +0000 2013", 
+    "location": "Amongst La Familia! ",
+    "name": "Lebron James"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/378800000664611531/99c26fa602ca16a424966aeb5d71d03d_normal.jpeg", 
+    "screen_name": "KingJames", 
+    "text": "They call so many fouls in college ball. Let em hoop. Should go to 6 fouls as well.", 
+    "tweet_id": "400494744520097792", 
+    "create_time": "Wed Nov 13 05:26:02 +0000 2013", 
+    "location": "Amongst La Familia! ",
+    "name": "Lebron James"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/378800000664611531/99c26fa602ca16a424966aeb5d71d03d_normal.jpeg", 
+    "screen_name": "KingJames", 
+    "text": "Wow what a day!! The season is back and I'm so damn exited!! Let's go #HeatNation #StriveForGreatness", 
+    "tweet_id": "395219438062297088", 
+    "create_time": "Tue Oct 29 16:03:51 +0000 2013", 
+    "location": "Amongst La Familia! ",
+    "name": "Lebron James"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/378800000664611531/99c26fa602ca16a424966aeb5d71d03d_normal.jpeg", 
+    "screen_name": "KingJames", 
+    "text": "#LaFamilia it's that time again!! Let's get it. I'm ready, locked and loaded from the jump #StriveForGreatness", 
+    "tweet_id": "395021597037580288", 
+    "create_time": "Tue Oct 29 02:57:42 +0000 2013", 
+    "location": "Amongst La Familia! ",
+    "name": "Lebron James"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/378800000664611531/99c26fa602ca16a424966aeb5d71d03d_normal.jpeg", 
+    "screen_name": "KingJames", 
+    "text": "Learning from my mistakes and trying to  not make the same one again! Time to start from square one and climb the highest mountain there is", 
+    "tweet_id": "391296160960614401", 
+    "create_time": "Fri Oct 18 20:14:09 +0000 2013", 
+    "location": "Amongst La Familia! ",
+    "name": "Lebron James"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/378800000664611531/99c26fa602ca16a424966aeb5d71d03d_normal.jpeg", 
+    "screen_name": "KingJames", 
+    "text": "So Damn sad man! Makes no sense at all. Innocent kid with dreams gets taking away by a coward with no dreams at all! Smh #SickForAP", 
+    "tweet_id": "388794932653080576", 
+    "create_time": "Fri Oct 11 22:35:10 +0000 2013", 
+    "location": "Amongst La Familia! ",
+    "name": "Lebron James"
+   }, 
+   {
+    "profile_pic": "http://pbs.twimg.com/profile_images/378800000664611531/99c26fa602ca16a424966aeb5d71d03d_normal.jpeg", 
+    "screen_name": "KingJames", 
+    "text": "My deepest condolences goes out to Adrian Peterson and his family! Sending prayers up for you homie! Nothing I can say can help u through..", 
+    "tweet_id": "388794123290832896", 
+    "create_time": "Fri Oct 11 22:31:57 +0000 2013", 
+    "location": "Amongst La Familia! ",
+    "name": "Lebron James"
+   }
   ]
+
  }
 
  
@@ -851,7 +971,6714 @@ function DataCtrl($scope){
 
     
     $scope.retweetDataSet = {
-    	"410945264053399552": [
+    	"409748580325269504": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412069044733227008/0TAEpBer_normal.jpeg", 
+   "name": "Papi Chulo", 
+   "text": "FMOI: _deemillz |@deemillz06@gmail.com #Rap", 
+   "tweet_id": 411910294529531904, 
+   "create_time": "Sat Dec 14 17:27:21 +0000 2013", 
+   "location": "Eastside 6mile", 
+   "retweeter_id": 1014496141, 
+   "screen_name": "_DeeMillz"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000528925229/aa40906452d04fa6656c5d3f75536359_normal.jpeg", 
+   "name": "mda.\u2764", 
+   "text": "Good girl gone w/ a troublesome past.", 
+   "tweet_id": 411909671063019521, 
+   "create_time": "Sat Dec 14 17:24:53 +0000 2013", 
+   "location": "detroit\u2708tennessee", 
+   "retweeter_id": 420349711, 
+   "screen_name": "_Mooeesshhaa"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000822581877/732fb139fe04c168afac8d61616dd0a1_normal.png", 
+   "name": "Eastside Stef", 
+   "text": "A Christian, Athlete, making My Pops Proud as he's Watching Over Me! R.I.P Pops", 
+   "tweet_id": 411909366564933632, 
+   "create_time": "Sat Dec 14 17:23:40 +0000 2013", 
+   "location": "In the Gym!!! #3", 
+   "retweeter_id": 237305034, 
+   "screen_name": "PLAYR_ofTheYEAR"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000859098645/31gxuYoC_normal.jpeg", 
+   "name": "La Familia", 
+   "text": "Sometimes you have to wake up from a dream and go get it.", 
+   "tweet_id": 411866989301202944, 
+   "create_time": "Sat Dec 14 14:35:17 +0000 2013", 
+   "location": "est#1992 south side", 
+   "retweeter_id": 1646738208, 
+   "screen_name": "loslax89_diego"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000842451385/11f8c6dd43646189b3b22fabdd832157_normal.jpeg", 
+   "name": "Marco F Tavarez     ", 
+   "text": "Tengo un coraz\u00f3n tan grande que en el pecho no me cabe", 
+   "tweet_id": 411854073353490432, 
+   "create_time": "Sat Dec 14 13:43:57 +0000 2013", 
+   "location": "Rep\u00fablica Dominicana.", 
+   "retweeter_id": 776700864, 
+   "screen_name": "Marcofelix01"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000644697013/27d41b65176c3b5f8ea4022e2d4a1c92_normal.jpeg", 
+   "name": "Sarah Caroline R ", 
+   "text": "\u2665 JesusChrist | VHS Dharma Paramitha |151097 | everything about @kingjames #6 (mention for followed)", 
+   "tweet_id": 411460384118145024, 
+   "create_time": "Fri Dec 13 11:39:34 +0000 2013", 
+   "location": "jakarta timur", 
+   "retweeter_id": 204310923, 
+   "screen_name": "sarahcrrrrrr"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000812889645/866e847df4b557d328bcceebf34058cd_normal.jpeg", 
+   "name": "michael amador", 
+   "text": "-Todo lo puedo en Cristo que me fortaleze-", 
+   "tweet_id": 410456650164629504, 
+   "create_time": "Tue Dec 10 17:11:05 +0000 2013", 
+   "location": "Honduras", 
+   "retweeter_id": 970886965, 
+   "screen_name": "amador_michael"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000865956454/YAzTeRHS_normal.jpeg", 
+   "name": "Christian Reyes", 
+   "text": "Miami Heat Fan! Should i active more day! I like your photos 2k14 and miami heat. Do U believe in God \u300b@MiamiHEAT\u300a plz follow me on instagram! \ue239", 
+   "tweet_id": 410371810161471488, 
+   "create_time": "Tue Dec 10 11:33:58 +0000 2013", 
+   "location": "Repost Lebron James and DWade", 
+   "retweeter_id": 2196968142, 
+   "screen_name": "xtianreyes23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000853711169/4f5705e5387e628fc5f98ee58871a98c_normal.jpeg", 
+   "name": "octa ariefana", 
+   "text": "im not a PLAYER ... im a GAMER || players get chicks..gamers get achievment", 
+   "tweet_id": 410360724318195712, 
+   "create_time": "Tue Dec 10 10:49:55 +0000 2013", 
+   "location": "Somewhere on earth!!!!!", 
+   "retweeter_id": 2238775074, 
+   "screen_name": "7ucifer7"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000844926282/c0283c3f826aede24ef26e853da231d8_normal.jpeg", 
+   "name": "Buki", 
+   "text": "I live, I love, I laugh, I cry. I'm not perfect. No one is, not me or you.", 
+   "tweet_id": 410156969140699138, 
+   "create_time": "Mon Dec 09 21:20:16 +0000 2013", 
+   "location": "Nottingham", 
+   "retweeter_id": 288173592, 
+   "screen_name": "WeeLittleAsian"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000851361247/9490b457092727520ef49b3565e428f4_normal.jpeg", 
+   "name": "Ashley Roberts", 
+   "text": "", 
+   "tweet_id": 410122390430314497, 
+   "create_time": "Mon Dec 09 19:02:52 +0000 2013", 
+   "location": "Gregory,Michigan", 
+   "retweeter_id": 119940333, 
+   "screen_name": "3minem3am"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000644863852/3fb3be7e05ccf980a6f887e8fc51ace6_normal.jpeg", 
+   "name": "Ladale Martin", 
+   "text": "...", 
+   "tweet_id": 410115511599763456, 
+   "create_time": "Mon Dec 09 18:35:32 +0000 2013", 
+   "location": "Philadelphia, PA.", 
+   "retweeter_id": 67055729, 
+   "screen_name": "Bballprodigy26"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3421846947/237d784c9ec1849fcf8dda97abec1d3b_normal.jpeg", 
+   "name": "Cotorras Del Gustavo", 
+   "text": "El equipo de Las Cotorras Del Gustavo Behall  del superior de puerto plata, Campeones en los a\u00f1os: 1989-2008-2010-2012!!", 
+   "tweet_id": 410048525930885120, 
+   "create_time": "Mon Dec 09 14:09:21 +0000 2013", 
+   "location": "Puerto Plata", 
+   "retweeter_id": 1293674912, 
+   "screen_name": "Cotorrasdelgb"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000840164013/43e6bc7ff391b4bf3a161612956acc4e_normal.jpeg", 
+   "name": "Gregorius Nixon#11", 
+   "text": "BasketballPlayer#11||Line gregoriusnixon11|| pin: 2A6236FB|| Never Give Up !", 
+   "tweet_id": 410034800385196033, 
+   "create_time": "Mon Dec 09 13:14:49 +0000 2013", 
+   "location": "Bumi", 
+   "retweeter_id": 1575741084, 
+   "screen_name": "GregoriusNixon"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3560943399/9ce1e514d6b6e3d0a1118e2d576080f4_normal.jpeg", 
+   "name": "Bahar", 
+   "text": "\u00bbBahar \u00bb13 years \u00bbbasketbal \u00bbcrackerjacks & bc shooters", 
+   "tweet_id": 410031109729443840, 
+   "create_time": "Mon Dec 09 13:00:09 +0000 2013", 
+   "location": "Amersfoort", 
+   "retweeter_id": 516730689, 
+   "screen_name": "Bahar033"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000783970468/487d2cacabee4c08ed09972e604f3a72_normal.jpeg", 
+   "name": "CRISTELLITA :D", 
+   "text": "March 09, 1997 l BMLS Student l Miami Heat l Dwyane Wade l LeBron James l Kim Woo Bin l Micky Yoochun l Kdrama l Music l \u2665", 
+   "tweet_id": 410009747744501760, 
+   "create_time": "Mon Dec 09 11:35:16 +0000 2013", 
+   "location": "Davao City, Philppines", 
+   "retweeter_id": 395783075, 
+   "screen_name": "ceedeebandala"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000780952347/349a156a6ca0ce29c299bf8c5f1537d0_normal.jpeg", 
+   "name": "r3@ln!gGa32", 
+   "text": "Blame it on my Ambition", 
+   "tweet_id": 409914525543321601, 
+   "create_time": "Mon Dec 09 05:16:53 +0000 2013", 
+   "location": "trap house ", 
+   "retweeter_id": 480232319, 
+   "screen_name": "2smooth187"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000648437076/ed3e066905d91a2b730699a4a88a519c_normal.jpeg", 
+   "name": "Eric Kiewlak", 
+   "text": "Sophmore. Conwell-Egan. Football & Basketball. \u2022College Bound?\u2022", 
+   "tweet_id": 409901603979010048, 
+   "create_time": "Mon Dec 09 04:25:32 +0000 2013", 
+   "location": "City of Brotherly Love", 
+   "retweeter_id": 950256896, 
+   "screen_name": "eric_kiewlak"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1084806059/27408_1468190040_6274_q_normal.jpg", 
+   "name": "Gary Herman", 
+   "text": "Born and raised in Alexander County, NC... ACHS Class of 1989... Lenoir-Rhyne University Class of 1993, former newspaper editor, former PIO, now in AC EDC", 
+   "tweet_id": 409898687532642304, 
+   "create_time": "Mon Dec 09 04:13:57 +0000 2013", 
+   "location": "Taylorsville, NC", 
+   "retweeter_id": 18699969, 
+   "screen_name": "gherman222"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3696270101/a2cf8e2919a40554741eeb75f0c40ade_normal.jpeg", 
+   "name": "Tak Kayz III", 
+   "text": "Movin & Grovin", 
+   "tweet_id": 409883730728468480, 
+   "create_time": "Mon Dec 09 03:14:31 +0000 2013", 
+   "location": "Where the wind takes me", 
+   "retweeter_id": 374821218, 
+   "screen_name": "FRESH_SWAG_23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411688777732456448/mV9E06sS_normal.jpeg", 
+   "name": "MzRayJ", 
+   "text": "MzRayJ go natural", 
+   "tweet_id": 409877274071035904, 
+   "create_time": "Mon Dec 09 02:48:51 +0000 2013", 
+   "location": "Detroit Michigan", 
+   "retweeter_id": 399491030, 
+   "screen_name": "IGMzRayJ"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000823599523/00817543f1441d97fcabb5c42db19b78_normal.jpeg", 
+   "name": "Denis Titov", 
+   "text": "", 
+   "tweet_id": 409873156862521344, 
+   "create_time": "Mon Dec 09 02:32:30 +0000 2013", 
+   "location": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a", 
+   "retweeter_id": 916680961, 
+   "screen_name": "Contex94"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000861039480/RMilChtF_normal.jpeg", 
+   "name": "palki grewal", 
+   "text": "i have writers block brb", 
+   "tweet_id": 409870552161988608, 
+   "create_time": "Mon Dec 09 02:22:09 +0000 2013", 
+   "location": "Troy, MI", 
+   "retweeter_id": 265611790, 
+   "screen_name": "palkigrewal"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000606219709/082a75049de0e296bd07e89d8345ea95_normal.jpeg", 
+   "name": "Dalton Depoorter", 
+   "text": "I'm very fat and gained 20 pounds the last two years!", 
+   "tweet_id": 409869523550863360, 
+   "create_time": "Mon Dec 09 02:18:04 +0000 2013", 
+   "location": "Wet Ranch", 
+   "retweeter_id": 1782664723, 
+   "screen_name": "DaltonTrippyD88"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1421282480/030_normal.JPG", 
+   "name": "RIP Bruce Wayne", 
+   "text": "", 
+   "tweet_id": 409863466774966272, 
+   "create_time": "Mon Dec 09 01:54:00 +0000 2013", 
+   "location": "jersey", 
+   "retweeter_id": 327019873, 
+   "screen_name": "worknetdotcom"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/792008018/joshuapritchett_normal.jpg", 
+   "name": "Staying Humble", 
+   "text": "", 
+   "tweet_id": 409862998921318401, 
+   "create_time": "Mon Dec 09 01:52:08 +0000 2013", 
+   "location": "Where ever love is needed!", 
+   "retweeter_id": 35943971, 
+   "screen_name": "stayinghumble"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/344513261573148721/ffa155a55f9c7efd012124cc784a0d49_normal.jpeg", 
+   "name": "r.saco", 
+   "text": "I LOVE SPORTS!!!!!!!FOREVER!!!!!!\r\nbasketball football baseball evelything!!!!!!!\r\nHard work!!! Good job!!!", 
+   "tweet_id": 409860779987329026, 
+   "create_time": "Mon Dec 09 01:43:19 +0000 2013", 
+   "location": "Planet", 
+   "retweeter_id": 210277611, 
+   "screen_name": "RyoRyo719"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000560965216/56a2e8aac8754c5fe9cff90905321088_normal.jpeg", 
+   "name": "Leigh Williams", 
+   "text": "", 
+   "tweet_id": 409835207190007808, 
+   "create_time": "Mon Dec 09 00:01:42 +0000 2013", 
+   "location": "Brampton, Ontario", 
+   "retweeter_id": 547386087, 
+   "screen_name": "LDubbzzz"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000750663164/076f5f053fe4f4d61d27ac385ff7f3af_normal.jpeg", 
+   "name": "November 13th", 
+   "text": "I #Follow Back #Hooper #Leader #Successful #teambasketball #TeamGuards", 
+   "tweet_id": 409834236091187200, 
+   "create_time": "Sun Dec 08 23:57:50 +0000 2013", 
+   "location": "Adrian, MI", 
+   "retweeter_id": 338461611, 
+   "screen_name": "KingSlates_11"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2357930407/image_normal.jpg", 
+   "name": "Ming Yao", 
+   "text": "", 
+   "tweet_id": 409829447341060096, 
+   "create_time": "Sun Dec 08 23:38:49 +0000 2013", 
+   "location": "Singapore", 
+   "retweeter_id": 493972887, 
+   "screen_name": "Mingyao_YoonYul"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411998401689944064/U6nk5LE9_normal.jpeg", 
+   "name": "Aye Hold My Phone", 
+   "text": "#WeedIsntADrug \u00b0Sagittarius\u00b0 #22YearsHere n they say lifes a test well where's the damn study guide. #SuccessWillBeMade #CollegeFatherHooping #STLNigga", 
+   "tweet_id": 409827841220415488, 
+   "create_time": "Sun Dec 08 23:32:26 +0000 2013", 
+   "location": "At the gym wit my son. ", 
+   "retweeter_id": 212676909, 
+   "screen_name": "MrLjDavenport0"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000852962853/ec9bdecad5e3ace485914a1da68b7849_normal.jpeg", 
+   "name": "Reggie Douglas Jr", 
+   "text": "The Great One, Established 10/22/81 hailed from the WINDY CITY. I'm funny, attractive, big and confident, and I loves making body chemistry", 
+   "tweet_id": 409825794907992064, 
+   "create_time": "Sun Dec 08 23:24:18 +0000 2013", 
+   "location": "Atlanta, GA", 
+   "retweeter_id": 462531104, 
+   "screen_name": "thejokester25"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000136060901/701c1748abf083dd269eef13dbe5a5be_normal.jpeg", 
+   "name": "Woo Tang", 
+   "text": "#SecondString #FloridaGators #GatorNation #TeamHeat #Follow.", 
+   "tweet_id": 409825273329496064, 
+   "create_time": "Sun Dec 08 23:22:14 +0000 2013", 
+   "location": "Gainesville,Fl", 
+   "retweeter_id": 1114721328, 
+   "screen_name": "WooTang2k11"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000691975617/80fe5b08216219dc5ccad8d7924f7e7f_normal.jpeg", 
+   "name": "Tyler Hastings", 
+   "text": "Middle Child", 
+   "tweet_id": 409823076395003905, 
+   "create_time": "Sun Dec 08 23:13:30 +0000 2013", 
+   "location": "Nasty Red Bay", 
+   "retweeter_id": 526158931, 
+   "screen_name": "Ty_CoolerThanU"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000619876584/923ad836ac8cef046d56164b1f377376_normal.jpeg", 
+   "name": "Stephen-All Day-2\u20e33\u20e3", 
+   "text": "#GGT Don't tell me the sky is the limit when their are footprints on the moon! Die Hard @kcchiefs fan! And go follow my man @KingJames! #RIP Paul Walker!", 
+   "tweet_id": 409818747621236736, 
+   "create_time": "Sun Dec 08 22:56:18 +0000 2013", 
+   "location": "Following Gods plan for me! \u2708 ", 
+   "retweeter_id": 419234337, 
+   "screen_name": "Stevie_Wonder23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3575236610/05ed853b6d5c5894adb076d7d3f09687_normal.jpeg", 
+   "name": "Angeline", 
+   "text": "voluptuous / 16 / Cancer / #MHeat", 
+   "tweet_id": 409817499614461952, 
+   "create_time": "Sun Dec 08 22:51:20 +0000 2013", 
+   "location": "Pantig", 
+   "retweeter_id": 581747994, 
+   "screen_name": "angschimdtel"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000759732594/774a54384f83baf013ad915f4fff1b52_normal.jpeg", 
+   "name": "Bret Clark", 
+   "text": "God is #1. I play football, and basketball. You determine your future. -Me. 10/26/13 I miss and love you! Fly high, everything I do good is for you!", 
+   "tweet_id": 409815752481722368, 
+   "create_time": "Sun Dec 08 22:44:24 +0000 2013", 
+   "location": "New Hope, Al ", 
+   "retweeter_id": 2159430914, 
+   "screen_name": "BretClark9"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000702223408/b28de566d5ea91a5c1731079790bd403_normal.jpeg", 
+   "name": "Dominico Almo", 
+   "text": "Just do it. DomCrossover.", 
+   "tweet_id": 409815651557986304, 
+   "create_time": "Sun Dec 08 22:44:00 +0000 2013", 
+   "location": "Always Somewhere", 
+   "retweeter_id": 178208673, 
+   "screen_name": "Almo_Kio"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000724118240/b9c244b436eb712e50050546c97beeb6_normal.jpeg", 
+   "name": "Lee", 
+   "text": "", 
+   "tweet_id": 409813964294340609, 
+   "create_time": "Sun Dec 08 22:37:17 +0000 2013", 
+   "location": "Gotham", 
+   "retweeter_id": 52431727, 
+   "screen_name": "Unorthodoxed___"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000701005663/8439d40cdb0c1806148b0f987889d4cd_normal.jpeg", 
+   "name": "Jr", 
+   "text": "19. Scorpio\u264f\ufe0f. Zacatecas. RIP Dad VVVII. Follow me, @MelanieIglesias does.", 
+   "tweet_id": 409805258370867200, 
+   "create_time": "Sun Dec 08 22:02:42 +0000 2013", 
+   "location": "windy city", 
+   "retweeter_id": 489157346, 
+   "screen_name": "LilJunior_9"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000001733903/f22c530849f131e30618c79801a6cb84_normal.jpeg", 
+   "name": "Ryan Sams", 
+   "text": "", 
+   "tweet_id": 409803945209790464, 
+   "create_time": "Sun Dec 08 21:57:28 +0000 2013", 
+   "location": "Fleming Island, FL", 
+   "retweeter_id": 176566501, 
+   "screen_name": "Sams_Ryan"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411754393420042240/-HuqB5QF_normal.jpeg", 
+   "name": "T-Raww", 
+   "text": "Drizzy, bittys hmu;), instagram- Guaplova911", 
+   "tweet_id": 409803730562072576, 
+   "create_time": "Sun Dec 08 21:56:37 +0000 2013", 
+   "location": "Darien, Ny ", 
+   "retweeter_id": 1915249646, 
+   "screen_name": "anthonymicucci3"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000740993429/647b7154f2ecab94f93368f7cd7307e3_normal.jpeg", 
+   "name": "-", 
+   "text": "Follow dreams not trends. Rockets. Theatre Sports. MTHS Sophomore. Optimistic.Soulpancake. Graditude = Happiness. #TWEETYOURMIND", 
+   "tweet_id": 409802943794126848, 
+   "create_time": "Sun Dec 08 21:53:30 +0000 2013", 
+   "location": "Mountlake Terrace", 
+   "retweeter_id": 1334627934, 
+   "screen_name": "Sageeeeeeeeeeee"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000813751007/5789ea822ef7dd537c008184e59286d4_normal.jpeg", 
+   "name": "baylie keesee ", 
+   "text": "He loved us undeservingly so we could love.", 
+   "tweet_id": 409801777202991104, 
+   "create_time": "Sun Dec 08 21:48:52 +0000 2013", 
+   "location": "Texas", 
+   "retweeter_id": 412280721, 
+   "screen_name": "baylieekeesee"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000833412583/8b4d5aa3efb9cb7d1e22b3edda6cc1bb_normal.jpeg", 
+   "name": "Mr.Kevin ca$h", 
+   "text": "4 years & 4 tapes later im gone,for now, but for now im following my other passions LIFE & my bride to be @Krenshaw_13 my soul in body. light 1 for me. Yc", 
+   "tweet_id": 409801432519303169, 
+   "create_time": "Sun Dec 08 21:47:29 +0000 2013", 
+   "location": "with my Mrs", 
+   "retweeter_id": 484543313, 
+   "screen_name": "YoungcashYc210"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000836645792/d0856081720f404065ad04e85f5445b0_normal.jpeg", 
+   "name": "Ace", 
+   "text": "Instagram: Hastick1", 
+   "tweet_id": 409801272750264320, 
+   "create_time": "Sun Dec 08 21:46:51 +0000 2013", 
+   "location": "London", 
+   "retweeter_id": 263878657, 
+   "screen_name": "Hastick1"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000284841737/905267483802dddf3ec74869155afaf4_normal.jpeg", 
+   "name": "Bennett P. ", 
+   "text": "Est. '94 | 2nd Year Business Student @Ryerson | Sports Fan/Enthusiast | Music | Party Froshin will stay with me forever! #UniMemories", 
+   "tweet_id": 409801236200693760, 
+   "create_time": "Sun Dec 08 21:46:43 +0000 2013", 
+   "location": "Toronto, ON", 
+   "retweeter_id": 320086136, 
+   "screen_name": "BennettP1994"
+  }
+ ], 
+ "407690823875432448": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000851311633/7dcaa36e53373007716eeeb9a92909a5_normal.png", 
+   "name": "Bryce Rainwater", 
+   "text": "The Offical Twitter Page Of Bryce Rainwater\nSeattle, WA  Producer/ Rapper/ Entrepreneur/ Director/ Athlete.  Make Sure And Check Out The Official YouTube Page", 
+   "tweet_id": 411639975126376448, 
+   "create_time": "Fri Dec 13 23:33:12 +0000 2013", 
+   "location": "Seattle, WA ", 
+   "retweeter_id": 177440060, 
+   "screen_name": "BryceRainH20"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000644697013/27d41b65176c3b5f8ea4022e2d4a1c92_normal.jpeg", 
+   "name": "Sarah Caroline R ", 
+   "text": "\u2665 JesusChrist | VHS Dharma Paramitha |151097 | everything about @kingjames #6 (mention for followed)", 
+   "tweet_id": 411460012909678592, 
+   "create_time": "Fri Dec 13 11:38:06 +0000 2013", 
+   "location": "jakarta timur", 
+   "retweeter_id": 204310923, 
+   "screen_name": "sarahcrrrrrr"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000456423959/59b39df9facfce58c497fd529b7953b6_normal.jpeg", 
+   "name": "darius benson", 
+   "text": "believe in yourself, dont give up, hard work pays off rns", 
+   "tweet_id": 411378808768327680, 
+   "create_time": "Fri Dec 13 06:15:25 +0000 2013", 
+   "location": "$$$$&&$$$$$", 
+   "retweeter_id": 1463695806, 
+   "screen_name": "bigdaddybenson2"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412021107147829248/lWWUGze__normal.jpeg", 
+   "name": "", 
+   "text": "Class of 2013 18 #HeatNation #TeamLeBron #TeamHumble #TeamNike #TeamFollowBack #Gamer #TheFamily", 
+   "tweet_id": 410971702491766785, 
+   "create_time": "Thu Dec 12 03:17:44 +0000 2013", 
+   "location": " \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164 \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164 \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164", 
+   "retweeter_id": 74522177, 
+   "screen_name": "Swanton18"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000248956045/a90193ae171c985ee2defe005c315036_normal.jpeg", 
+   "name": "Katie Goddard", 
+   "text": "wou basketball #12", 
+   "tweet_id": 410644554493079552, 
+   "create_time": "Wed Dec 11 05:37:45 +0000 2013", 
+   "location": "Monmouth OR / Lake Stevens WA", 
+   "retweeter_id": 1414654682, 
+   "screen_name": "katiegoddard12"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000787445374/74f41211ba25159b368dda45a4bdcb2b_normal.jpeg", 
+   "name": "stephanie myers", 
+   "text": "Be free. Be happy. Be wild.", 
+   "tweet_id": 410617006769967105, 
+   "create_time": "Wed Dec 11 03:48:17 +0000 2013", 
+   "location": "washington.", 
+   "retweeter_id": 36980239, 
+   "screen_name": "stephhmyers"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2571898476/4z4r79R7_normal", 
+   "name": "Vanessa Kesseler", 
+   "text": "", 
+   "tweet_id": 410538282435375104, 
+   "create_time": "Tue Dec 10 22:35:28 +0000 2013", 
+   "location": "Seattle", 
+   "retweeter_id": 791659430, 
+   "screen_name": "kinjov"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412029185188589568/SKn_BqM-_normal.jpeg", 
+   "name": "Alyssa Marie Hovde", 
+   "text": "Shits fanny", 
+   "tweet_id": 410191125685600256, 
+   "create_time": "Mon Dec 09 23:36:00 +0000 2013", 
+   "location": "Bumfuck Nowhere", 
+   "retweeter_id": 919899552, 
+   "screen_name": "itsmissalyssa_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000816978800/f03be46ff975647324ee5e255dc6f4fe_normal.jpeg", 
+   "name": "Suheidy Palomino", 
+   "text": "Married to @ValPalomino, love makeup, live freely, laugh often and love deeply :)", 
+   "tweet_id": 410153720220225537, 
+   "create_time": "Mon Dec 09 21:07:21 +0000 2013", 
+   "location": "Pasco, WA", 
+   "retweeter_id": 283428407, 
+   "screen_name": "su_palomino"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000513584062/8c0ffab5e0ffce97286f0158adca62fe_normal.jpeg", 
+   "name": "Lela Beganovic", 
+   "text": "Love :*", 
+   "tweet_id": 409880604772032512, 
+   "create_time": "Mon Dec 09 03:02:06 +0000 2013", 
+   "location": "Seattle", 
+   "retweeter_id": 554858613, 
+   "screen_name": "Lelabeganovic"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3677626706/3b942485e086dd37e7b8572e7cc5c5c0_normal.jpeg", 
+   "name": "Andrew Brown", 
+   "text": "Lover of Football, Basketball, and North Carolina State University. Christian First. #WolfpackNation #SWRHS2015", 
+   "tweet_id": 409878309586366464, 
+   "create_time": "Mon Dec 09 02:52:58 +0000 2013", 
+   "location": "Asheboro, NC", 
+   "retweeter_id": 467844658, 
+   "screen_name": "Andrew_Brown22"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000830330812/cbedbeb6750594eba8acbd676a1a2767_normal.jpeg", 
+   "name": "Mark Albert", 
+   "text": "I must move to England.", 
+   "tweet_id": 409821870402203649, 
+   "create_time": "Sun Dec 08 23:08:42 +0000 2013", 
+   "location": "toppenish, wa", 
+   "retweeter_id": 126492847, 
+   "screen_name": "Hippie509"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/60677347/billatfrasierisland_normal.jpg", 
+   "name": "Bill HP Fuld ", 
+   "text": "", 
+   "tweet_id": 409744974817673216, 
+   "create_time": "Sun Dec 08 18:03:09 +0000 2013", 
+   "location": "Seattle", 
+   "retweeter_id": 16438696, 
+   "screen_name": "BillFuld"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000676204242/eacc4a3bd30876f65b17b644db94b99f_normal.jpeg", 
+   "name": "Brandi", 
+   "text": "", 
+   "tweet_id": 409742595296747520, 
+   "create_time": "Sun Dec 08 17:53:42 +0000 2013", 
+   "location": "Seattle, WA", 
+   "retweeter_id": 408816593, 
+   "screen_name": "bnsayers"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3094179351/cda9694e2535a79400bcf01687bd7a16_normal.jpeg", 
+   "name": "Timothy Osborn", 
+   "text": "Father | Husband | Catholic | Expat | Star Wars fanboy | Die hard Seattle sports fan | It really is a wonderful life! The tweets & thoughts are my own.", 
+   "tweet_id": 409732037336395776, 
+   "create_time": "Sun Dec 08 17:11:44 +0000 2013", 
+   "location": "Amsterdam, The Netherlands", 
+   "retweeter_id": 13174062, 
+   "screen_name": "timeosborn"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000839208336/8fa8e731a229f40debdbbcec6d7af3c7_normal.jpeg", 
+   "name": "LeBron James", 
+   "text": "Versace.", 
+   "tweet_id": 409722560658432000, 
+   "create_time": "Sun Dec 08 16:34:05 +0000 2013", 
+   "location": "Carson//Longbeach", 
+   "retweeter_id": 2233896870, 
+   "screen_name": "withlovejeffrey"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000735335585/9ec64a509040b42c1a365e4a7487a77c_normal.jpeg", 
+   "name": "\u303d\ufe0fIKE", 
+   "text": "Exercise Science Major | IG: __MWalker | Georgia State University '16", 
+   "tweet_id": 409699477264400384, 
+   "create_time": "Sun Dec 08 15:02:21 +0000 2013", 
+   "location": "Macon, Ga \u2708 Atlanta, Ga.", 
+   "retweeter_id": 322931070, 
+   "screen_name": "__MWalker"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000865794298/5T7WzG0P_normal.jpeg", 
+   "name": "Eduardo Casta\u00f1eda ", 
+   "text": "la vida es corta, hay que disfrutarla y llenarla de alegr\u00eda. eso es todo -- I live for my family -- Soccer & Music are my passions.", 
+   "tweet_id": 409555883803156480, 
+   "create_time": "Sun Dec 08 05:31:46 +0000 2013", 
+   "location": "Washington State University Jr", 
+   "retweeter_id": 227980606, 
+   "screen_name": "e_castanedadiaz"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412027713914814464/kTtgGmut_normal.jpeg", 
+   "name": "Eric Johnson", 
+   "text": "Eric. Beer Delivery Guy. Seattle Sports Fanatic. The nicest d-bag you will ever meet.", 
+   "tweet_id": 409498347800506368, 
+   "create_time": "Sun Dec 08 01:43:08 +0000 2013", 
+   "location": "Akron, Ohio", 
+   "retweeter_id": 283641807, 
+   "screen_name": "EVJ1987"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000848209998/96e7a7a97c4ffe2265b58a45221738a8_normal.jpeg", 
+   "name": "    .    ", 
+   "text": "U of Washington. #Aries", 
+   "tweet_id": 409484419615830017, 
+   "create_time": "Sun Dec 08 00:47:48 +0000 2013", 
+   "location": "PAC NW.", 
+   "retweeter_id": 1917070082, 
+   "screen_name": "linhyloc"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1619912877/karate-kicks_normal.png", 
+   "name": "Justin Andrews", 
+   "text": "Big Gulps huh? Well... see ya later! \n\n#GoHawks\nMarketing @Concur", 
+   "tweet_id": 409440143117152256, 
+   "create_time": "Sat Dec 07 21:51:51 +0000 2013", 
+   "location": "Kirkland", 
+   "retweeter_id": 40181759, 
+   "screen_name": "Juicerson"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3764381095/19741b7e215ab0522e982db466e5b644_normal.png", 
+   "name": "Landon J. Beamer", 
+   "text": "@comugrad alum - @Buddytv Tweeter - Aspiring Art Director - Ping Pong Master - Shark Enthusiast", 
+   "tweet_id": 409437770839367680, 
+   "create_time": "Sat Dec 07 21:42:26 +0000 2013", 
+   "location": "Seattle, WA", 
+   "retweeter_id": 776994672, 
+   "screen_name": "landonbeamer"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000842498347/6409de8d62fa61132417fede4d74e28e_normal.jpeg", 
+   "name": "PEARLY_PEARLZ", 
+   "text": "Im just me there's no better way to explain it :)", 
+   "tweet_id": 409409419865096192, 
+   "create_time": "Sat Dec 07 19:49:46 +0000 2013", 
+   "location": "In the city of rain..", 
+   "retweeter_id": 235246020, 
+   "screen_name": "tinktink206"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3066077551/45e67961831f082d90b7126430c91382_normal.jpeg", 
+   "name": "Chris Eilitz", 
+   "text": "", 
+   "tweet_id": 409365165290029056, 
+   "create_time": "Sat Dec 07 16:53:55 +0000 2013", 
+   "location": "Peoria, AZ", 
+   "retweeter_id": 1061525280, 
+   "screen_name": "CEilitz"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000756258617/a16ac5933a8c23b51892da97c86302b7_normal.jpeg", 
+   "name": "Nathan Aschbacher", 
+   "text": "SKI, SURF AND GO COUGS", 
+   "tweet_id": 409311517067063296, 
+   "create_time": "Sat Dec 07 13:20:44 +0000 2013", 
+   "location": "Kihei, Hi", 
+   "retweeter_id": 546576443, 
+   "screen_name": "NAschbacher"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000851451624/dacc12994b73f799204a99f60f3243ca_normal.jpeg", 
+   "name": "Djax", 
+   "text": "Download Music-- http://t.co/N6m0UelqOE", 
+   "tweet_id": 409242404336570368, 
+   "create_time": "Sat Dec 07 08:46:07 +0000 2013", 
+   "location": "Seattle--Bay", 
+   "retweeter_id": 368539837, 
+   "screen_name": "DDDjax"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000719483778/7c945cfb94d2fd3493a5c47fb641d354_normal.jpeg", 
+   "name": "Claire Southern", 
+   "text": "24. History/Criminal Justice major at WSU. The Echelon. Bookworm. Starbucks. SEB Films Committee. Pop Culture. Sushi.", 
+   "tweet_id": 409218789746569216, 
+   "create_time": "Sat Dec 07 07:12:17 +0000 2013", 
+   "location": "Pullman, WA", 
+   "retweeter_id": 2185656710, 
+   "screen_name": "purple_echelon"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3668342619/c16cfbb399b0ccfa94aca4a796c9de2e_normal.png", 
+   "name": "Coach Sheldon Cross", 
+   "text": "Outside WR Coach for the Idaho State Bengals!  Former Stadium HS, Iowa Wesleyan, Europe QB!  former HC at Interlake HS.        Our job is to SCORE EVERY TIME!", 
+   "tweet_id": 409187065566212097, 
+   "create_time": "Sat Dec 07 05:06:13 +0000 2013", 
+   "location": "Pocatello, ID", 
+   "retweeter_id": 614619738, 
+   "screen_name": "CoachCrossISU"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000398549259/b76347f9d11cae88103d9391899ea759_normal.jpeg", 
+   "name": "Matthew Chadbourne", 
+   "text": "Fatty Matty is an egotistic, musician, writer, graphic artist, actor, LDS church member, and libertarian. He also is the co-creator/CEO of 'Merican Beaver", 
+   "tweet_id": 409172143725740032, 
+   "create_time": "Sat Dec 07 04:06:55 +0000 2013", 
+   "location": "Orem, UT", 
+   "retweeter_id": 79340908, 
+   "screen_name": "fattymattychady"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000790947401/1d41a98e663e9bacccf00a4939f65ea5_normal.jpeg", 
+   "name": "Tomio", 
+   "text": "\u2728If you see Buddha in the lane, feed him the ball\u2728-Phil Jackson", 
+   "tweet_id": 409143890155802624, 
+   "create_time": "Sat Dec 07 02:14:39 +0000 2013", 
+   "location": "Washington", 
+   "retweeter_id": 1366447028, 
+   "screen_name": "tomiyonn1"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000800255781/936dff0fd429aa0b767b1b85d0c03a81_normal.jpeg", 
+   "name": "addicted to kicks", 
+   "text": "seahawk fan and  young hustler", 
+   "tweet_id": 409141172141953024, 
+   "create_time": "Sat Dec 07 02:03:51 +0000 2013", 
+   "location": "seattle", 
+   "retweeter_id": 1249809385, 
+   "screen_name": "DFoy5"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000598848018/6b277ea4811213aa60a70e198125243d_normal.jpeg", 
+   "name": "Scott Omli", 
+   "text": "the light out in the dark", 
+   "tweet_id": 409132053620215808, 
+   "create_time": "Sat Dec 07 01:27:37 +0000 2013", 
+   "location": "Seattle", 
+   "retweeter_id": 92116032, 
+   "screen_name": "ECHO509er"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000790295245/5c989147583415bcb945a40b071cd7c3_normal.jpeg", 
+   "name": "\u265aMrs James \u2661 \u2655", 
+   "text": "My name's \u0130rem , Im 17 :) My life is @KingJames\u2661!! #TeamLebron #ILOVETHISGAME #Be\u015fikta\u015f", 
+   "tweet_id": 409131125727330304, 
+   "create_time": "Sat Dec 07 01:23:56 +0000 2013", 
+   "location": "Turkey", 
+   "retweeter_id": 1146132842, 
+   "screen_name": "_Mrs_James_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000686182447/ffff71a31275855e9ae3b953e9eadeb4_normal.jpeg", 
+   "name": "Max Breitbarth", 
+   "text": "Live to love and love to live. CMC '17. instagram: maxbreitbarth", 
+   "tweet_id": 409127496383098880, 
+   "create_time": "Sat Dec 07 01:09:31 +0000 2013", 
+   "location": "Seattle   LA", 
+   "retweeter_id": 358578503, 
+   "screen_name": "Maximumillion"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000843212512/333565ffd8c84d3ea87aa2012db2f4b3_normal.jpeg", 
+   "name": "S T I X - O ", 
+   "text": "Tha 6'5 Creole\nDoc Holliday Swag\r\nLight Skin Christian Grey\nFake 23 Blast with Back Side George Reverse! Like your life dependent upon it\nInstagram | @Stixo26", 
+   "tweet_id": 409126832869343232, 
+   "create_time": "Sat Dec 07 01:06:52 +0000 2013", 
+   "location": "Cali & Commerce,Tx", 
+   "retweeter_id": 43429601, 
+   "screen_name": "iAm_LionWoodz"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412033676252176386/iQ9-0RSe_normal.jpeg", 
+   "name": "Selena Nieves \u2661", 
+   "text": "Timberline | PNW | Junior.", 
+   "tweet_id": 409125805906620416, 
+   "create_time": "Sat Dec 07 01:02:47 +0000 2013", 
+   "location": "Oly 360 ", 
+   "retweeter_id": 911328636, 
+   "screen_name": "Selenaxnievesxo"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000842409886/d568729013a3abe2731053826270ec43_normal.jpeg", 
+   "name": "Andrew Campbell", 
+   "text": "", 
+   "tweet_id": 409096966308507648, 
+   "create_time": "Fri Dec 06 23:08:12 +0000 2013", 
+   "location": "Bremerton, Washington", 
+   "retweeter_id": 1229062956, 
+   "screen_name": "AC3isTB"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000823451352/0cd3e1382ae1f2e4f3374a1359e3ef4c_normal.jpeg", 
+   "name": "Nick Truong\u2122", 
+   "text": "Instagram: @nicktruongg", 
+   "tweet_id": 409014083585716225, 
+   "create_time": "Fri Dec 06 17:38:51 +0000 2013", 
+   "location": "Renton, Wa", 
+   "retweeter_id": 178677003, 
+   "screen_name": "nicktruong_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000759502211/360e71a36aece3d1f00c7b88a81bc92f_normal.jpeg", 
+   "name": "AmandaLee", 
+   "text": "", 
+   "tweet_id": 408994213154398208, 
+   "create_time": "Fri Dec 06 16:19:53 +0000 2013", 
+   "location": "Seattle", 
+   "retweeter_id": 425273201, 
+   "screen_name": "amandahenneman"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1369380890/image_normal.jpg", 
+   "name": "Hannah", 
+   "text": "Hannah Dress For Less is all about great bargains and shopping tips.", 
+   "tweet_id": 408976571366526976, 
+   "create_time": "Fri Dec 06 15:09:47 +0000 2013", 
+   "location": "San Francisco Bay Area", 
+   "retweeter_id": 296671406, 
+   "screen_name": "hannahdo1972"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000830663973/14b817b1017c11a9c9ba6da9a3648254_normal.jpeg", 
+   "name": "Bryce Ostheimer", 
+   "text": "15 year old boy who plays 3 sports and likes to hangout", 
+   "tweet_id": 408966826375143424, 
+   "create_time": "Fri Dec 06 14:31:04 +0000 2013", 
+   "location": "Ohio", 
+   "retweeter_id": 1455211465, 
+   "screen_name": "BryceOstheimer"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000819691188/15088b2bd89f907e17e3825689c4d969_normal.jpeg", 
+   "name": "\u0394nna \u040abby", 
+   "text": "N\u00f8rge | Scorpio | insta: urfavoritehobby", 
+   "tweet_id": 408888315828379648, 
+   "create_time": "Fri Dec 06 09:19:05 +0000 2013", 
+   "location": "pacific northwe$t", 
+   "retweeter_id": 473290403, 
+   "screen_name": "urfavoritehobby"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000690466772/8111ee3b08cc156a33de3f892822ed61_normal.jpeg", 
+   "name": "Tracy Ford", 
+   "text": "{CEO & Head Performance Director of Ford Sports Performance} {Bellevue High School Football Head Strength Coach} {Portland State Alumni} {Passion 4 Music}", 
+   "tweet_id": 408885829549838336, 
+   "create_time": "Fri Dec 06 09:09:13 +0000 2013", 
+   "location": "Seattle", 
+   "retweeter_id": 206703078, 
+   "screen_name": "TFordFSP"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000861636728/ZFaeAxhs_normal.jpeg", 
+   "name": "Ozzie Whitehead III", 
+   "text": "Seattle Sports Fanatic Go Seahawks, Go Mariners, Go Huskies, above all Go Zags Zag Up! PS. Bring Back Our Sonics!", 
+   "tweet_id": 408862301463121920, 
+   "create_time": "Fri Dec 06 07:35:43 +0000 2013", 
+   "location": "ZAGVILLE", 
+   "retweeter_id": 1031948078, 
+   "screen_name": "TheOzOnSports"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2787908162/dc2e720253c2290ef45dcb81bf236a79_normal.png", 
+   "name": "Daniel Cardenas", 
+   "text": "#GradStudent @OregonStateUniv. Love my wife & family. Tweet about #HigherEd #Poetry #HipHopEd #CraftBeer and #CowboyNation. Rise Up ~ One Love", 
+   "tweet_id": 408860939232899073, 
+   "create_time": "Fri Dec 06 07:30:18 +0000 2013", 
+   "location": "Newberg, Oregon", 
+   "retweeter_id": 262039877, 
+   "screen_name": "dancardenas85"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000382015949/48cdf3be063b8f37650ef56070ee1087_normal.jpeg", 
+   "name": "Kyle Olason", 
+   "text": "Student Athlete at West Texas A & M. Majoring in Mechanical Engineering. PHIL 4:13 James 1:6 #GoBuffs", 
+   "tweet_id": 408849176449929216, 
+   "create_time": "Fri Dec 06 06:43:34 +0000 2013", 
+   "location": "Canyon, TX", 
+   "retweeter_id": 389276945, 
+   "screen_name": "kolason32"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000848592148/bc1cef7f7013d013d92b3d12e86de35f_normal.jpeg", 
+   "name": "Jasmine Graham", 
+   "text": "Youll probably find someone, but you'll never find another.", 
+   "tweet_id": 408845873234206720, 
+   "create_time": "Fri Dec 06 06:30:26 +0000 2013", 
+   "location": "SEATTLE, WASHINGTON", 
+   "retweeter_id": 245190965, 
+   "screen_name": "HoneyBzzness"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1678277723/ME_normal.jpg", 
+   "name": "Shaun Moshay", 
+   "text": "PNW homer 4 life", 
+   "tweet_id": 408839533489176576, 
+   "create_time": "Fri Dec 06 06:05:15 +0000 2013", 
+   "location": "Land of Kirk", 
+   "retweeter_id": 36995001, 
+   "screen_name": "tshiggity"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411714915397672960/u_hKuD-d_normal.jpeg", 
+   "name": "Aidan Rose", 
+   "text": "Fuck bios. Noone cares.", 
+   "tweet_id": 408838303660527617, 
+   "create_time": "Fri Dec 06 06:00:22 +0000 2013", 
+   "location": "Seattle, WA \u2708\ufe0f Tucson, AZ", 
+   "retweeter_id": 63663226, 
+   "screen_name": "AidanRo"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2407511015/u95wq0ubyfj2kcs8r2vn_normal.jpeg", 
+   "name": "Phil Corneloup", 
+   "text": "Currently trying to invest in the check cashing business", 
+   "tweet_id": 408835398618464256, 
+   "create_time": "Fri Dec 06 05:48:49 +0000 2013", 
+   "location": "Bong Bong in Hong Kong", 
+   "retweeter_id": 356473616, 
+   "screen_name": "ScoopWitDaLOUP"
+  }
+ ], 
+ "404821110975651840": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000644697013/27d41b65176c3b5f8ea4022e2d4a1c92_normal.jpeg", 
+   "name": "Sarah Caroline R ", 
+   "text": "\u2665 JesusChrist | VHS Dharma Paramitha |151097 | everything about @kingjames #6 (mention for followed)", 
+   "tweet_id": 411461501484933120, 
+   "create_time": "Fri Dec 13 11:44:01 +0000 2013", 
+   "location": "jakarta timur", 
+   "retweeter_id": 204310923, 
+   "screen_name": "sarahcrrrrrr"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000839330035/d01a058a48b02f09edc9c37146d16544_normal.jpeg", 
+   "name": "Badu Flame", 
+   "text": "Emancipation from the bondage of the soil is no freedom for the tree  Allahu Akbar\u2665I have a love affair with Hip-Hop\\\u263a/ \u2661:)", 
+   "tweet_id": 410988237457752064, 
+   "create_time": "Thu Dec 12 04:23:26 +0000 2013", 
+   "location": "Johannesburg, South Africa ", 
+   "retweeter_id": 313177495, 
+   "screen_name": "Mu_hle"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412021107147829248/lWWUGze__normal.jpeg", 
+   "name": "", 
+   "text": "Class of 2013 18 #HeatNation #TeamLeBron #TeamHumble #TeamNike #TeamFollowBack #Gamer #TheFamily", 
+   "tweet_id": 410975069213433856, 
+   "create_time": "Thu Dec 12 03:31:06 +0000 2013", 
+   "location": " \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164 \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164 \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164", 
+   "retweeter_id": 74522177, 
+   "screen_name": "Swanton18"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3511768854/854524ed5472dfc8741900d7f23924d0_normal.jpeg", 
+   "name": "TheLionKing", 
+   "text": "I still think i am the greatest - Ye.", 
+   "tweet_id": 410468019710992384, 
+   "create_time": "Tue Dec 10 17:56:16 +0000 2013", 
+   "location": "Englaand", 
+   "retweeter_id": 733554709, 
+   "screen_name": "TendayyDube"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000863652247/m0BrregR_normal.jpeg", 
+   "name": "Pretty Flacko", 
+   "text": "Y mi Lambo???", 
+   "tweet_id": 410146922700472320, 
+   "create_time": "Mon Dec 09 20:40:21 +0000 2013", 
+   "location": "Wit' yo bish ", 
+   "retweeter_id": 55790170, 
+   "screen_name": "ruben025"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3118552648/116fa00d4bcbd35ee8d7a0cb3fbe5a15_normal.jpeg", 
+   "name": "Christopher Se\u00f1eres", 
+   "text": "Spreading good cheer and boombap beats throughout the land!", 
+   "tweet_id": 409850217756778496, 
+   "create_time": "Mon Dec 09 01:01:21 +0000 2013", 
+   "location": "Las Pinas, Philippines", 
+   "retweeter_id": 26746680, 
+   "screen_name": "ChrizoMagnifico"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000857241571/y2Lth4yL_normal.jpeg", 
+   "name": "Elmer Flores", 
+   "text": "Slow feet dont eat \u264b\ufe0f. IG: Elmermayne_", 
+   "tweet_id": 409840175536017411, 
+   "create_time": "Mon Dec 09 00:21:27 +0000 2013", 
+   "location": "Houston Texas", 
+   "retweeter_id": 321803859, 
+   "screen_name": "ElmerMayne"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000520917593/577ae52b361215c0e744ddaf5305c249_normal.jpeg", 
+   "name": "K I N G ", 
+   "text": "No1z success can truly stop u & you can't truly benefit from someone else downfall; so show love, pray for others, & encourage! #4evaLoveRAYRAY RIP", 
+   "tweet_id": 409768634274570240, 
+   "create_time": "Sun Dec 08 19:37:10 +0000 2013", 
+   "location": "McIntosh,Al", 
+   "retweeter_id": 37841933, 
+   "screen_name": "snoopyNOcharlie"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000848406249/f6724359c3dda64dd5f2e46b079265cf_normal.jpeg", 
+   "name": "Jordan $taves", 
+   "text": "THOU SHALL NOT LOVE THY HEAUXS", 
+   "tweet_id": 409758909088296960, 
+   "create_time": "Sun Dec 08 18:58:31 +0000 2013", 
+   "location": "Friendzone", 
+   "retweeter_id": 424674550, 
+   "screen_name": "JordanStaves"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000853312061/f6d83b91a8ad1d7d7b77ebfad8458e73_normal.jpeg", 
+   "name": "Mam\u00ed", 
+   "text": "Y'all don't know me\u264b", 
+   "tweet_id": 409752686347579392, 
+   "create_time": "Sun Dec 08 18:33:47 +0000 2013", 
+   "location": "c a l i f o r n i a $", 
+   "retweeter_id": 215870709, 
+   "screen_name": "_Lyssv"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000162869088/f385785fd8d7198c27987c710795fc05_normal.jpeg", 
+   "name": "Alf Cahill Keebler", 
+   "text": "\u2661ratchet insta: alf_cahill \u2661", 
+   "tweet_id": 409505553795526656, 
+   "create_time": "Sun Dec 08 02:11:46 +0000 2013", 
+   "location": "hell if i don't pray", 
+   "retweeter_id": 32718096, 
+   "screen_name": "gossipgandhi"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000843461465/9d6c6cd78bf76aa8d34cecc52357e67f_normal.jpeg", 
+   "name": "Christian Cortave", 
+   "text": "Instagram: christian_cortave Sophomore At Salesian High School", 
+   "tweet_id": 409501420597952512, 
+   "create_time": "Sun Dec 08 01:55:21 +0000 2013", 
+   "location": "Los Angeles, California", 
+   "retweeter_id": 1881456794, 
+   "screen_name": "CCortave24"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000852987522/b8a341890b81d511360e20ec04736563_normal.jpeg", 
+   "name": "LeJohn James", 
+   "text": "#teamiphone #windians #swisherfan #OSU #browns #MGK #EST#19XX #ESTOHIO", 
+   "tweet_id": 409497885177171969, 
+   "create_time": "Sun Dec 08 01:41:18 +0000 2013", 
+   "location": "Tiffin,OH", 
+   "retweeter_id": 555546739, 
+   "screen_name": "JHenschke1"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411889971214053377/yVdYeWDR_normal.jpeg", 
+   "name": "white jesus", 
+   "text": "i put the ghetto in ghetto", 
+   "tweet_id": 409373396036632576, 
+   "create_time": "Sat Dec 07 17:26:38 +0000 2013", 
+   "location": "indy", 
+   "retweeter_id": 618538245, 
+   "screen_name": "gleekinthedeep"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000856691173/4LOfss1G_normal.jpeg", 
+   "name": "Lukas Creech", 
+   "text": "happiness is only real when shared", 
+   "tweet_id": 409347289161805824, 
+   "create_time": "Sat Dec 07 15:42:53 +0000 2013", 
+   "location": "Ohio, USA", 
+   "retweeter_id": 522766924, 
+   "screen_name": "Luke_Creech"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412067628543262721/k1m-qP7f_normal.jpeg", 
+   "name": "aminnn", 
+   "text": "words n' stuff. We must try not to sink beneath our anguish, but battle on. #sedinery #37RYP (@jimmyfallon's co-host)", 
+   "tweet_id": 409200293679595520, 
+   "create_time": "Sat Dec 07 05:58:47 +0000 2013", 
+   "location": "12 Grimmauld Place", 
+   "retweeter_id": 81680138, 
+   "screen_name": "bieksalad"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000764670000/61c63e45326c47867f3f41dceae3dee8_normal.jpeg", 
+   "name": "Kelsey", 
+   "text": "Gemini. Aveda. Veteran.", 
+   "tweet_id": 409020644311846913, 
+   "create_time": "Fri Dec 06 18:04:55 +0000 2013", 
+   "location": "Minneapolis", 
+   "retweeter_id": 1877283235, 
+   "screen_name": "kelslipbaby"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000851221851/7b17a5a144e8f26cfcf66b62376b8906_normal.jpeg", 
+   "name": " Ro", 
+   "text": "The possession of anything begins in the mind.", 
+   "tweet_id": 409014828926115840, 
+   "create_time": "Fri Dec 06 17:41:49 +0000 2013", 
+   "location": "Houston ", 
+   "retweeter_id": 515896507, 
+   "screen_name": "OneDeepdeeton"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000829948069/a3d064fa34ce431adc95600881ca07fd_normal.jpeg", 
+   "name": "SINSAJO.III.", 
+   "text": "They taught me to Stay Strong Believe in my Dreams and Never Say Never @justinbieber and @ddlovato  \u03ba\u03b9dr\u03b1\u03c5hl.\u221e \u2020 my \u00e1ngel, my brother N.V", 
+   "tweet_id": 408937112344748032, 
+   "create_time": "Fri Dec 06 12:32:59 +0000 2013", 
+   "location": "District 13", 
+   "retweeter_id": 285141978, 
+   "screen_name": "BieberMania1D"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000824967515/8c24f98a3b92b96792bc70ba6b0c31c8_normal.jpeg", 
+   "name": "\u2728Marty McFly\u2728", 
+   "text": "To be continued.......", 
+   "tweet_id": 408726744074829824, 
+   "create_time": "Thu Dec 05 22:37:04 +0000 2013", 
+   "location": "Out inna di Gaza", 
+   "retweeter_id": 50286787, 
+   "screen_name": "Topshotta_tyla"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000830835209/e314d1e23509a822e717029c1a1b1e08_normal.jpeg", 
+   "name": "Lena", 
+   "text": "", 
+   "tweet_id": 408411122078060544, 
+   "create_time": "Thu Dec 05 01:42:54 +0000 2013", 
+   "location": "901TN", 
+   "retweeter_id": 2184798357, 
+   "screen_name": "Officially_Lena"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000744751372/680eae1d863939ef0129ff8e3617812f_normal.png", 
+   "name": "(KWAYSE)", 
+   "text": "43.652527,-79.381961", 
+   "tweet_id": 408410921368031232, 
+   "create_time": "Thu Dec 05 01:42:06 +0000 2013", 
+   "location": "CASTLE BRAVO", 
+   "retweeter_id": 231902357, 
+   "screen_name": "rigkmu"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000089784551/fc0e526627324d0f6a7de0fcbe7606b4_normal.jpeg", 
+   "name": "David Ruffin ", 
+   "text": "Est. 01/07/89 \u2022Taken \u2022Boss \u2022Capricorn \u2022Mature \u2022Honest \n#teamYouCanFuckOff \n#teamLoved", 
+   "tweet_id": 408280764737134592, 
+   "create_time": "Wed Dec 04 17:04:54 +0000 2013", 
+   "location": "U can call me Buddy ", 
+   "retweeter_id": 210981968, 
+   "screen_name": "papi1101"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000818865928/d9af6dec9fdf1c70e0a84bf384334780_normal.jpeg", 
+   "name": "Chris Gregory", 
+   "text": "#BallisLife #Sneakerhead", 
+   "tweet_id": 408087960849235968, 
+   "create_time": "Wed Dec 04 04:18:46 +0000 2013", 
+   "location": "Canada", 
+   "retweeter_id": 733890984, 
+   "screen_name": "ChrisGregoryyy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000807232156/e396e0bf519569c0ef091e99b9b1f724_normal.jpeg", 
+   "name": "\u042e\u043b\u044f \u041f\u0430\u043d\u0438\u043d\u0430", 
+   "text": "", 
+   "tweet_id": 407764329694789632, 
+   "create_time": "Tue Dec 03 06:52:46 +0000 2013", 
+   "location": "Russia, Saint-Petersburg", 
+   "retweeter_id": 1889517734, 
+   "screen_name": "yulyapan26"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000626902678/0807336d7a423955fa4adfed88275397_normal.jpeg", 
+   "name": "Cathryn Durham", 
+   "text": "Proud Aggie, Class of 2013, graduating in 2014, going for the dental field, and love me some Jesus!! In a relationship with @TxAggSwagg12", 
+   "tweet_id": 407749665061232640, 
+   "create_time": "Tue Dec 03 05:54:30 +0000 2013", 
+   "location": "College Station, TX", 
+   "retweeter_id": 564997824, 
+   "screen_name": "cathrynags24"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000167897111/428b95845225a3667d47171753824b39_normal.jpeg", 
+   "name": "Lena Noureldin", 
+   "text": "", 
+   "tweet_id": 407742885107228672, 
+   "create_time": "Tue Dec 03 05:27:33 +0000 2013", 
+   "location": "Los Angeles, California", 
+   "retweeter_id": 80812367, 
+   "screen_name": "lenanoureldin"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3746541022/ec018f6e3fb8fe4505c1c5e2f61b7736_normal.jpeg", 
+   "name": "Jade Stone", 
+   "text": "", 
+   "tweet_id": 407720487892942849, 
+   "create_time": "Tue Dec 03 03:58:34 +0000 2013", 
+   "location": "Georgia", 
+   "retweeter_id": 59345744, 
+   "screen_name": "wenonah94"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000861073349/pWKlh7NC_normal.jpeg", 
+   "name": "annmarie rodriguez", 
+   "text": "Goleman alumni. 18. Living in miami. Only God can judge. #smilerzzzzzz", 
+   "tweet_id": 407717968106512384, 
+   "create_time": "Tue Dec 03 03:48:33 +0000 2013", 
+   "location": "miami", 
+   "retweeter_id": 325957261, 
+   "screen_name": "annmariee21"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000825513849/66bfcf08f450b2d3b2a88800ac295232_normal.jpeg", 
+   "name": "Lady Nicole", 
+   "text": "I just want to be GREAT.", 
+   "tweet_id": 407642515324428288, 
+   "create_time": "Mon Dec 02 22:48:43 +0000 2013", 
+   "location": "HTX", 
+   "retweeter_id": 245148356, 
+   "screen_name": "realladynicole_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000821409319/5f6b0e027aaed6380ee1f2c9c7a43151_normal.png", 
+   "name": "Petrus Ramus", 
+   "text": "Scholar, Rhetorician, Son, and Pizza Lover #TeamJacob", 
+   "tweet_id": 407597691720720384, 
+   "create_time": "Mon Dec 02 19:50:37 +0000 2013", 
+   "location": "Paris, France", 
+   "retweeter_id": 2227053589, 
+   "screen_name": "Peter_Ramus"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000855660079/b956805ba1c69ff7d3a9013b81eaf966_normal.jpeg", 
+   "name": "Andrew Salvadore\u261d", 
+   "text": "I tend to wild out 24/7 BHHS '15 IG, ask.fm, and all that: salvs22", 
+   "tweet_id": 407585310386962432, 
+   "create_time": "Mon Dec 02 19:01:25 +0000 2013", 
+   "location": "Barrington, RI", 
+   "retweeter_id": 1066976605, 
+   "screen_name": "DashMetaphor"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000125514952/8fc997095fb65e1ecf806daeb9441213_normal.jpeg", 
+   "name": "Bethany Reames", 
+   "text": "Short, sassy and a little smart assy. Im a good time.", 
+   "tweet_id": 407578581628227584, 
+   "create_time": "Mon Dec 02 18:34:40 +0000 2013", 
+   "location": "On the road.", 
+   "retweeter_id": 251895914, 
+   "screen_name": "_bethannyxo"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411685506489925632/jAxBy2PS_normal.jpeg", 
+   "name": "Trey(10-3)(11-14)", 
+   "text": "#GodIsEverything Joshua 1:9 Colossians 3:23", 
+   "tweet_id": 407557318029873152, 
+   "create_time": "Mon Dec 02 17:10:11 +0000 2013", 
+   "location": "Boston, MA", 
+   "retweeter_id": 824070578, 
+   "screen_name": "trevellbandoo"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000512282173/136f973c3ce2a2332d14aaefe95f60d7_normal.jpeg", 
+   "name": "Kaylee Kardashian \u2661", 
+   "text": "Mermaid by day, Kardashian by night. #CowboysNation #TeamCeltics #TeamiPhone #Scorpio #OVO", 
+   "tweet_id": 407555664220016640, 
+   "create_time": "Mon Dec 02 17:03:37 +0000 2013", 
+   "location": "under the sea", 
+   "retweeter_id": 75430442, 
+   "screen_name": "kushandxo"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000860377659/7PyTIMlN_normal.jpeg", 
+   "name": "Jesse Bowles", 
+   "text": "I've found my soul mate @haydenhxc4  \u2764\ufe0f R.I.P Ethan Glenn", 
+   "tweet_id": 407550817382985728, 
+   "create_time": "Mon Dec 02 16:44:21 +0000 2013", 
+   "location": "SA West Virginia ", 
+   "retweeter_id": 316781915, 
+   "screen_name": "jess_xo12"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000656016054/2665e44df256758992ecc7740f269a33_normal.jpeg", 
+   "name": "TNT\u262e", 
+   "text": "LACE UP and be the realEST you can be..                                                                      \u2764RIP Tyler Kincaid, gone but never forgotten.", 
+   "tweet_id": 407548201169084416, 
+   "create_time": "Mon Dec 02 16:33:57 +0000 2013", 
+   "location": "Morgantown, WV", 
+   "retweeter_id": 261346361, 
+   "screen_name": "tessssnicole"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3338132661/f29eb8ea945f8471d111f8affc4a2604_normal.jpeg", 
+   "name": "shanika :)", 
+   "text": "Ja'mya has my heart 3.30.11 #teampisces. #teamheat. #teamdrizzy  intelligent. ambitious. fun. IG:powerrtrip", 
+   "tweet_id": 407510769983430657, 
+   "create_time": "Mon Dec 02 14:05:13 +0000 2013", 
+   "location": "Heat Nation", 
+   "retweeter_id": 70947233, 
+   "screen_name": "powerrtripping"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000860361909/nW4eltoS_normal.jpeg", 
+   "name": "tee_nuh\u2764", 
+   "text": "Ello. Proud mother of Damien Alex. have a good life with my boyfriend and son and soon our daughter Emma will be with us. Dec 2013! 3", 
+   "tweet_id": 407506741610303489, 
+   "create_time": "Mon Dec 02 13:49:12 +0000 2013", 
+   "location": "san antonio, texass", 
+   "retweeter_id": 184670250, 
+   "screen_name": "teenuuuh12"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000560719142/b9194613a3769e707b0644f2f44cd55a_normal.jpeg", 
+   "name": "Brianna Mcmillen", 
+   "text": "So here's the thing....", 
+   "tweet_id": 407406562030800896, 
+   "create_time": "Mon Dec 02 07:11:08 +0000 2013", 
+   "location": "Seattle, Wa", 
+   "retweeter_id": 47032856, 
+   "screen_name": "Briianna_Taylor"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000679977225/8259a447e60c1a26d14cf4de1704c467_normal.jpeg", 
+   "name": "SchoolBoy Q", 
+   "text": "The wicked flee when no one is chasing them! But the godly are bold as lions! Proverbs 28:2 #GodOverEverything #BicicletaGang #A$VP #LiveForFootball", 
+   "tweet_id": 407378491064082432, 
+   "create_time": "Mon Dec 02 05:19:35 +0000 2013", 
+   "location": "Kent,WA", 
+   "retweeter_id": 330833548, 
+   "screen_name": "QuincThePrince"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000701417854/cd184fa29c9102bb73d9a2ad0c0c0e0a_normal.jpeg", 
+   "name": "MANO", 
+   "text": "Eastlake High School '16 | I kinda play baseball", 
+   "tweet_id": 407366173630554113, 
+   "create_time": "Mon Dec 02 04:30:38 +0000 2013", 
+   "location": "Sammamish, WA", 
+   "retweeter_id": 610504717, 
+   "screen_name": "Mandaddyy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000848230679/a8edb888920d57b04c0a15b9a00a84f6_normal.jpeg", 
+   "name": "Br00ke Paulson", 
+   "text": "Welcome to my irrelevant, yet semi entertaining note pad of thoughts", 
+   "tweet_id": 407362957484376065, 
+   "create_time": "Mon Dec 02 04:17:52 +0000 2013", 
+   "location": "Oly", 
+   "retweeter_id": 331945078, 
+   "screen_name": "PaulyB_30"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000825011607/692c1c98e336eb05db8020ba98b22a7d_normal.jpeg", 
+   "name": "Reign Ayanna", 
+   "text": "\u264e\u264f", 
+   "tweet_id": 407358769484398593, 
+   "create_time": "Mon Dec 02 04:01:13 +0000 2013", 
+   "location": "Cypress/Long Beach CalifOrnia", 
+   "retweeter_id": 154635303, 
+   "screen_name": "breigniac"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000855698882/42c0bbd8aea27dcbd7ed64491a33ef4c_normal.jpeg", 
+   "name": "Pamela Sharp", 
+   "text": "I have no filter. I like beer and chocolate and all things delicious. most of my thoughts come out in lyrics but I can't sing a tune to save my life.", 
+   "tweet_id": 407321278170038272, 
+   "create_time": "Mon Dec 02 01:32:15 +0000 2013", 
+   "location": "Canada eh!", 
+   "retweeter_id": 219865863, 
+   "screen_name": "pamelasharp"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000744589151/3705eef61fac04bf07aca04b2ef170f2_normal.jpeg", 
+   "name": "Alice Leon", 
+   "text": "I am a proud Mom to Frankie and Priscilla.  Proud wife of Frank.  Pack leader to Lucie and Ricky.  I don't have any money but I am RICH in love!", 
+   "tweet_id": 407308858722242560, 
+   "create_time": "Mon Dec 02 00:42:54 +0000 2013", 
+   "location": "Sandy Utah", 
+   "retweeter_id": 24107851, 
+   "screen_name": "fralice"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000834594689/5bf904ef5ad82bc1fc01e7cf4d865c87_normal.jpeg", 
+   "name": "Mf' Trevino", 
+   "text": ", It Is What It Is ! | #LifeGoesOn | #Bookie | IG: @littlebookie", 
+   "tweet_id": 407308391569043457, 
+   "create_time": "Mon Dec 02 00:41:02 +0000 2013", 
+   "location": "Tulsa, Oklahoma", 
+   "retweeter_id": 1922481176, 
+   "screen_name": "MandiiTrevino"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000554737265/c0770ca82a44334fd21e935b61a6ddb2_normal.jpeg", 
+   "name": "Kathy Djeyfroudi", 
+   "text": "", 
+   "tweet_id": 407305724608253952, 
+   "create_time": "Mon Dec 02 00:30:26 +0000 2013", 
+   "location": "Seattle, Washington", 
+   "retweeter_id": 368722936, 
+   "screen_name": "kathy_djey"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000750887996/1978b2f407a47aa4be8202c4fde26dd8_normal.jpeg", 
+   "name": "ChelseaG", 
+   "text": "", 
+   "tweet_id": 407273715496267776, 
+   "create_time": "Sun Dec 01 22:23:15 +0000 2013", 
+   "location": "Canada", 
+   "retweeter_id": 353487702, 
+   "screen_name": "ChelseaGorrie"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000848510417/dff80260b07cd63645cfada9aa831aa1_normal.jpeg", 
+   "name": "Eli", 
+   "text": "I like basketball and Gabi. \n\n10/31/13 - @gabscobb", 
+   "tweet_id": 407265649891618816, 
+   "create_time": "Sun Dec 01 21:51:12 +0000 2013", 
+   "location": "West Virginia ", 
+   "retweeter_id": 1343372540, 
+   "screen_name": "ewatson343"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000782476047/f21799480d94ae2abf2baea9d56ebeb5_normal.jpeg", 
+   "name": "Alyssia", 
+   "text": "Animal lover. Workout enthusiast. Video gaming is my side hobby. Also check out my tumblr.", 
+   "tweet_id": 407254051248545792, 
+   "create_time": "Sun Dec 01 21:05:06 +0000 2013", 
+   "location": "Corvallis", 
+   "retweeter_id": 83750692, 
+   "screen_name": "A_Rich92"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000863236556/pRw3m7Wy_normal.jpeg", 
+   "name": "Eddie Tru\u231a", 
+   "text": "Balance. Life. Time. Sophisticated ignorance. Hacer. Poder. Amar dios. Instagram; eddietru22", 
+   "tweet_id": 407247521430245376, 
+   "create_time": "Sun Dec 01 20:39:10 +0000 2013", 
+   "location": "PORTLAND OREGON", 
+   "retweeter_id": 330134465, 
+   "screen_name": "EddietruSpeaks"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000846385772/d7d17779c2cd99c9732ce81f7eab6b83_normal.jpeg", 
+   "name": "Jamie Dorey", 
+   "text": "I'm a mommy", 
+   "tweet_id": 407233308448538625, 
+   "create_time": "Sun Dec 01 19:42:41 +0000 2013", 
+   "location": "Halifax, NS ", 
+   "retweeter_id": 265054200, 
+   "screen_name": "jamiedorey95"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000842407006/51a611a4d6b70d1f1cabf573d6566327_normal.jpeg", 
+   "name": "Oriana", 
+   "text": "17; aqu\u00ed hago catarsis , tengo un car\u00e1cter jodido; Viuda por eso la ropa negra\u2020; No creas en todo lo que lees aqu\u00ed ;Trotamundos de Carabobo / Miami Heat\u2665", 
+   "tweet_id": 407227737100025856, 
+   "create_time": "Sun Dec 01 19:20:33 +0000 2013", 
+   "location": "VENEZUELA\u2665", 
+   "retweeter_id": 27271370, 
+   "screen_name": "Orills"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000500422576/faebcad34bf5e8b65d86bdc8b42a225e_normal.jpeg", 
+   "name": "Alicia ", 
+   "text": "", 
+   "tweet_id": 407224900772843520, 
+   "create_time": "Sun Dec 01 19:09:16 +0000 2013", 
+   "location": "Fort Worth, TX", 
+   "retweeter_id": 91962156, 
+   "screen_name": "iEffinHeartYou"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000289998435/a947d22fdd5631bc86d302cb9a9f39d7_normal.jpeg", 
+   "name": "Jeanette Whatley", 
+   "text": "22.New York to Nashville. College grad. Broke. Crazy in love. Social media and McDonalds junkie. Bff's @lexiemarie_21 @kbyrd91 @angelique_duh1 #wolfpack", 
+   "tweet_id": 407220559064211456, 
+   "create_time": "Sun Dec 01 18:52:01 +0000 2013", 
+   "location": "Nashville, TN", 
+   "retweeter_id": 189001049, 
+   "screen_name": "_Msweezyjbaby"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000140919177/40c16137e2b5f95ea4022b5bd5ae12e5_normal.png", 
+   "name": "Bobbie M", 
+   "text": "Married, SAHM of 2 kiddos, Fitness Fanatic, Twitter-holic, Blogger, A Sweet & Sarcastic Bitch, \uf8ff Lover. I Fart Glitter & Shit Rainbows. Be Jealous!", 
+   "tweet_id": 407217566612856832, 
+   "create_time": "Sun Dec 01 18:40:08 +0000 2013", 
+   "location": "Here, There & Everywhere!", 
+   "retweeter_id": 15149233, 
+   "screen_name": "Bobbie629"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000713024971/c0fd73ce0020107f40f4ce3654d9aadf_normal.jpeg", 
+   "name": "Papi Chulo", 
+   "text": "#TeamJesus #TeamBilingual #TeamLakers #Packers #Capricorn. A 23yr old kid on the path to success. Speak fluent French and Sports.. Do What Thou Wilt.", 
+   "tweet_id": 407216177769771008, 
+   "create_time": "Sun Dec 01 18:34:37 +0000 2013", 
+   "location": "WI\u2708NYC\u2708ATL\u2708Paris\u2708 LA BABY!!!!", 
+   "retweeter_id": 295414398, 
+   "screen_name": "Bobby_K_Jr"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000652597544/fe78ac0fd71094c5e8abb6b0a95b450d_normal.jpeg", 
+   "name": "Mrs. Peart\u2764", 
+   "text": "Proud mommy of Kcz, Aip, and Eep \u2764 | Wife | Proverbs 31:10-31\u2764 | Proverbs 12:20", 
+   "tweet_id": 407204751147667456, 
+   "create_time": "Sun Dec 01 17:49:12 +0000 2013", 
+   "location": "Cali \u2600\u2764", 
+   "retweeter_id": 115982950, 
+   "screen_name": "VivaLaMylie"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000722885499/8638f8f24d5d1ff4f08942e1b04bb117_normal.jpeg", 
+   "name": "Annie Incitti", 
+   "text": "", 
+   "tweet_id": 407202758945943553, 
+   "create_time": "Sun Dec 01 17:41:17 +0000 2013", 
+   "location": "Binghamton", 
+   "retweeter_id": 1344859945, 
+   "screen_name": "inacitti14"
+  }
+ ], 
+ "404807971433377792": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2163208039/Sgh81Jp7_normal", 
+   "name": "God's Son", 
+   "text": "#OnlyGodCanJudgeMe #MoneyTrain follow my business partner @GuwopSixx my future wasnt planned God gave me a sign to do this so ima doing this well", 
+   "tweet_id": 412064243631271936, 
+   "create_time": "Sun Dec 15 03:39:06 +0000 2013", 
+   "location": "in my clothingline DesignRoom", 
+   "retweeter_id": 235348171, 
+   "screen_name": "Mr_Shingles"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000858327374/uC_Q6HFU_normal.jpeg", 
+   "name": "\u2661\u2605Sophia Sta Maria\u2605\u2661", 
+   "text": "13, IG: @sophiapatotchi :Nathan\u2764\ufe0fCody\u2764\ufe0fSean O'Donnel\u2764\ufe0fNiall\u2764\ufe0fAshton\u2764\ufe0fRoss\u2764\ufe0f: Glaiza~daenna~danielle~chanelle~carly~philip~shane~diego~shannen~brenna~ivy-kayee", 
+   "tweet_id": 412059024587100160, 
+   "create_time": "Sun Dec 15 03:18:21 +0000 2013", 
+   "location": "Philippines", 
+   "retweeter_id": 864805399, 
+   "screen_name": "sophiapatotchi"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412069441958973440/zRFc4q7s_normal.jpeg", 
+   "name": "A\u2661", 
+   "text": "I'm Allergic to Fakeshit & Bullshit!! | I Sing&Dance | Single\u2661 | IG: @alisyuuuh", 
+   "tweet_id": 412058546927198209, 
+   "create_time": "Sun Dec 15 03:16:27 +0000 2013", 
+   "location": "Quezon City", 
+   "retweeter_id": 262460736, 
+   "screen_name": "alisyuuuh"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000670421958/3c5587c6de472a6f7fd61272627f44a2_normal.jpeg", 
+   "name": "Maron Montano", 
+   "text": "\u2764", 
+   "tweet_id": 412055406068781057, 
+   "create_time": "Sun Dec 15 03:03:59 +0000 2013", 
+   "location": "MNL", 
+   "retweeter_id": 295798486, 
+   "screen_name": "maronavenue"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000853918481/2592b677d228c2037ad726d6c5e9bf35_normal.jpeg", 
+   "name": "Juriiin", 
+   "text": "SHOOT TIL MY ARM FALLS OFF.", 
+   "tweet_id": 412054854366801921, 
+   "create_time": "Sun Dec 15 03:01:47 +0000 2013", 
+   "location": "012", 
+   "retweeter_id": 1298033490, 
+   "screen_name": "Jorenivan"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412042811878281216/qEzMsik2_normal.jpeg", 
+   "name": "MO", 
+   "text": "Business Owner....Mother", 
+   "tweet_id": 412054492591685632, 
+   "create_time": "Sun Dec 15 03:00:21 +0000 2013", 
+   "location": "BALTIMORE CITY", 
+   "retweeter_id": 28410955, 
+   "screen_name": "LILMOBABY"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000848703593/0638393e60246980cf7b31e03428b4be_normal.jpeg", 
+   "name": "hoshitoshi 2000", 
+   "text": "Mikey Brown and im against all odds,", 
+   "tweet_id": 412054288882741248, 
+   "create_time": "Sun Dec 15 02:59:32 +0000 2013", 
+   "location": "Woodlawn", 
+   "retweeter_id": 152135476, 
+   "screen_name": "_YoungSmooth3"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000843307655/bd6e810c8dd9e12c2e11d8a0b881b64a_normal.jpeg", 
+   "name": "January19th\ue248\u2665", 
+   "text": "", 
+   "tweet_id": 412053987794616321, 
+   "create_time": "Sun Dec 15 02:58:20 +0000 2013", 
+   "location": "i do my own thing \ue253", 
+   "retweeter_id": 274747351, 
+   "screen_name": "Luv_Day"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000853623320/2cc5edde479d74a4a225a55d98b9f953_normal.jpeg", 
+   "name": "Zne6\u20e3Pluck\u264f\ufe0f", 
+   "text": "Just Chasing \ue12f\ue12f\ue12f\ue12f\ue12f", 
+   "tweet_id": 412053605026643968, 
+   "create_time": "Sun Dec 15 02:56:49 +0000 2013", 
+   "location": "Ghetto America\ue50c", 
+   "retweeter_id": 128943869, 
+   "screen_name": "FckYu_TeamWHITE"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000842441029/57e6483ef1fad3ab466b779b2146f09b_normal.jpeg", 
+   "name": "Sana Gilani", 
+   "text": "", 
+   "tweet_id": 412046475959353344, 
+   "create_time": "Sun Dec 15 02:28:29 +0000 2013", 
+   "location": "#splashcity", 
+   "retweeter_id": 1621917685, 
+   "screen_name": "SanaG_21"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000220053527/27134aebfda88e12f20c87c213e3391a_normal.jpeg", 
+   "name": "Savior.", 
+   "text": "#TeamGuyana #TeamCoolie #TeamGuyanese #TeamFollowBack #TeamRaptors #BlueJays LIFE OF THE TRU \u0950 #Heat #Lakers #Celtics MiamiHeat2013Champs\u2122 BBM Pin: 740EA0E7", 
+   "tweet_id": 412036233980686337, 
+   "create_time": "Sun Dec 15 01:47:48 +0000 2013", 
+   "location": "Enmore,Guyana", 
+   "retweeter_id": 840793238, 
+   "screen_name": "Randypersaud777"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000436888096/dceb8ca392343cc2aaba806152094705_normal.jpeg", 
+   "name": "Burak \u015eahin", 
+   "text": "Nisantasi Universitesi-Is Sagligi ve Guvenligi Uzmanligi", 
+   "tweet_id": 411992568009064448, 
+   "create_time": "Sat Dec 14 22:54:17 +0000 2013", 
+   "location": "Oklahoma City, OK", 
+   "retweeter_id": 368386798, 
+   "screen_name": "BurakGSahin"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411793689191534592/Ze9Z-bC2_normal.jpeg", 
+   "name": "C H A R B E L", 
+   "text": "Basketball is life, everything else is an interruption.", 
+   "tweet_id": 411990785480224769, 
+   "create_time": "Sat Dec 14 22:47:12 +0000 2013", 
+   "location": "behind you", 
+   "retweeter_id": 464538728, 
+   "screen_name": "charbelkhater"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000536353911/dda8693746deade046790d22b4f61f39_normal.jpeg", 
+   "name": "\u24c2 Al Mighty \u24c2", 
+   "text": "#BallIsLife THMS 2014. Twist Team #Darkside #ShowNoLoveForThotiannas Ballout TRILLie Jan.28", 
+   "tweet_id": 411958958774300672, 
+   "create_time": "Sat Dec 14 20:40:44 +0000 2013", 
+   "location": "Darkside ", 
+   "retweeter_id": 101137955, 
+   "screen_name": "AlMightyBucketz"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000865041728/BAi_Px4j_normal.jpeg", 
+   "name": "Cameron Green", 
+   "text": "Most Dope Seniorrrr at riverside, c/o 2014 ! Ask About Me If You Doubt Me ! @chels_diegert is probably mine :3", 
+   "tweet_id": 411889449350340609, 
+   "create_time": "Sat Dec 14 16:04:31 +0000 2013", 
+   "location": "3 oh quatro", 
+   "retweeter_id": 383804547, 
+   "screen_name": "cam_green20"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000823028569/d01f56dd457dc377e1096e829262287c_normal.jpeg", 
+   "name": "Chris Kil", 
+   "text": "CEO of Mayonniase Industries Worldwide\n 1 Corinthians 13:4-8", 
+   "tweet_id": 411850372802551808, 
+   "create_time": "Sat Dec 14 13:29:15 +0000 2013", 
+   "location": "S Korea ", 
+   "retweeter_id": 448393039, 
+   "screen_name": "RiceKil"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000464941467/c76e078bb0d8714bcb74d3e621b92d87_normal.jpeg", 
+   "name": "Pam George", 
+   "text": "LeBron is my KING!Fangirl.xx", 
+   "tweet_id": 411833986311544833, 
+   "create_time": "Sat Dec 14 12:24:08 +0000 2013", 
+   "location": "SouthEast ", 
+   "retweeter_id": 364201726, 
+   "screen_name": "pamelaELOPEZ"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000219686056/d458f4eeb5f964e1f283805e9fc80b3a_normal.jpeg", 
+   "name": "Leon Esmallao.", 
+   "text": "Jugador del Club Baloncesto Armilla de la categoria cadete. Mi numero es el 16. Me gusta escuchar rap americano y salir con los colegas :)", 
+   "tweet_id": 411808348523479040, 
+   "create_time": "Sat Dec 14 10:42:15 +0000 2013", 
+   "location": "Armilla (Granada)", 
+   "retweeter_id": 813931603, 
+   "screen_name": "eduapple97"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000860145956/d3HWtnfk_normal.jpeg", 
+   "name": "Evan Crim", 
+   "text": "I ball at madison.", 
+   "tweet_id": 411715467389054976, 
+   "create_time": "Sat Dec 14 04:33:11 +0000 2013", 
+   "location": "Madison", 
+   "retweeter_id": 1520699774, 
+   "screen_name": "quick_crim_32"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000618782416/fe213ea98e79389b1d083e5a06985c78_normal.jpeg", 
+   "name": "I", 
+   "text": "Life,Sweetness,Hope Sheyla is so gorg \u2764\ufe0f bffl", 
+   "tweet_id": 411709850788179968, 
+   "create_time": "Sat Dec 14 04:10:52 +0000 2013", 
+   "location": "garden grove", 
+   "retweeter_id": 281324551, 
+   "screen_name": "1SA3LisBeast"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000808114894/f4f7994cb87bb2f242ac73afdaee91ad_normal.jpeg", 
+   "name": "TheWolfOfWallStreet", 
+   "text": "VP of Marketing @InkMovement| VP of Rugby Operations @RickHansenSS | I'm aware I'm the king \u264b", 
+   "tweet_id": 411678873726640129, 
+   "create_time": "Sat Dec 14 02:07:46 +0000 2013", 
+   "location": "Rio de Janeiro ", 
+   "retweeter_id": 421918676, 
+   "screen_name": "GeethanKnows"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000652795732/ea79e6e1b330b9cdaa355a58670003b3_normal.jpeg", 
+   "name": "IBS ", 
+   "text": "success is the key/ Solent Uni #Ballplayer", 
+   "tweet_id": 411676269240393728, 
+   "create_time": "Sat Dec 14 01:57:25 +0000 2013", 
+   "location": "Southampton/Beijing", 
+   "retweeter_id": 333850922, 
+   "screen_name": "Kalil_1994"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000506749208/8202aef43e4671eb614ddf36637f237e_normal.jpeg", 
+   "name": "Jay Fatz", 
+   "text": "With God first then everything else will follow...   R.I.P Mama :-)  #Gamecocks  Charleston,SC", 
+   "tweet_id": 411671413675012096, 
+   "create_time": "Sat Dec 14 01:38:08 +0000 2013", 
+   "location": "Where dreams will be reality", 
+   "retweeter_id": 979663842, 
+   "screen_name": "JermStayCoolin"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000768115588/a6166c11b5c3f03fdbd4fa934bfab3f7_normal.jpeg", 
+   "name": "Josh", 
+   "text": "Just chasing my dreams", 
+   "tweet_id": 411671291339362304, 
+   "create_time": "Sat Dec 14 01:37:39 +0000 2013", 
+   "location": "In The Gym ", 
+   "retweeter_id": 354482557, 
+   "screen_name": "JTBall_For_Life"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2626769621/image_normal.jpg", 
+   "name": "Jose F Benitez", 
+   "text": "El Menor!!", 
+   "tweet_id": 411666767355080704, 
+   "create_time": "Sat Dec 14 01:19:40 +0000 2013", 
+   "location": "Pto Fijo. Falc\u00f3n Venezuela ", 
+   "retweeter_id": 146036440, 
+   "screen_name": "jfbenitezmenor"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000634307816/09e887fe933730ebc57c96f318536a96_normal.jpeg", 
+   "name": "Pops", 
+   "text": "Just a nigga valeting celebrity's cars to stay off Child Support \u270a Everything You Tweet Can And Will Be Used Against You", 
+   "tweet_id": 411664687563276288, 
+   "create_time": "Sat Dec 14 01:11:24 +0000 2013", 
+   "location": "Parent(InDa)Hood", 
+   "retweeter_id": 317327810, 
+   "screen_name": "_YoungDaddyo"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000772087355/cc000426ea4d38acf0e11f9e9aeb7ced_normal.jpeg", 
+   "name": "Deminovia\u2665", 
+   "text": "Jugador de basquet,vecinal de Munro,09#o// \u00b0 O| (Mi novia me ama muchote y soy solo de ella) \u266510/9\u2665", 
+   "tweet_id": 411659757817446400, 
+   "create_time": "Sat Dec 14 00:51:49 +0000 2013", 
+   "location": "De Miami A Ibiza.", 
+   "retweeter_id": 1080785742, 
+   "screen_name": "Ezee_oli"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000820082719/9ea4acfdc7c4c5cd65434b7afd778f01_normal.jpeg", 
+   "name": "Byron Jewell", 
+   "text": "#BBN for life | #Colts | #Phillies | Single | Go SC bears!!!", 
+   "tweet_id": 411654522503569410, 
+   "create_time": "Sat Dec 14 00:31:01 +0000 2013", 
+   "location": "spencer countyyy", 
+   "retweeter_id": 1700304936, 
+   "screen_name": "B_Jewell23x_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000863887360/ZLrpxLkj_normal.jpeg", 
+   "name": "CHOSEN", 
+   "text": "Cantante & Compositor en Bellum Music.                                            PARA CONTRATACIONES: BellumMusic@gmail.com", 
+   "tweet_id": 411616146551767040, 
+   "create_time": "Fri Dec 13 21:58:31 +0000 2013", 
+   "location": "Osuna, Sevilla", 
+   "retweeter_id": 416229086, 
+   "screen_name": "KblingBR"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000754828787/05eef2304b6038fa714b80a51424da59_normal.jpeg", 
+   "name": "Michael", 
+   "text": "MInd is elite Facial expression is not but that is only becuz my mind always deep in an interesting thought", 
+   "tweet_id": 411610914572345344, 
+   "create_time": "Fri Dec 13 21:37:44 +0000 2013", 
+   "location": "Dreamville", 
+   "retweeter_id": 483544012, 
+   "screen_name": "I_AmtheTruth_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000766967369/c7aca454ebfb76bae0e846cd13c0b171_normal.jpeg", 
+   "name": "Lil' fella", 
+   "text": "On fire/En fuego/En lume .Gallego de Canarias. M\u00fasica y deporte.Dicen que el deporte es vida,yo me lo creo porque si me lo quitas,me quitas la vida.", 
+   "tweet_id": 411594688098213888, 
+   "create_time": "Fri Dec 13 20:33:15 +0000 2013", 
+   "location": "A Coru\u00f1a \u2708 Fuerteventura ", 
+   "retweeter_id": 485890170, 
+   "screen_name": "RedHat97"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000694857692/2784d7e5d461289f47e3bc1847304181_normal.jpeg", 
+   "name": "Trevor James Schafer", 
+   "text": "", 
+   "tweet_id": 411589673471864832, 
+   "create_time": "Fri Dec 13 20:13:19 +0000 2013", 
+   "location": "TEXAS", 
+   "retweeter_id": 329459297, 
+   "screen_name": "trevorjames30"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000816759051/d03a0243f8853189dcda13901091dd29_normal.jpeg", 
+   "name": "Isaac C.", 
+   "text": "emancipate yourselves from mental slavery; None but ourselves can free our minds.", 
+   "tweet_id": 411582435206242304, 
+   "create_time": "Fri Dec 13 19:44:34 +0000 2013", 
+   "location": "San Antonio / RGV raised", 
+   "retweeter_id": 2224712209, 
+   "screen_name": "izikCarr"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000867927402/w9U0Ycif_normal.jpeg", 
+   "name": "Rari Antari", 
+   "text": "POET, ATHLETE, MUSICIAN, 2PAC'S BIGGIEST FAN GODS GOLDEN ARMOR BEARER LOL!! LOVE LIVE LAUGH #DIAMOND'S R us", 
+   "tweet_id": 411577873020223488, 
+   "create_time": "Fri Dec 13 19:26:26 +0000 2013", 
+   "location": "TALLAHASSEE,FL", 
+   "retweeter_id": 1287743323, 
+   "screen_name": "Stellar_Ari"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000754840549/b000e131fa6295439be7bfb49689ee16_normal.jpeg", 
+   "name": "Hasen Zaydon", 
+   "text": "I just want to be great! Palestinian. Future Mechanical Engineer. Allah is Greater. Instagram: Hasen23", 
+   "tweet_id": 411577567548686336, 
+   "create_time": "Fri Dec 13 19:25:13 +0000 2013", 
+   "location": "Houston raised!", 
+   "retweeter_id": 172632096, 
+   "screen_name": "HasenZaydon"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000588398203/d295c3bdc0f3c99c6802922cfa4d2cb4_normal.jpeg", 
+   "name": "Avery Gilliam", 
+   "text": "Houston to Lubbock", 
+   "tweet_id": 411576829808750593, 
+   "create_time": "Fri Dec 13 19:22:17 +0000 2013", 
+   "location": "Texas Tech University ", 
+   "retweeter_id": 234524008, 
+   "screen_name": "AverysTooMuch"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000857557785/6C1_Zyze_normal.jpeg", 
+   "name": "Tre' $tylez \u2122", 
+   "text": "5'8 junior point guard at Hillsboro High. #TXrep #RIPTiara #ballislife.", 
+   "tweet_id": 411499080796221441, 
+   "create_time": "Fri Dec 13 14:13:20 +0000 2013", 
+   "location": "Texas \u2708 College", 
+   "retweeter_id": 776967818, 
+   "screen_name": "TrevonNOmartin"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000692176665/63bd051d10adc61f0bcfb07bc6107ae8_normal.jpeg", 
+   "name": "Secret Hymns", 
+   "text": "Secret Hymns designs and develops tee shirts, mugs, hats and other products based on the theme of music. Music is my brand.", 
+   "tweet_id": 411498471687192576, 
+   "create_time": "Fri Dec 13 14:10:55 +0000 2013", 
+   "location": "New York", 
+   "retweeter_id": 19166894, 
+   "screen_name": "SecretHymns"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000716394022/f9a6b3b8bd9ee7d602350f67d2d4b10a_normal.jpeg", 
+   "name": "Kory Kostecki", 
+   "text": "Pitcher | 3rd Baseman | Stallions Baseball #25 | DeSmet Jesuit High School | Class of 2015 | Dream Chasing | Phil 4:13 | Cardinals Nation", 
+   "tweet_id": 411497743467569152, 
+   "create_time": "Fri Dec 13 14:08:01 +0000 2013", 
+   "location": "St. Louis, MO", 
+   "retweeter_id": 414403874, 
+   "screen_name": "KAK_dAddy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000842451385/11f8c6dd43646189b3b22fabdd832157_normal.jpeg", 
+   "name": "Marco F Tavarez     ", 
+   "text": "Tengo un coraz\u00f3n tan grande que en el pecho no me cabe", 
+   "tweet_id": 411496093445533696, 
+   "create_time": "Fri Dec 13 14:01:28 +0000 2013", 
+   "location": "Rep\u00fablica Dominicana.", 
+   "retweeter_id": 776700864, 
+   "screen_name": "Marcofelix01"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000830152209/c4b45713eb9decb090b292c74e8f0c05_normal.jpeg", 
+   "name": "March 2nd", 
+   "text": "CLASS OF 2016, I am a Athlete.  We all Grind, We all Shine", 
+   "tweet_id": 411480874761588736, 
+   "create_time": "Fri Dec 13 13:01:00 +0000 2013", 
+   "location": "Orange park", 
+   "retweeter_id": 603873728, 
+   "screen_name": "TWatley_3"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411910802346483713/yKaarbBR_normal.jpeg", 
+   "name": "Gary D Ernest", 
+   "text": "Three Sport Athlete | St. Dominic HS | Class of 2015 | GodFirs7 | Trying to make it", 
+   "tweet_id": 411480320303579136, 
+   "create_time": "Fri Dec 13 12:58:47 +0000 2013", 
+   "location": "314", 
+   "retweeter_id": 602967242, 
+   "screen_name": "ernesTDgary"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000644697013/27d41b65176c3b5f8ea4022e2d4a1c92_normal.jpeg", 
+   "name": "Sarah Caroline R ", 
+   "text": "\u2665 JesusChrist | VHS Dharma Paramitha |151097 | everything about @kingjames #6 (mention for followed)", 
+   "tweet_id": 411461538550001667, 
+   "create_time": "Fri Dec 13 11:44:10 +0000 2013", 
+   "location": "jakarta timur", 
+   "retweeter_id": 204310923, 
+   "screen_name": "sarahcrrrrrr"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3629776499/63029341dc9769ac297567140360f446_normal.jpeg", 
+   "name": "Omari Stoudamire", 
+   "text": "Life is war, and we are soldiers. Aspiring broadcast journalist, philosopher, and lover of dogs. #TU", 
+   "tweet_id": 411396189402447872, 
+   "create_time": "Fri Dec 13 07:24:29 +0000 2013", 
+   "location": "#TeamDMV ---- #TeamPhilly", 
+   "retweeter_id": 327633707, 
+   "screen_name": "_LLOJ"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000864433249/h9L0_yFb_normal.jpeg", 
+   "name": "Neezus", 
+   "text": "Ya bish", 
+   "tweet_id": 411354333763366912, 
+   "create_time": "Fri Dec 13 04:38:10 +0000 2013", 
+   "location": "5STR", 
+   "retweeter_id": 1514671440, 
+   "screen_name": "NayKuhhWann"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000848602169/da1864a987ee757bd41ab5a7bfb842fc_normal.jpeg", 
+   "name": "Famous greazzy", 
+   "text": "Fulton 2016 IG: T_green19", 
+   "tweet_id": 411318455317839872, 
+   "create_time": "Fri Dec 13 02:15:36 +0000 2013", 
+   "location": "R.I.P DADDY", 
+   "retweeter_id": 807980030, 
+   "screen_name": "T_green19"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000864874112/JTUF6lC2_normal.jpeg", 
+   "name": "kendra balsamo", 
+   "text": "Put a gun to my head and pull it, just to show you I'm not defeated by a bullet", 
+   "tweet_id": 411313255312015360, 
+   "create_time": "Fri Dec 13 01:54:56 +0000 2013", 
+   "location": "the 727, RRHS", 
+   "retweeter_id": 1129867837, 
+   "screen_name": "ba11zy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000779357725/0bad832896a525c657e46e8a63300b55_normal.jpeg", 
+   "name": "Riqy Alston", 
+   "text": "Music Is Life", 
+   "tweet_id": 411300857133535233, 
+   "create_time": "Fri Dec 13 01:05:40 +0000 2013", 
+   "location": "Hachie hood , Texas ", 
+   "retweeter_id": 2168909352, 
+   "screen_name": "riqy_alston_11"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000864618071/Z8G2bhTI_normal.jpeg", 
+   "name": "The Almighty A$AP", 
+   "text": "Football&Mixed Girls\u2665 Just A Kid Chasing His Dreams....\u2605", 
+   "tweet_id": 411300498533146624, 
+   "create_time": "Fri Dec 13 01:04:15 +0000 2013", 
+   "location": "Waxahachie Tx\u2714", 
+   "retweeter_id": 1963553606, 
+   "screen_name": "Nikekid9_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000732810235/7ffd1766b3c51b8ed6869ab9d9fa4c45_normal.jpeg", 
+   "name": "Antonio Pakirrito", 
+   "text": "Deportista. Aficionado a dormir la siesta y al Real Madrid. Mis \u00eddolos son LeBron James, Cristiano Ronaldo y Axel Torres. Antes conocido como pakirrito. Yeray.", 
+   "tweet_id": 411287371121176576, 
+   "create_time": "Fri Dec 13 00:12:05 +0000 2013", 
+   "location": "Grand Line", 
+   "retweeter_id": 1971922128, 
+   "screen_name": "Tonyjty25"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000275155604/022593e4d0c27d19d4c7a41e709da32a_normal.jpeg", 
+   "name": "Omar Gonzalez", 
+   "text": "Lic. en Ciencias Fiscales , Amante de Mi Familia. Operador de la C.A Metro de Caracas, Fan\u00e1tico de los Leones del Caracas y de Marinos  de Anzoategui.", 
+   "tweet_id": 411279207638245380, 
+   "create_time": "Thu Dec 12 23:39:39 +0000 2013", 
+   "location": "Caracas", 
+   "retweeter_id": 286703041, 
+   "screen_name": "omiyale17"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000278169591/4a04d419c54818ca2bd81b346393a0e4_normal.jpeg", 
+   "name": "Curtis Blake", 
+   "text": "God gives his toughest battles to his strongest soilders", 
+   "tweet_id": 411269796022747136, 
+   "create_time": "Thu Dec 12 23:02:15 +0000 2013", 
+   "location": "coshocton, ohio", 
+   "retweeter_id": 701290142, 
+   "screen_name": "cdipper10"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411217089966264321/kOdnw98W_normal.jpeg", 
+   "name": "Hayden Cantrell", 
+   "text": "#DipSquad #Raven\u2764", 
+   "tweet_id": 411265900629590016, 
+   "create_time": "Thu Dec 12 22:46:46 +0000 2013", 
+   "location": "Kent State", 
+   "retweeter_id": 376365097, 
+   "screen_name": "Hayden2325"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000835485592/b346031fd5bcebe79d0b7079e978df58_normal.jpeg", 
+   "name": "VonQuae Conethan", 
+   "text": "6'8 young man determined to make my dreams come true #NBABOUND #BallisLife", 
+   "tweet_id": 411265523083513857, 
+   "create_time": "Thu Dec 12 22:45:16 +0000 2013", 
+   "location": "NYC", 
+   "retweeter_id": 275559002, 
+   "screen_name": "KingQuae31"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000851231104/6ff7b757345497e4ef2bf57b8ca38004_normal.jpeg", 
+   "name": "Wifly", 
+   "text": "solo soy yo cuando mi otro yo me deja", 
+   "tweet_id": 411264498218307585, 
+   "create_time": "Thu Dec 12 22:41:11 +0000 2013", 
+   "location": "DIABLO DE ALMA BUENA", 
+   "retweeter_id": 269444187, 
+   "screen_name": "WillyPiet"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000704053766/95dc7a5b439c7df691889b12433699e0_normal.jpeg", 
+   "name": "Gregory Jr.", 
+   "text": "#UA16 , Man F*ck all that Happy To Be Here Shit Y'all Want Me On ! #330", 
+   "tweet_id": 411264158303133696, 
+   "create_time": "Thu Dec 12 22:39:50 +0000 2013", 
+   "location": "#330", 
+   "retweeter_id": 230474364, 
+   "screen_name": "GreggyB_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000798225634/78ca61854e6fa8da42ae9de1101d632c_normal.jpeg", 
+   "name": "\u2606La_Blank\u2606", 
+   "text": "$$$ Over Tha Best Pussy\r\nFollow My Favorite Girl @AmoreNookie_", 
+   "tweet_id": 411251093545697280, 
+   "create_time": "Thu Dec 12 21:47:56 +0000 2013", 
+   "location": "Global ", 
+   "retweeter_id": 256351326, 
+   "screen_name": "Kuffnoslushie"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000819178128/9fa431c059615820a7ac131fa9c8779f_normal.jpeg", 
+   "name": "Keegan Workman", 
+   "text": "Feed 'em Fish Heads.\nOVOKH10.8.11", 
+   "tweet_id": 411190336870834176, 
+   "create_time": "Thu Dec 12 17:46:30 +0000 2013", 
+   "location": "Houston, Texas", 
+   "retweeter_id": 118926669, 
+   "screen_name": "KeegoW38"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000863108262/9sKJ3cIv_normal.jpeg", 
+   "name": "Job 32:9", 
+   "text": "GOD | 5'5 | 1021| Replete | Namimirata-CA | Bosetted w/ her\u261d\ufe0f", 
+   "tweet_id": 411171270684712960, 
+   "create_time": "Thu Dec 12 16:30:44 +0000 2013", 
+   "location": "Manila :)", 
+   "retweeter_id": 79181131, 
+   "screen_name": "lIMjoboy"
+  }
+ ], 
+ "391296160960614401": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000865342284/ZenUurui_normal.jpeg", 
+   "name": "Favorites God", 
+   "text": "Don't follow me if you take your hair off when you go to bed.", 
+   "tweet_id": 410539412737777664, 
+   "create_time": "Tue Dec 10 22:39:58 +0000 2013", 
+   "location": "Boston", 
+   "retweeter_id": 1610782405, 
+   "screen_name": "ArlisHasNoChill"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000696166761/22d0a3da11b409e8d7eb1e21945abfb8_normal.jpeg", 
+   "name": "Gio Reyes", 
+   "text": "19, Down For Whatever #Miami #Aquarius #TeamIphone #Paid", 
+   "tweet_id": 404042569400991744, 
+   "create_time": "Sat Nov 23 00:23:49 +0000 2013", 
+   "location": "Miami", 
+   "retweeter_id": 453529742, 
+   "screen_name": "giosabeast"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411743867889672193/5b5ZxRxS_normal.jpeg", 
+   "name": "RIDHO", 
+   "text": "Anti CJR (boy band BANCI) jiah !!!", 
+   "tweet_id": 403876453327966208, 
+   "create_time": "Fri Nov 22 13:23:44 +0000 2013", 
+   "location": "INDONESIA", 
+   "retweeter_id": 2173669975, 
+   "screen_name": "Baragbah_10"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000865920518/GRXECT2t_normal.jpeg", 
+   "name": "est. 1983", 
+   "text": "God, Family & Sports", 
+   "tweet_id": 403711913676525568, 
+   "create_time": "Fri Nov 22 02:29:55 +0000 2013", 
+   "location": "Earth", 
+   "retweeter_id": 555512025, 
+   "screen_name": "NYC_Trott"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000770874076/03baaa665363bf58c98479bec0be44a6_normal.jpeg", 
+   "name": "\u2764 Tahj & Aj's Mommy\u2764", 
+   "text": "Mother of 2 handsome & absolutely wonderful  boys ! The mission is to make them proud , take care of home & stay fly ! #BlessedBeyondMeasures ! #TeamUs", 
+   "tweet_id": 403025995281612800, 
+   "create_time": "Wed Nov 20 05:04:19 +0000 2013", 
+   "location": "Taking Care of HOME !", 
+   "retweeter_id": 297216875, 
+   "screen_name": "_TweetABOUTMee_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000804956464/a7d7be39f3296df7f7460e5678494ec6_normal.jpeg", 
+   "name": "Kiaraaaaa", 
+   "text": "\u2665 ..University of Kentucky ' 17 \r\nLost ? .. Follow Me ! :))", 
+   "tweet_id": 402937967766806528, 
+   "create_time": "Tue Nov 19 23:14:32 +0000 2013", 
+   "location": "Louisville // Lexington", 
+   "retweeter_id": 295983848, 
+   "screen_name": "x_GawJusss"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000834142672/a94af958f455ac1c673bfc8224d0d0c8_normal.jpeg", 
+   "name": "jdotfer", 
+   "text": "State Champ", 
+   "tweet_id": 402318483310260224, 
+   "create_time": "Mon Nov 18 06:12:55 +0000 2013", 
+   "location": "Madison, Alabama", 
+   "retweeter_id": 1354398704, 
+   "screen_name": "jdotferdi"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412067925181227008/BsbfZnXS_normal.jpeg", 
+   "name": "Deante Xaiver", 
+   "text": "RecordingArtist/SongWriter. 15.", 
+   "tweet_id": 402241912364863488, 
+   "create_time": "Mon Nov 18 01:08:39 +0000 2013", 
+   "location": "Woodbridge VA ", 
+   "retweeter_id": 1491840421, 
+   "screen_name": "xaiverdeante"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000744024333/8d3ecc9ebd831a909effe8c662bcdadc_normal.jpeg", 
+   "name": "Da Juice ", 
+   "text": "I hustle like my moms, and I look like my pops! #LBWCC", 
+   "tweet_id": 401882563876511744, 
+   "create_time": "Sun Nov 17 01:20:44 +0000 2013", 
+   "location": "Evergreen, Al", 
+   "retweeter_id": 270944960, 
+   "screen_name": "2legit_2k12"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411932140423495681/0wdSsFnk_normal.jpeg", 
+   "name": "", 
+   "text": "RIP Aunt Barbara , Tabae & Rell", 
+   "tweet_id": 401877453498769408, 
+   "create_time": "Sun Nov 17 01:00:26 +0000 2013", 
+   "location": "Sumwhere Shakin Life ", 
+   "retweeter_id": 125236584, 
+   "screen_name": "BlacZach_Morris"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000724528663/1d78d91711475fb44ee37f36cc8bad1a_normal.jpeg", 
+   "name": "B.I.T.E.", 
+   "text": "When u live by the gun you die by the same faith. . #FRESHBEFOREDISHONOR #DREAMSDOCOMETRUE", 
+   "tweet_id": 401877292714303488, 
+   "create_time": "Sun Nov 17 00:59:47 +0000 2013", 
+   "location": "Olive Branch MS, \u2708Denmark SC, ", 
+   "retweeter_id": 212846269, 
+   "screen_name": "Cool_quortney"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000761259394/c54f4b9eaa1ec6b305f096e0bc213cdb_normal.jpeg", 
+   "name": "The Only One.", 
+   "text": "Poderoso y Santo Rey Soberano\u2665                           La f\u00e9 y la paciencia, obran la promesa \u271d Hebreos 6: 11 - 12              IAOB \u2661", 
+   "tweet_id": 401442282253344768, 
+   "create_time": "Fri Nov 15 20:11:13 +0000 2013", 
+   "location": "Somewhere Only We Know \u2663", 
+   "retweeter_id": 1861789008, 
+   "screen_name": "CeciiBJA"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412066547864043520/3Y5hJmdD_normal.jpeg", 
+   "name": "Iako", 
+   "text": "I'm an athlete.", 
+   "tweet_id": 400692747536834560, 
+   "create_time": "Wed Nov 13 18:32:50 +0000 2013", 
+   "location": "In the 519", 
+   "retweeter_id": 1101843636, 
+   "screen_name": "tashmartin16_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000250695438/a14c257d23e3eba9b21a03dd9eb4fd6f_normal.jpeg", 
+   "name": "Mikee Villegas", 
+   "text": "Google Student Ambassador. A blogger that writes about life, sports, and more. Live life to the fullest. Basketball has always been a passion :) Tweet me. :)", 
+   "tweet_id": 400669134586793984, 
+   "create_time": "Wed Nov 13 16:59:00 +0000 2013", 
+   "location": "Google", 
+   "retweeter_id": 25796884, 
+   "screen_name": "OneJaMayk"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000728804633/5a08559b4a2f31833222c25ef59f11af_normal.jpeg", 
+   "name": "Antony Franco \u30c4", 
+   "text": "-- Nada --", 
+   "tweet_id": 400094887515013120, 
+   "create_time": "Tue Nov 12 02:57:09 +0000 2013", 
+   "location": "Loading... \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588] 99%", 
+   "retweeter_id": 833571798, 
+   "screen_name": "TONYFR13_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000864517947/iTyHdcfV_normal.jpeg", 
+   "name": "CJ", 
+   "text": "99% of the time my brain is thinking blah, meh,\nwhy, huh, WTF, weed,food and computers. The other\n1% i\u2019m usually asleep.   Goes to NBH", 
+   "tweet_id": 400094824680140800, 
+   "create_time": "Tue Nov 12 02:56:54 +0000 2013", 
+   "location": "New Bedford, MA", 
+   "retweeter_id": 1692631236, 
+   "screen_name": "xxkingbudxx"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000808999040/ee53ce62d26a42072d60057529fcec56_normal.jpeg", 
+   "name": "MH\u270c", 
+   "text": "", 
+   "tweet_id": 399990293325684736, 
+   "create_time": "Mon Nov 11 20:01:32 +0000 2013", 
+   "location": "Boston,MA", 
+   "retweeter_id": 335025278, 
+   "screen_name": "_thuggen"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000865342284/ZenUurui_normal.jpeg", 
+   "name": "Favorites God", 
+   "text": "Don't follow me if you take your hair off when you go to bed.", 
+   "tweet_id": 399990222974615553, 
+   "create_time": "Mon Nov 11 20:01:15 +0000 2013", 
+   "location": "Boston", 
+   "retweeter_id": 1610782405, 
+   "screen_name": "ArlisHasNoChill"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000494870093/bd4206f82c55494410c53d40a5b1cf44_normal.jpeg", 
+   "name": "LB", 
+   "text": "Real Madrid, Miami Heat, Panam\u00e1. F\u00fatbol. Jugador profesional de FIFA. #StriveforGreatness", 
+   "tweet_id": 399740686443876352, 
+   "create_time": "Mon Nov 11 03:29:41 +0000 2013", 
+   "location": "Panam\u00e1", 
+   "retweeter_id": 192275031, 
+   "screen_name": "LouisBA28"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000800381568/e47c6b7a91e5f53858d174165be5bcef_normal.jpeg", 
+   "name": "A", 
+   "text": "For every minute you're angry, you lose 60 seconds of happiness  \n\nPrisoner @ #VSU\n#YBM\n#Virgo \n#478", 
+   "tweet_id": 399708821687656448, 
+   "create_time": "Mon Nov 11 01:23:04 +0000 2013", 
+   "location": "Wilco - Milly - Valdosta", 
+   "retweeter_id": 216222620, 
+   "screen_name": "Keemo_Baracus"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000839248249/df287e06f9da57874461ffaa48f16ed1_normal.jpeg", 
+   "name": "Dani \u2764", 
+   "text": "I \u2764my family . They're my WORLD! I live for them! I'd be nothing without them \n\n#TeamCowboys#TeamLebron#TeamPisces", 
+   "tweet_id": 399708413896060928, 
+   "create_time": "Mon Nov 11 01:21:26 +0000 2013", 
+   "location": "\u2600", 
+   "retweeter_id": 187396792, 
+   "screen_name": "DaNi03_10"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000671872780/424d0a74df29cfc2c49ea7f1c9465490_normal.jpeg", 
+   "name": "chelly chEll", 
+   "text": "if I said it chances are I meant it :)", 
+   "tweet_id": 399335600269971456, 
+   "create_time": "Sun Nov 10 00:40:01 +0000 2013", 
+   "location": "MOBILE, CALI, MISSISSIPPI", 
+   "retweeter_id": 19628525, 
+   "screen_name": "REED_ABOUT_ME22"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000802017981/82627bf60108e479c97659075b6102f4_normal.jpeg", 
+   "name": "Mr. On & Pop\u264b\u00dfK \u0160W@G", 
+   "text": "Brooklyn swag is the name, swagging is the game. ~LOVE, LIVE, LAUGH~ ONLY GOD CAN JUDGE # Couture Money Gang ent.\u2122 # Dollars #Team iPhone.^K.N.G 4 lIF3^", 
+   "tweet_id": 398098664247541760, 
+   "create_time": "Wed Nov 06 14:44:52 +0000 2013", 
+   "location": "Brooklyn, NY", 
+   "retweeter_id": 424449427, 
+   "screen_name": "CMG_SWAG"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000853472579/174c9fcd183e2abb688f705c52f3b2c4_normal.jpeg", 
+   "name": "Mr. Live_&_Learn", 
+   "text": "IG: DAREALTROSE Even the most beautiful flower has to go through some dirt in order to grow. tduanerose@gmail.com #PSALMS 23 #876 #305 #954 #416 #Toronto", 
+   "tweet_id": 398098257983045632, 
+   "create_time": "Wed Nov 06 14:43:15 +0000 2013", 
+   "location": "IN MY ZONE ", 
+   "retweeter_id": 94916231, 
+   "screen_name": "darealtrose"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000450850204/8c3805c35492c570e61a9449cbec5b43_normal.jpeg", 
+   "name": "Christian Jade Recio", 
+   "text": "Not an angel just an ordinary man.", 
+   "tweet_id": 397538533860048896, 
+   "create_time": "Tue Nov 05 01:39:07 +0000 2013", 
+   "location": "Marilao, Bulacan", 
+   "retweeter_id": 397632164, 
+   "screen_name": "jade_recio"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000711038613/93c1889323a008fec174dd829f089cb8_normal.jpeg", 
+   "name": "Tyrone Doc Harris", 
+   "text": "Professional Chemist @FAMU/Track & Field Long Jumper 4 Shore AC Club, BRL Sports &Oxygen4Energy. Lettin Christ direct my path!  \r\nhttps://t.co/pTn5tWOx", 
+   "tweet_id": 397326993819439104, 
+   "create_time": "Mon Nov 04 11:38:31 +0000 2013", 
+   "location": "Miami", 
+   "retweeter_id": 832236037, 
+   "screen_name": "TyJumpHarris"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000740951935/32ac103103fcf25d8922bc91bfb37dba_normal.jpeg", 
+   "name": "The Real Him", 
+   "text": "wanna know? ask me", 
+   "tweet_id": 396506757226573825, 
+   "create_time": "Sat Nov 02 05:19:12 +0000 2013", 
+   "location": "in the east ..duh", 
+   "retweeter_id": 34113300, 
+   "screen_name": "vagkage"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000370377804/3940ed48b5fde03a73b5e73dcc4de24e_normal.jpeg", 
+   "name": "Est.09-18-1995 \ue42a\ue42a\ue42a\ue42a\ue42a", 
+   "text": "People come and go in your life, and the right ones will always stay.", 
+   "tweet_id": 396493199814168576, 
+   "create_time": "Sat Nov 02 04:25:19 +0000 2013", 
+   "location": "Instagram @chrisayers_est95", 
+   "retweeter_id": 291416982, 
+   "screen_name": "MKEMostWanted"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3551562930/11a02244f563f7eed9e4b40a07c41b17_normal.jpeg", 
+   "name": "Kenny G. Camacho", 
+   "text": "Young Evangelist. Theology Student at Christian Life College. Dreamer. Believer in Small Groups.", 
+   "tweet_id": 396000406133673984, 
+   "create_time": "Thu Oct 31 19:47:08 +0000 2013", 
+   "location": "Stockton, CA", 
+   "retweeter_id": 93323138, 
+   "screen_name": "KennyKenKen8"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000623134814/7c3490e778a59426dc43b6803b4a54e7_normal.jpeg", 
+   "name": "Rae Cecil Acedera", 
+   "text": "Male| 17| AdU| BS Civil Engineering| Sophomore| Scorpio| Math Lover| Sing with me", 
+   "tweet_id": 395333564524273664, 
+   "create_time": "Tue Oct 29 23:37:21 +0000 2013", 
+   "location": "MNL", 
+   "retweeter_id": 207468952, 
+   "screen_name": "IamCiciAcedera"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3625505362/d4b9c453cbae097b9834394e9ec5f889_normal.jpeg", 
+   "name": "Moski", 
+   "text": "if ya kno my moma ya kno me", 
+   "tweet_id": 395253638865510400, 
+   "create_time": "Tue Oct 29 18:19:45 +0000 2013", 
+   "location": "my dreams", 
+   "retweeter_id": 598929518, 
+   "screen_name": "MoneyyMakinMo"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000722025226/8f454bcbe1b1dfe8bfa9fbd17606df83_normal.jpeg", 
+   "name": "\u2190Not Important....\u2192", 
+   "text": "Me Myself and I ! Keep God First !!!", 
+   "tweet_id": 395251176507449344, 
+   "create_time": "Tue Oct 29 18:09:58 +0000 2013", 
+   "location": "At The Crib Shawtttyy !!", 
+   "retweeter_id": 737607331, 
+   "screen_name": "LoveMePorkChop"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000860231823/Vr6ZQDpr_normal.jpeg", 
+   "name": "0\u20e33\u20e31\u20e32\u20e3", 
+   "text": "Playing ball !", 
+   "tweet_id": 395250969795375104, 
+   "create_time": "Tue Oct 29 18:09:09 +0000 2013", 
+   "location": "Smokin ", 
+   "retweeter_id": 512516946, 
+   "screen_name": "_IHoop_YouWatch"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000655928584/00478022afe5674b35422d830200d785_normal.png", 
+   "name": "Keyy Davis \u2665", 
+   "text": "18 \u2665 Engaged To \u21e8 Miguel Davis - o9.o8.1o \u2665 Future Nurse \u2665", 
+   "tweet_id": 395249735818559488, 
+   "create_time": "Tue Oct 29 18:04:15 +0000 2013", 
+   "location": "With MY Fiance \u2665 ", 
+   "retweeter_id": 380047212, 
+   "screen_name": "ImperfectKeyy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000829224831/b5e8b0de2a3ea9a6493d38764d9869eb_normal.jpeg", 
+   "name": "De'Sha", 
+   "text": "trying to find myself ....", 
+   "tweet_id": 395248795488751616, 
+   "create_time": "Tue Oct 29 18:00:30 +0000 2013", 
+   "location": "god first . family . #DaBrand", 
+   "retweeter_id": 272113486, 
+   "screen_name": "itsdesha_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000828878193/a37a52d6618081459c584007b9e83bd9_normal.jpeg", 
+   "name": "\u264a\ufe0fGeminiGyal\u264a\ufe0f", 
+   "text": "Why should I fit in? I was born to stand out!Follow my new IG account @OneLove_Fenty if you want some humor on your TL", 
+   "tweet_id": 395248739470045185, 
+   "create_time": "Tue Oct 29 18:00:17 +0000 2013", 
+   "location": "Behind Strange Clouds", 
+   "retweeter_id": 241339624, 
+   "screen_name": "CaramelGyal"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000852947682/3d9fd1377ca2594fd927280bc35f568c_normal.jpeg", 
+   "name": "January 24th ", 
+   "text": "Dreamchasing..... #276 #GodFirst #FamSecond #Timberwolves #Heat #Broncos Follow ya boy!!", 
+   "tweet_id": 395248251714433024, 
+   "create_time": "Tue Oct 29 17:58:21 +0000 2013", 
+   "location": "Where GOD leads me", 
+   "retweeter_id": 495174845, 
+   "screen_name": "That_Waller_Kid"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000587281188/a22adca5ddbcfcb8498db0b7ce179b13_normal.jpeg", 
+   "name": "Finding My Purpose", 
+   "text": "Struggle Comes Before Success. Even in the Dictionary. (IG: @Sa_shayy #JoinMy4K] \n#Taurus\u2649 #SeeRed #ChicagoBulls #2014Champs\n#KendrickLamar", 
+   "tweet_id": 394573407947223040, 
+   "create_time": "Sun Oct 27 21:16:45 +0000 2013", 
+   "location": "Chasing My Dreams", 
+   "retweeter_id": 36386612, 
+   "screen_name": "Sa_Shayy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411742651654742016/iLSM0fwf_normal.jpeg", 
+   "name": "Dude Without The E", 
+   "text": "God First ! Family Second ! Money Third ! Bitches Last ! No Niggaz At All ! #GrindHardDaily #$hakeLife #HustleGang #FreeCM #FoeMyFoes4's #ImSoA1 #TripleBlessed", 
+   "tweet_id": 394555908216197120, 
+   "create_time": "Sun Oct 27 20:07:13 +0000 2013", 
+   "location": "Grindin Hard", 
+   "retweeter_id": 118555732, 
+   "screen_name": "TheDud4"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411696698381971456/IHMOM25J_normal.jpeg", 
+   "name": "Camjamz", 
+   "text": "Cam Moorer #Aries #Basketball #TeamLeBron #WHSAlumni (2012) #Raiders #Football #FamFirst #BayArea #PV16 #InfinityClique #HeatNation #DubNation IG: cambron510", 
+   "tweet_id": 394506785807405056, 
+   "create_time": "Sun Oct 27 16:52:02 +0000 2013", 
+   "location": "From PV to The Bay Area", 
+   "retweeter_id": 279757385, 
+   "screen_name": "cambron510"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000627379748/62a60e5f9131c42abd7c908726a46ce2_normal.jpeg", 
+   "name": "Tyree", 
+   "text": "Real nicca sense Day1 becuz i aint promised Day2 My Son all i need #TeamKeishawnDahmari", 
+   "tweet_id": 394493185462112256, 
+   "create_time": "Sun Oct 27 15:57:59 +0000 2013", 
+   "location": "witch ya main bitch!!", 
+   "retweeter_id": 170055983, 
+   "screen_name": "_TyMarley"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000828189985/4a03845bfd5e7608f8a06cdbf1522c5d_normal.jpeg", 
+   "name": "Dyrrell McCoy", 
+   "text": "Freshmen at South Gwinnett High School | #ClassOf2017", 
+   "tweet_id": 394493091618750464, 
+   "create_time": "Sun Oct 27 15:57:37 +0000 2013", 
+   "location": "The gym.", 
+   "retweeter_id": 1694929980, 
+   "screen_name": "___Dyrrell"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000811028850/d12f821f3c804840fbb48f4e1c7bc2fc_normal.jpeg", 
+   "name": "Rich Porter", 
+   "text": "If you don't hustle you don't stand out .  #OFS R.I.P Taraji Mitchell R.I.P Aaron Clark", 
+   "tweet_id": 394492797803585536, 
+   "create_time": "Sun Oct 27 15:56:26 +0000 2013", 
+   "location": "Road to Riches", 
+   "retweeter_id": 362862325, 
+   "screen_name": "Domain_Diego"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3317174982/fc3ad9d61d26ba8c5ccb4fe9513109a4_normal.jpeg", 
+   "name": "ronnie booker", 
+   "text": "A young heart with an old soul. #TeamSteelers #TeamLakers #ColeWorld", 
+   "tweet_id": 394492739813130240, 
+   "create_time": "Sun Oct 27 15:56:13 +0000 2013", 
+   "location": "marshall university", 
+   "retweeter_id": 44236989, 
+   "screen_name": "rbook_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411688843583057921/DigPeLSX_normal.jpeg", 
+   "name": "Donte Nabors", 
+   "text": "Just trying to be succesful and make it in life. I'm a first team all state as a junior. Basketball is in my heart #24. @toricayton7 is mine. \u2764\ufe0f", 
+   "tweet_id": 394488613217783809, 
+   "create_time": "Sun Oct 27 15:39:49 +0000 2013", 
+   "location": "Beckley,WV", 
+   "retweeter_id": 444358647, 
+   "screen_name": "Nabors24"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000845305002/d001f6733fa7d3ff1e37fb1e8ca88ab6_normal.jpeg", 
+   "name": "Isaiah Sykes", 
+   "text": "", 
+   "tweet_id": 394486658898595840, 
+   "create_time": "Sun Oct 27 15:32:03 +0000 2013", 
+   "location": " DETROIT VS EVERYBODY ", 
+   "retweeter_id": 249443058, 
+   "screen_name": "IsaiahSykes_3"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2468890921/___HeGotGame_normal.jpg", 
+   "name": "Elliott Shuttleworth", 
+   "text": "Perfection is not attainable but if we chase perfection we can capture excellence \n#BeGreat #M.O.A.M", 
+   "tweet_id": 394486335399923712, 
+   "create_time": "Sun Oct 27 15:30:46 +0000 2013", 
+   "location": "Tomorrow ", 
+   "retweeter_id": 63023912, 
+   "screen_name": "___HeGotGame"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000832905488/b1c2f9c749f20e79e859012081d243cf_normal.jpeg", 
+   "name": "Aaron Prim", 
+   "text": "6'7 Forward at Delta College #RIPPerry #BML #Pioneers5", 
+   "tweet_id": 394485529267691520, 
+   "create_time": "Sun Oct 27 15:27:34 +0000 2013", 
+   "location": "DETROIT/SAGINAW ", 
+   "retweeter_id": 140785087, 
+   "screen_name": "_APeezy5"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000609508951/872e60f4c65f24fe202581de2adf04b9_normal.png", 
+   "name": "Rizzy ", 
+   "text": "Teacher Asked Me What I Wanna Be, I Told That Bitch A ATM", 
+   "tweet_id": 394479103199281152, 
+   "create_time": "Sun Oct 27 15:02:01 +0000 2013", 
+   "location": "Cloud 10", 
+   "retweeter_id": 239224524, 
+   "screen_name": "FlowRacks"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000861266284/xedWa_gb_normal.jpeg", 
+   "name": " 5\u20e3", 
+   "text": "Basketball.", 
+   "tweet_id": 394478964934451200, 
+   "create_time": "Sun Oct 27 15:01:28 +0000 2013", 
+   "location": "On the Court.", 
+   "retweeter_id": 49802294, 
+   "screen_name": "FoolBoyKeyon5"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000593247704/6be6228d4a478dc577ed2326f7365b5c_normal.jpeg", 
+   "name": "Jeremy Jones", 
+   "text": "6'1 SG for Northside High School. #RedskinNation \r\n#God above all things. #ColeWorld #B.I.T.E #Unorthodox", 
+   "tweet_id": 394383779218743296, 
+   "create_time": "Sun Oct 27 08:43:14 +0000 2013", 
+   "location": "Fort Wayne, Indiana", 
+   "retweeter_id": 333618515, 
+   "screen_name": "_JeremyJones"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000639792694/5b051262b64a7bd58319890e3865e727_normal.jpeg", 
+   "name": "Yaniira ", 
+   "text": "", 
+   "tweet_id": 394172027667353600, 
+   "create_time": "Sat Oct 26 18:41:49 +0000 2013", 
+   "location": "Puerto Rico", 
+   "retweeter_id": 299684584, 
+   "screen_name": "IrmaYanira"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3778906390/bb3a637cc365df87ed051a2c5e0f4cd5_normal.jpeg", 
+   "name": "Brandon Cooper", 
+   "text": "I'm a young man with a bright future with the basketball in my hands.", 
+   "tweet_id": 393905503845507072, 
+   "create_time": "Sat Oct 26 01:02:45 +0000 2013", 
+   "location": "in da MIL", 
+   "retweeter_id": 527721302, 
+   "screen_name": "bee_coop"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000795037558/cda580a9b8bf8436926b0d0ee2b76307_normal.jpeg", 
+   "name": "Beloved \u2728", 
+   "text": "art", 
+   "tweet_id": 393849436738048000, 
+   "create_time": "Fri Oct 25 21:19:57 +0000 2013", 
+   "location": "IG: _belovedbeautyy", 
+   "retweeter_id": 342365516, 
+   "screen_name": "_belovedbeautyy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000432245527/9e9c73940ca35ea0c63275c296a9c09e_normal.jpeg", 
+   "name": "Samantha Lavallee", 
+   "text": "15; basketball ; ya..", 
+   "tweet_id": 393828723872784385, 
+   "create_time": "Fri Oct 25 19:57:39 +0000 2013", 
+   "location": "Powassan", 
+   "retweeter_id": 954130266, 
+   "screen_name": "samlavallee22"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000852375428/293332e1554850bd5b368d26af124408_normal.jpeg", 
+   "name": "Mettlesome", 
+   "text": "18. Cantante, actor, top model,agente secreto, futbolista.... eso es todo lo que me gustaria ser... pero solo soy un chico normal.todo. PATRIOTA", 
+   "tweet_id": 393813048118767616, 
+   "create_time": "Fri Oct 25 18:55:22 +0000 2013", 
+   "location": "Eindhoven-NDRLAND", 
+   "retweeter_id": 429207455, 
+   "screen_name": "GianfrancoBazan"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000704892309/6ce61c2c829dbf75c449bb44661e93a2_normal.png", 
+   "name": "Ivy ", 
+   "text": "IG: Sochitttasal | Happy Holidays.", 
+   "tweet_id": 393574989934260224, 
+   "create_time": "Fri Oct 25 03:09:24 +0000 2013", 
+   "location": "San Diego, California", 
+   "retweeter_id": 548803814, 
+   "screen_name": "BitchMadeBella"
+  }
+ ], 
+ "400494744520097792": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000607708270/652df3d5958681fb748f2e0992cedf6b_normal.jpeg", 
+   "name": "asvpxtwju\u00f8n", 
+   "text": "#GBMC, Call me an S.O.B. cause its Skateboards.Over.Bugatti's!, ^Dress To Impress^ #FloridaBoyForLife!!!!!!", 
+   "tweet_id": 410978794028421120, 
+   "create_time": "Thu Dec 12 03:45:54 +0000 2013", 
+   "location": "Mt. Olympus", 
+   "retweeter_id": 379328687, 
+   "screen_name": "KiddFrenzy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000775959296/133dfaca5dcf051eebd34ac77fab269a_normal.jpeg", 
+   "name": "\u15f0ileHighHoney", 
+   "text": "sw\u0454\u0454t-t\u043dang. 80's Baby. 3\u20e30\u20e33\u20e3\u2764\u270c   True confidence has no room for envy. When you know you are great, you have no reason to hate.", 
+   "tweet_id": 410978656551305216, 
+   "create_time": "Thu Dec 12 03:45:22 +0000 2013", 
+   "location": "I'm up in DE\u03a0VER TRICK !", 
+   "retweeter_id": 71745420, 
+   "screen_name": "TiffHoneyxo"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000814004753/b347a562da579d271c17b3354179dc6b_normal.jpeg", 
+   "name": "Whitnasty", 
+   "text": "\u2666 If thy heart fails thee, climb not at all \u2666", 
+   "tweet_id": 410978500212826112, 
+   "create_time": "Thu Dec 12 03:44:44 +0000 2013", 
+   "location": "Houston TX", 
+   "retweeter_id": 623506076, 
+   "screen_name": "italstinaslunce"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412021107147829248/lWWUGze__normal.jpeg", 
+   "name": "", 
+   "text": "Class of 2013 18 #HeatNation #TeamLeBron #TeamHumble #TeamNike #TeamFollowBack #Gamer #TheFamily", 
+   "tweet_id": 410978440523689984, 
+   "create_time": "Thu Dec 12 03:44:30 +0000 2013", 
+   "location": " \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164 \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164 \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164", 
+   "retweeter_id": 74522177, 
+   "screen_name": "Swanton18"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000841069472/8dce59cacd1f8d9ab99e6c08c86fe22b_normal.jpeg", 
+   "name": "KING M\u25b2X-MODE", 
+   "text": "#Basketball changed de \u25b2\u25bc\u25b2 in me upside down \u25bc\u25b2\u25bc #dedication + motivation = success #Never underestimate de heart of a champion. #teamJesus #teamMiamiheat #TKLJ", 
+   "tweet_id": 408568123290562561, 
+   "create_time": "Thu Dec 05 12:06:46 +0000 2013", 
+   "location": "\u00c0ccra ghana adenta", 
+   "retweeter_id": 409422478, 
+   "screen_name": "DE_CHOSEN_ONE"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000676060258/f923eb9f0ba69fa89a23f9faf50a6712_normal.jpeg", 
+   "name": "zahran zufar rokan", 
+   "text": "good boy", 
+   "tweet_id": 407899249943130112, 
+   "create_time": "Tue Dec 03 15:48:54 +0000 2013", 
+   "location": "Bandung - Pontianak", 
+   "retweeter_id": 2152747309, 
+   "screen_name": "zrzahraan"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000846562768/1cca187e24c9b6f6d568c9b0efe8ac61_normal.jpeg", 
+   "name": "danielle\u26c4\ufe0f\u2744\ufe0f", 
+   "text": "Basketball \u270c IG: hoopdreamer22", 
+   "tweet_id": 407286406130593794, 
+   "create_time": "Sun Dec 01 23:13:40 +0000 2013", 
+   "location": "Boise, idaho", 
+   "retweeter_id": 153489589, 
+   "screen_name": "hoopdreamer22"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000767565654/684f14fe9a905371672316d1d50db703_normal.jpeg", 
+   "name": "TT\u2122", 
+   "text": "Hooper with a dream| Single #VeteranSquad #RIPHSJ 773 to the 208 IG: air_thomas13", 
+   "tweet_id": 407261626564227072, 
+   "create_time": "Sun Dec 01 21:35:12 +0000 2013", 
+   "location": "Meridian, Idaho", 
+   "retweeter_id": 422198451, 
+   "screen_name": "Torrmall_Thomas"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3249524792/561201c176f25e6b1155a60fa4489159_normal.jpeg", 
+   "name": "Tiffany Blades", 
+   "text": "live with no regrets, love without limits. the best is yet to come. \u2600insta: tiffanyblades | snapchat: bladesofglory\u2649", 
+   "tweet_id": 407261183318585345, 
+   "create_time": "Sun Dec 01 21:33:27 +0000 2013", 
+   "location": "idaho", 
+   "retweeter_id": 426225597, 
+   "screen_name": "tiffany_blades"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000764929992/d4a66f296af499209f1e56695532150f_normal.jpeg", 
+   "name": "Baby Bloom", 
+   "text": "", 
+   "tweet_id": 406898029216542720, 
+   "create_time": "Sat Nov 30 21:30:24 +0000 2013", 
+   "location": "USA", 
+   "retweeter_id": 916006681, 
+   "screen_name": "bloom_zack"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000796088757/77c1e70aafe594642674981ffd37b77c_normal.jpeg", 
+   "name": "Ashleigh Blalock", 
+   "text": "College of Idaho Student", 
+   "tweet_id": 406890341149581313, 
+   "create_time": "Sat Nov 30 20:59:51 +0000 2013", 
+   "location": "**Basketball has my Heart**", 
+   "retweeter_id": 860887254, 
+   "screen_name": "AshleighB_21"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000662832313/684c7f4af7f0a18c9170f13384efc0e8_normal.jpeg", 
+   "name": "A$AP Sham", 
+   "text": "6'5 Hooper #TeamKobe \r\n#Team5isbetterthan2   Future BBall star", 
+   "tweet_id": 406168963597729792, 
+   "create_time": "Thu Nov 28 21:13:21 +0000 2013", 
+   "location": "Earth", 
+   "retweeter_id": 32149076, 
+   "screen_name": "ShamDaGiant"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000800471938/a01ad58846287ab1a33cbd724df07987_normal.jpeg", 
+   "name": "Lahiru Ruwan", 
+   "text": "", 
+   "tweet_id": 406039758293315584, 
+   "create_time": "Thu Nov 28 12:39:56 +0000 2013", 
+   "location": "Sri Lanka", 
+   "retweeter_id": 526211239, 
+   "screen_name": "lahiruru1"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2578231986/ag0ixqkxusrtqjq4ua3a_normal.jpeg", 
+   "name": "Chamith Karunakalage", 
+   "text": "don't try to catch me, u won't", 
+   "tweet_id": 406015868519604224, 
+   "create_time": "Thu Nov 28 11:05:01 +0000 2013", 
+   "location": "Ambalangoda", 
+   "retweeter_id": 224883905, 
+   "screen_name": "Chamith119"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000565530656/b28b31c8b5ff97a636abd0179c06873c_normal.jpeg", 
+   "name": "Young Ollie", 
+   "text": "A summer job took over my life.", 
+   "tweet_id": 405967930044592128, 
+   "create_time": "Thu Nov 28 07:54:31 +0000 2013", 
+   "location": "Davy Jones' Locker", 
+   "retweeter_id": 241381656, 
+   "screen_name": "Ming_Ling_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000703029186/5f2a9130afc0e0ea23ebcac0d27eb290_normal.jpeg", 
+   "name": "Tristen Massey", 
+   "text": "No excuses for my failures, and for my successes no apologies. Future Sports Agent. Gonna make it so my family has a better lifestyle. IG: ThatsTMas", 
+   "tweet_id": 405394900042010624, 
+   "create_time": "Tue Nov 26 17:57:30 +0000 2013", 
+   "location": "Houston to SA ", 
+   "retweeter_id": 301220315, 
+   "screen_name": "ThatsTMas"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000777070055/8d412d7423c0bbde36b3d9bc0dbbb9ee_normal.jpeg", 
+   "name": "Christian Schweitzer", 
+   "text": "No worries Phil. 4:6-7 #Basketball", 
+   "tweet_id": 405177878653833216, 
+   "create_time": "Tue Nov 26 03:35:08 +0000 2013", 
+   "location": "Utah", 
+   "retweeter_id": 1329808351, 
+   "screen_name": "_CJS23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411720393771073537/zN3hTPv4_normal.jpeg", 
+   "name": "Gunnar Brinkerhoff", 
+   "text": "You can't be afraid to fail. It's the only way you succeed - you're not gonna succeed all the time, and I know that - Me", 
+   "tweet_id": 405177816137752576, 
+   "create_time": "Tue Nov 26 03:34:53 +0000 2013", 
+   "location": "going hard in the paint 24/7", 
+   "retweeter_id": 1345453466, 
+   "screen_name": "BrinkerhoffG69"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411736702898556928/bttnNyxA_normal.jpeg", 
+   "name": "Dalton Riggs", 
+   "text": "Hard work is the price we must pay for success.You can accomplish anything if you're willing to pay the price.", 
+   "tweet_id": 405164586464055296, 
+   "create_time": "Tue Nov 26 02:42:19 +0000 2013", 
+   "location": "MCHS freshman ", 
+   "retweeter_id": 2214943495, 
+   "screen_name": "DaltonRiggs41"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000834502678/d31edeb0888bbbf732258e999135048d_normal.jpeg", 
+   "name": "Taa \ue420\ue427", 
+   "text": "Rare x Shxt x Only", 
+   "tweet_id": 405135058446864384, 
+   "create_time": "Tue Nov 26 00:44:59 +0000 2013", 
+   "location": "E L I Z A B E T H ", 
+   "retweeter_id": 504610644, 
+   "screen_name": "TaahirThe_Great"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2916480544/b8f2755fae89d99162458a021ad91570_normal.jpeg", 
+   "name": "Bobby Juice Johnson", 
+   "text": "Founder of the Critically Acclaim Brands *Cream* & Runway. 2011's Gentleman of the Year and 2010 Recipient of the Swag Award", 
+   "tweet_id": 405019505661050882, 
+   "create_time": "Mon Nov 25 17:05:49 +0000 2013", 
+   "location": "Memphis, Tn", 
+   "retweeter_id": 269271154, 
+   "screen_name": "bobbytwaice"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000814319069/6ec7492bb7c1366c3e71ff639330c0f9_normal.jpeg", 
+   "name": "MPR Uncle Ruckus", 
+   "text": "Daniel Clifford Noel FAMU Class of 2017 Loved you louder than the music on a deaf mans fingertips...", 
+   "tweet_id": 405014834078818304, 
+   "create_time": "Mon Nov 25 16:47:15 +0000 2013", 
+   "location": "Miami Shores, Florida", 
+   "retweeter_id": 298874656, 
+   "screen_name": "DanielNoelD"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000841203770/3efdf34204b089de2f0ed1eeb0e23259_normal.jpeg", 
+   "name": "Stephan Taylor ", 
+   "text": "Jesus. Finessteam General D1 Finessteam on Youtube. #\u20e34\u20e33\u20e3 Rip Kenny Diaz", 
+   "tweet_id": 404645920715055104, 
+   "create_time": "Sun Nov 24 16:21:20 +0000 2013", 
+   "location": "Miami ", 
+   "retweeter_id": 410438346, 
+   "screen_name": "GodGiventhing25"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000037692396/adfdfaab0036fd7f4d808fac4e85e132_normal.jpeg", 
+   "name": "Cool Guy", 
+   "text": "James | #TeamHEAT | BALLisLIFE | UFGators| Success is the key|06.18.10| IG Beekster93", 
+   "tweet_id": 404406967672004608, 
+   "create_time": "Sun Nov 24 00:31:49 +0000 2013", 
+   "location": "Greenville SC", 
+   "retweeter_id": 908537569, 
+   "screen_name": "jbeeks118"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000636189908/7b2886e4d358db65b9cada85411afd6f_normal.jpeg", 
+   "name": "\u303d\ufe0fookie  Frye \u2693", 
+   "text": "STARTING NOT TO GIVE A FUCK!!!\ue42a...#DukeNation #OKCNation #49ers", 
+   "tweet_id": 404025005522300928, 
+   "create_time": "Fri Nov 22 23:14:02 +0000 2013", 
+   "location": "In The Gym \ue42a SQUIRB ", 
+   "retweeter_id": 63205649, 
+   "screen_name": "Mookie_Frye"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000822581877/732fb139fe04c168afac8d61616dd0a1_normal.png", 
+   "name": "Eastside Stef", 
+   "text": "A Christian, Athlete, making My Pops Proud as he's Watching Over Me! R.I.P Pops", 
+   "tweet_id": 403852045288886272, 
+   "create_time": "Fri Nov 22 11:46:45 +0000 2013", 
+   "location": "In the Gym!!! #3", 
+   "retweeter_id": 237305034, 
+   "screen_name": "PLAYR_ofTheYEAR"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000529036852/c54abaa02fed44ebf1523ed8e24335a5_normal.jpeg", 
+   "name": "O.G. Bobby Johnson", 
+   "text": "Follow me on IG: YooZay", 
+   "tweet_id": 403851148865839104, 
+   "create_time": "Fri Nov 22 11:43:11 +0000 2013", 
+   "location": "House to house Fl", 
+   "retweeter_id": 21870861, 
+   "screen_name": "YooZay"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000366390662/a04c95d2a910b67628b87bf8bec243b4_normal.jpeg", 
+   "name": "Danny Lane \u2122", 
+   "text": "#TeamHeat #LBJ #UC #BearcatNation #RedLegs #Bengals #TeamTatted #StudentAthlete #SneakerHead", 
+   "tweet_id": 403842986099744768, 
+   "create_time": "Fri Nov 22 11:10:45 +0000 2013", 
+   "location": "IG - _dgl10_", 
+   "retweeter_id": 384205711, 
+   "screen_name": "_DGL10_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000827021285/4573142b65f3ea6af64a3bf03254d02d_normal.jpeg", 
+   "name": "Success ", 
+   "text": "[ 360. ] ( F.E.A.S.T. )#TeamBlessedToBeBlessed #TeamFamilyTree #TeamNavy #NUWB \u2764 #TeamIBall #TeamiPhone #TeamMavs", 
+   "tweet_id": 403753217072594944, 
+   "create_time": "Fri Nov 22 05:14:02 +0000 2013", 
+   "location": "Born & Raised D[M]V", 
+   "retweeter_id": 193868021, 
+   "screen_name": "515_TButler"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000852353103/f78f2c47d6eb124b9c5e1a443c578307_normal.jpeg", 
+   "name": "Dalson James", 
+   "text": "Hard work beats talent, when talent doesnt work hard! Athlete+Gymrat=Hooper! Buckets Waite high school C/O 2017", 
+   "tweet_id": 403713194671108096, 
+   "create_time": "Fri Nov 22 02:35:00 +0000 2013", 
+   "location": "Toledo Ohio ", 
+   "retweeter_id": 1442683375, 
+   "screen_name": "Future_ballstar"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000771563326/c12b546727789d8c7249f56257193b0a_normal.jpeg", 
+   "name": "*takes a nap*", 
+   "text": "the rain washes the progress away", 
+   "tweet_id": 403265494146625536, 
+   "create_time": "Wed Nov 20 20:56:00 +0000 2013", 
+   "location": "idek :/", 
+   "retweeter_id": 1042998914, 
+   "screen_name": "MachineGunArod"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411699432900411392/lw03Anyy_normal.jpeg", 
+   "name": "De'Antea", 
+   "text": "19 years of doing dirt like its earth day.", 
+   "tweet_id": 403265455122440192, 
+   "create_time": "Wed Nov 20 20:55:51 +0000 2013", 
+   "location": "indianapolis.", 
+   "retweeter_id": 44977842, 
+   "screen_name": "SirBancoP"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000733606556/5797dbc9fd9496292df853aea311e917_normal.jpeg", 
+   "name": "Yeezy \u2693\ufe0f", 
+   "text": "#unt17 #\u0394\u0393", 
+   "tweet_id": 403265283525050369, 
+   "create_time": "Wed Nov 20 20:55:10 +0000 2013", 
+   "location": "#UNT", 
+   "retweeter_id": 1864396592, 
+   "screen_name": "_Yevonne_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000855651765/5f8c4484eeeef29acc065b4e0daaa731_normal.jpeg", 
+   "name": "Mike aka #Juice", 
+   "text": "#HipHopHead If you wanna know anything else just send DM's #TeamFollowBack Instagram: mmckoy #BrotherhoodProductions", 
+   "tweet_id": 403264923943567361, 
+   "create_time": "Wed Nov 20 20:53:44 +0000 2013", 
+   "location": "Baltimore County", 
+   "retweeter_id": 30225323, 
+   "screen_name": "mmckoy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3786283963/cb667ab138110ada3afefe389d191754_normal.jpeg", 
+   "name": "HLSIII", 
+   "text": "#CollegeBound #LeBronTheGreatest #HeatNation #BallIsLife #HardworkAndDedication #SODMG #OGOD", 
+   "tweet_id": 403249165947240448, 
+   "create_time": "Wed Nov 20 19:51:07 +0000 2013", 
+   "location": "Sauk Village, Illinois", 
+   "retweeter_id": 76166691, 
+   "screen_name": "HooperMoB"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000865956454/YAzTeRHS_normal.jpeg", 
+   "name": "Christian Reyes", 
+   "text": "Miami Heat Fan! Should i active more day! I like your photos 2k14 and miami heat. Do U believe in God \u300b@MiamiHEAT\u300a plz follow me on instagram! \ue239", 
+   "tweet_id": 403124765189095425, 
+   "create_time": "Wed Nov 20 11:36:48 +0000 2013", 
+   "location": "Repost Lebron James and DWade", 
+   "retweeter_id": 2196968142, 
+   "screen_name": "xtianreyes23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411743867889672193/5b5ZxRxS_normal.jpeg", 
+   "name": "RIDHO", 
+   "text": "Anti CJR (boy band BANCI) jiah !!!", 
+   "tweet_id": 403063196136656896, 
+   "create_time": "Wed Nov 20 07:32:09 +0000 2013", 
+   "location": "INDONESIA", 
+   "retweeter_id": 2173669975, 
+   "screen_name": "Baragbah_10"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000054328676/faec3e757556c0ffe448d321f1a1d7c1_normal.jpeg", 
+   "name": "Bri-Z Baby", 
+   "text": "#TeamScorpio #Dee1 #WNBA #UConnWomensBasketball #SugarRodgers #GoSparks #iGotNext #BallIsLife", 
+   "tweet_id": 402844707018903552, 
+   "create_time": "Tue Nov 19 17:03:57 +0000 2013", 
+   "location": "DMV", 
+   "retweeter_id": 90295432, 
+   "screen_name": "TrynaFindPurpse"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000479988295/40ca24a249582541f650ff0579fb96de_normal.jpeg", 
+   "name": "Bryce Spees", 
+   "text": "JCU Baller", 
+   "tweet_id": 402828339510919168, 
+   "create_time": "Tue Nov 19 15:58:54 +0000 2013", 
+   "location": "keep grinding ", 
+   "retweeter_id": 446387115, 
+   "screen_name": "brycekrispees23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000006901272/c11db2c88dc4a58ae851c982f7d59de8_normal.jpeg", 
+   "name": "Gavin Potter", 
+   "text": "I got birds in my ears and a devil on my shoulder", 
+   "tweet_id": 402828106089525248, 
+   "create_time": "Tue Nov 19 15:57:59 +0000 2013", 
+   "location": "JCU 2016", 
+   "retweeter_id": 1523689652, 
+   "screen_name": "potter_gavin"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000848753502/ea1931b1c2b008456216fcb11416bbd1_normal.jpeg", 
+   "name": "Peyton Thiel", 
+   "text": "I might be a tool but i'll never be inadequate   #Blessed #SpartanDawg #DCHockey", 
+   "tweet_id": 402822037858566145, 
+   "create_time": "Tue Nov 19 15:33:52 +0000 2013", 
+   "location": "145-MI", 
+   "retweeter_id": 378242411, 
+   "screen_name": "PThielly3"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000851693857/753635299f8746697894dd0741bc04eb_normal.jpeg", 
+   "name": "MatthewDaleCramer II", 
+   "text": "No matter where life takes me, find me with a smile . John Carroll University\u26a1", 
+   "tweet_id": 402819617933914112, 
+   "create_time": "Tue Nov 19 15:24:15 +0000 2013", 
+   "location": "Flint,MI\u27a1Cleveland,OH ", 
+   "retweeter_id": 265731261, 
+   "screen_name": "CramerMatt023"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000795384037/bf5438d675faf0f1ebbd79b5f1587cf2_normal.jpeg", 
+   "name": "SimOVOn kucharewicz", 
+   "text": "Just trying to be sucessful in life.", 
+   "tweet_id": 402819486601859072, 
+   "create_time": "Tue Nov 19 15:23:44 +0000 2013", 
+   "location": "Brook park / John Carroll", 
+   "retweeter_id": 208875383, 
+   "screen_name": "yo_boi_simon"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000100450442/3a281ba8968bdfb60e93f5a6886e5add_normal.jpeg", 
+   "name": "Emily", 
+   "text": "I am not a word, I am not a line, I am not a girl that can ever be defined \u270c\ufe0f", 
+   "tweet_id": 402501776395354113, 
+   "create_time": "Mon Nov 18 18:21:16 +0000 2013", 
+   "location": "NY", 
+   "retweeter_id": 39087921, 
+   "screen_name": "The_BAB30"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000548686616/13161bcd9351baf8dbce2ff5edbe9a8d_normal.jpeg", 
+   "name": "Miss'Lanky", 
+   "text": "ii Am Atlanta Cox. i Love Basketball ii Also Coach Basketball :)", 
+   "tweet_id": 402352245448384512, 
+   "create_time": "Mon Nov 18 08:27:05 +0000 2013", 
+   "location": "Northamptonshire", 
+   "retweeter_id": 335244507, 
+   "screen_name": "AtlantaCox"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000373096004/e4e644b95877ede65601d6316e17defc_normal.jpeg", 
+   "name": "Mason Vranes", 
+   "text": "Basketball isn't who I am, it's what I do. #DubNation", 
+   "tweet_id": 402325302287667200, 
+   "create_time": "Mon Nov 18 06:40:01 +0000 2013", 
+   "location": "The Bay Area, California", 
+   "retweeter_id": 754067293, 
+   "screen_name": "MasonVranes"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000755438720/56c25a2513b0368110a21035882255d3_normal.jpeg", 
+   "name": "avery hill", 
+   "text": "father/husband only god and my family matter the most no one else\uea83", 
+   "tweet_id": 402228189650771968, 
+   "create_time": "Mon Nov 18 00:14:08 +0000 2013", 
+   "location": "Jacksonville Florida", 
+   "retweeter_id": 2170086051, 
+   "screen_name": "topofdahill1985"
+  }
+ ], 
+ "400496675422502912": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000841069472/8dce59cacd1f8d9ab99e6c08c86fe22b_normal.jpeg", 
+   "name": "KING M\u25b2X-MODE", 
+   "text": "#Basketball changed de \u25b2\u25bc\u25b2 in me upside down \u25bc\u25b2\u25bc #dedication + motivation = success #Never underestimate de heart of a champion. #teamJesus #teamMiamiheat #TKLJ", 
+   "tweet_id": 408568066390626304, 
+   "create_time": "Thu Dec 05 12:06:32 +0000 2013", 
+   "location": "\u00c0ccra ghana adenta", 
+   "retweeter_id": 409422478, 
+   "screen_name": "DE_CHOSEN_ONE"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000841203770/3efdf34204b089de2f0ed1eeb0e23259_normal.jpeg", 
+   "name": "Stephan Taylor ", 
+   "text": "Jesus. Finessteam General D1 Finessteam on Youtube. #\u20e34\u20e33\u20e3 Rip Kenny Diaz", 
+   "tweet_id": 404645899676442624, 
+   "create_time": "Sun Nov 24 16:21:15 +0000 2013", 
+   "location": "Miami ", 
+   "retweeter_id": 410438346, 
+   "screen_name": "GodGiventhing25"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000153092429/79144632190f66a3016f6de03c380cc9_normal.jpeg", 
+   "name": "Adrian #6 Rios", 
+   "text": "DONT BE AFRAID OF FAILURE THIS IS THE WAY TO SUCCEED...", 
+   "tweet_id": 404299329713610753, 
+   "create_time": "Sat Nov 23 17:24:06 +0000 2013", 
+   "location": "Diboll,TX", 
+   "retweeter_id": 583218924, 
+   "screen_name": "adrianrios1211"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000463864601/56757cc99530d673c23684f90e2e65b3_normal.jpeg", 
+   "name": "Stephen Erickson", 
+   "text": "That's the thing about needs. Sometimes, when you get them met, you don't need them anymore.", 
+   "tweet_id": 404253506523389952, 
+   "create_time": "Sat Nov 23 14:22:01 +0000 2013", 
+   "location": "Erbenova CZ  ", 
+   "retweeter_id": 1869685285, 
+   "screen_name": "StephenErickso"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000525991914/c367cead875253e067b33dcd3f0d57ed_normal.jpeg", 
+   "name": "Rich Homie BrownBear", 
+   "text": "Michigan State University Emmons4b", 
+   "tweet_id": 403657948733243392, 
+   "create_time": "Thu Nov 21 22:55:29 +0000 2013", 
+   "location": "#TellMomWeMadeIt", 
+   "retweeter_id": 217236348, 
+   "screen_name": "Jonah_Brown"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000865956454/YAzTeRHS_normal.jpeg", 
+   "name": "Christian Reyes", 
+   "text": "Miami Heat Fan! Should i active more day! I like your photos 2k14 and miami heat. Do U believe in God \u300b@MiamiHEAT\u300a plz follow me on instagram! \ue239", 
+   "tweet_id": 403124726999969792, 
+   "create_time": "Wed Nov 20 11:36:39 +0000 2013", 
+   "location": "Repost Lebron James and DWade", 
+   "retweeter_id": 2196968142, 
+   "screen_name": "xtianreyes23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411743867889672193/5b5ZxRxS_normal.jpeg", 
+   "name": "RIDHO", 
+   "text": "Anti CJR (boy band BANCI) jiah !!!", 
+   "tweet_id": 403063180315721728, 
+   "create_time": "Wed Nov 20 07:32:05 +0000 2013", 
+   "location": "INDONESIA", 
+   "retweeter_id": 2173669975, 
+   "screen_name": "Baragbah_10"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000054328676/faec3e757556c0ffe448d321f1a1d7c1_normal.jpeg", 
+   "name": "Bri-Z Baby", 
+   "text": "#TeamScorpio #Dee1 #WNBA #UConnWomensBasketball #SugarRodgers #GoSparks #iGotNext #BallIsLife", 
+   "tweet_id": 402844695195570176, 
+   "create_time": "Tue Nov 19 17:03:54 +0000 2013", 
+   "location": "DMV", 
+   "retweeter_id": 90295432, 
+   "screen_name": "TrynaFindPurpse"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000749770183/31f7cbe09b2393512e2efc4587ba5062_normal.jpeg", 
+   "name": "M\u00c4RQ  ", 
+   "text": "I'm Omnipotent.", 
+   "tweet_id": 402752654494822400, 
+   "create_time": "Tue Nov 19 10:58:10 +0000 2013", 
+   "location": "With My Skittish Side", 
+   "retweeter_id": 896455230, 
+   "screen_name": "Marq_214"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411949470020939776/PxkqPC3U_normal.jpeg", 
+   "name": "Quanie Quan", 
+   "text": "#TeamJesus #TeamChef #TeamFood #Culinary  #CharlotteBobcats #CharlotteHornets #CarolinaPanthers #NC QUEEN CITY", 
+   "tweet_id": 402627548661972992, 
+   "create_time": "Tue Nov 19 02:41:02 +0000 2013", 
+   "location": "NC", 
+   "retweeter_id": 66338553, 
+   "screen_name": "carolinaquan"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3390474185/a7971fd9f68cc1f43d3666de363b6e6e_normal.jpeg", 
+   "name": "\u026avy J\u026aa\u0274\u0262", 
+   "text": "I got ham but I'm not a hamster\u2763", 
+   "tweet_id": 402250768645763072, 
+   "create_time": "Mon Nov 18 01:43:51 +0000 2013", 
+   "location": "Hong Kong", 
+   "retweeter_id": 1017511753, 
+   "screen_name": "WhatUpIvy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000755438720/56c25a2513b0368110a21035882255d3_normal.jpeg", 
+   "name": "avery hill", 
+   "text": "father/husband only god and my family matter the most no one else\uea83", 
+   "tweet_id": 402228156477997056, 
+   "create_time": "Mon Nov 18 00:14:00 +0000 2013", 
+   "location": "Jacksonville Florida", 
+   "retweeter_id": 2170086051, 
+   "screen_name": "topofdahill1985"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000851806855/c4c1569693c552c2a06d6add373cd818_normal.jpeg", 
+   "name": "Rancel Sanchez", 
+   "text": "Ac\u0442\u03c3\u044f // C\u03b1\u0438\u0442\u03b1\u0438\u0442\u0454 // P\u03c3\u0454\u0442\u03b1 // B\u03b1\u03b9\u2113\u03b1\u044f\u03b9\u0438 // P\u0454\u2113\u03c3\u0442\u0454\u044f\u03c3 // P\u044f\u0454s\u03b9\u2202\u0454\u0438\u0442\u0454 T\u03c3\u2202\u03c3 Es\u03c3 M\u0454 H\u03c5\u0432\u03b9\u0454\u044f\u03b1 G\u03c5s\u0442\u03b1\u2202\u03c3 S\u0454\u044f, P\u0454\u044f\u03c3 S\u03c3\u2113\u03c3 S\u03c3\u0443 U\u0438 C\u043d\u03b9c\u03c3 N\u03c3\u044f\u043c\u03b1 \u2113 *___* \u2665", 
+   "tweet_id": 401988750823399424, 
+   "create_time": "Sun Nov 17 08:22:41 +0000 2013", 
+   "location": "\u2665Alg\u00fan Diia Llegare \u2665", 
+   "retweeter_id": 2190997249, 
+   "screen_name": "BoCeamePoeta"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000838388199/563868879e794ed2b8085595a1ce4ee5_normal.jpeg", 
+   "name": "Willie Smith", 
+   "text": "OH\u2708\ufe0fGA", 
+   "tweet_id": 401889215119908864, 
+   "create_time": "Sun Nov 17 01:47:10 +0000 2013", 
+   "location": "Marietta,GA", 
+   "retweeter_id": 1727092440, 
+   "screen_name": "ProductOfRegret"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000320373841/250120270e7cb01bef2b8ab23fbd8ed3_normal.jpeg", 
+   "name": "matt", 
+   "text": "Sports, music, food", 
+   "tweet_id": 401740220296474625, 
+   "create_time": "Sat Nov 16 15:55:07 +0000 2013", 
+   "location": "North Allegheny", 
+   "retweeter_id": 989709704, 
+   "screen_name": "Matt_Coll32"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000841900182/a10b9117d0919929696db136ba0aadc0_normal.jpeg", 
+   "name": "Muddathir Sulaiman", 
+   "text": "16 + A 'Charra' in need of more followers!!! Still waiting for #RomeluLukaku 2 return to Chelsea FC.....And I DO FOLLOW BACK!", 
+   "tweet_id": 401728531388203008, 
+   "create_time": "Sat Nov 16 15:08:40 +0000 2013", 
+   "location": "Cape Town, RSA", 
+   "retweeter_id": 445454271, 
+   "screen_name": "MuddaSul"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000007245824/65cbdb79eca9c63d574a9a3840be28cd_normal.jpeg", 
+   "name": "Jodie McCoy", 
+   "text": "Jodie Mac Coy in da place baby !", 
+   "tweet_id": 401719771190034432, 
+   "create_time": "Sat Nov 16 14:33:51 +0000 2013", 
+   "location": "Santa Ana, CA", 
+   "retweeter_id": 1525644025, 
+   "screen_name": "JodieMcCoy11"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000462729476/62775086f6f123f0ce9a7dfc6983d5ce_normal.jpeg", 
+   "name": "Dennis Atkinson", 
+   "text": "Rick Ross Fan ! Port of Miami", 
+   "tweet_id": 401716691899801600, 
+   "create_time": "Sat Nov 16 14:21:37 +0000 2013", 
+   "location": "Miami USA", 
+   "retweeter_id": 1868882472, 
+   "screen_name": "re_dennisat"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000482361163/67cd937cd5ec6385b9866666d03c666a_normal.jpeg", 
+   "name": "Melisa Marzett", 
+   "text": "Passionate writer, marketing specialist, dancer.", 
+   "tweet_id": 401647499980832768, 
+   "create_time": "Sat Nov 16 09:46:40 +0000 2013", 
+   "location": "Phoenix, Arizona", 
+   "retweeter_id": 1885653732, 
+   "screen_name": "MelisaMarzett"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000733943859/3b6196a55598b09b53bd22ade9c8bc53_normal.jpeg", 
+   "name": "dimitri valianatos", 
+   "text": "PSU 15", 
+   "tweet_id": 401628241745948672, 
+   "create_time": "Sat Nov 16 08:30:09 +0000 2013", 
+   "location": "Bethlehem, PA", 
+   "retweeter_id": 366421148, 
+   "screen_name": "D_Valianatos"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000800334355/62523388c4a8fee4e190e14e2f56f44e_normal.png", 
+   "name": "\u2192J\u03c3\u03b5\u2113\u2113  \u044f\u03b9v\u03b5r\u03b1 \u0693\u05f2  ", 
+   "text": "\u00bfDetenerse? Nunca. \u00bfAvanzar? Siempre. \u00bfRendirse? Jam\u00e1s", 
+   "tweet_id": 401584235230023680, 
+   "create_time": "Sat Nov 16 05:35:17 +0000 2013", 
+   "location": "- #TeamDrizzy - #TeamJames - ", 
+   "retweeter_id": 991048488, 
+   "screen_name": "Soy_Fendy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000252646605/ab0daf06f11280a17361c59eb9703295_normal.jpeg", 
+   "name": "Cory Moore", 
+   "text": "You only as real as the company you keep", 
+   "tweet_id": 401571432280227840, 
+   "create_time": "Sat Nov 16 04:44:24 +0000 2013", 
+   "location": "Newark ,NJ| East Gadsden, AL", 
+   "retweeter_id": 593081405, 
+   "screen_name": "ImGoodMyG"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000187733988/9d64fc0fd039234a25f7303591007f21_normal.jpeg", 
+   "name": "I\u2022FOLLOW\u2022BACK\u2022", 
+   "text": "I Always Follow Back:) CALI\u2022FOR\u2022NIA #HeatNation #3peat #packgang 100% Follow Back! #unfollow4unfollow. Want A S/O? Just ask;)", 
+   "tweet_id": 401547078075031553, 
+   "create_time": "Sat Nov 16 03:07:38 +0000 2013", 
+   "location": "Bitch.... im everywhere....", 
+   "retweeter_id": 602515925, 
+   "screen_name": "arunvir11"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000766966682/72c8215f642111d9cc72338d1a1a1e35_normal.jpeg", 
+   "name": "Young Gunna", 
+   "text": "Young Cali Gunna", 
+   "tweet_id": 401543485876338688, 
+   "create_time": "Sat Nov 16 02:53:22 +0000 2013", 
+   "location": "Roseville, California", 
+   "retweeter_id": 2182687588, 
+   "screen_name": "Young_gunna69"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000852744762/2425fedc27a3a9618d8e3323354e5f94_normal.jpeg", 
+   "name": "Oskar Olsson", 
+   "text": "", 
+   "tweet_id": 401543003518410752, 
+   "create_time": "Sat Nov 16 02:51:27 +0000 2013", 
+   "location": "grand rapids 616 grap 49506", 
+   "retweeter_id": 1945663885, 
+   "screen_name": "owotbd"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000855283006/687c98bb7b067ef692aebe73114ff975_normal.jpeg", 
+   "name": "Justin Mathers", 
+   "text": "If the good die young do the bad die old?", 
+   "tweet_id": 401530488826769408, 
+   "create_time": "Sat Nov 16 02:01:43 +0000 2013", 
+   "location": "315*  #23 Eastwoodian est. 96'", 
+   "retweeter_id": 330785854, 
+   "screen_name": "The8spot"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000774891615/56b3249f8e05d526dae67957d8b8d26a_normal.jpeg", 
+   "name": "David Calamita", 
+   "text": "I watch porn for the plot #BuffState", 
+   "tweet_id": 401401952233598977, 
+   "create_time": "Fri Nov 15 17:30:57 +0000 2013", 
+   "location": "NY", 
+   "retweeter_id": 382908797, 
+   "screen_name": "DaveWorldPeace"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3369598796/7d5e0cec32d8303b693eb0674159e64d_normal.jpeg", 
+   "name": "Ryan", 
+   "text": "I make beats. #clam\nAKA Mahogany Jones", 
+   "tweet_id": 401386829288448000, 
+   "create_time": "Fri Nov 15 16:30:52 +0000 2013", 
+   "location": "The Peg", 
+   "retweeter_id": 326530084, 
+   "screen_name": "irunthepeg"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3774099451/09399d667741ec6725dd1c563558b164_normal.jpeg", 
+   "name": "Tico Alcocer", 
+   "text": "Repartiendo risas desde el primer d\u00eda. Estudiante de magisterio en la UV, amante de la m\u00fasica y la NBA.", 
+   "tweet_id": 401364602858274816, 
+   "create_time": "Fri Nov 15 15:02:32 +0000 2013", 
+   "location": "Valencia", 
+   "retweeter_id": 271522085, 
+   "screen_name": "tico_pcc"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000783970468/487d2cacabee4c08ed09972e604f3a72_normal.jpeg", 
+   "name": "CRISTELLITA :D", 
+   "text": "March 09, 1997 l BMLS Student l Miami Heat l Dwyane Wade l LeBron James l Kim Woo Bin l Micky Yoochun l Kdrama l Music l \u2665", 
+   "tweet_id": 401333951316246529, 
+   "create_time": "Fri Nov 15 13:00:45 +0000 2013", 
+   "location": "Davao City, Philppines", 
+   "retweeter_id": 395783075, 
+   "screen_name": "ceedeebandala"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000634920380/a876720e3ce9c65055b2f08183337508_normal.jpeg", 
+   "name": "Yung Nigga .", 
+   "text": "Its levels to this shit yung nigga .", 
+   "tweet_id": 401305599067320320, 
+   "create_time": "Fri Nov 15 11:08:05 +0000 2013", 
+   "location": "West Palm", 
+   "retweeter_id": 1661616367, 
+   "screen_name": "trxpg0d"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1846073540/2671_normal.gif", 
+   "name": "UCLA Basketball Fan", 
+   "text": "UCLA Economics Major Class of 2005. Die-hard fan of UCLA Basketball.", 
+   "tweet_id": 401255929166835713, 
+   "create_time": "Fri Nov 15 07:50:43 +0000 2013", 
+   "location": "Culver City, CA", 
+   "retweeter_id": 499962867, 
+   "screen_name": "UCLABruins_Fan"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/344513261567963688/c78dde3c6928a93d9a01e1f4789b7d8b_normal.jpeg", 
+   "name": "Ali Bomaye \u2605", 
+   "text": "I have a lot of confidence in my shot and I'm willing to shoot it no matter what @Drose Fuck y'all mad at me for @chrisbrown & @thegame", 
+   "tweet_id": 401249003007787008, 
+   "create_time": "Fri Nov 15 07:23:11 +0000 2013", 
+   "location": "Long Beach California", 
+   "retweeter_id": 461860623, 
+   "screen_name": "BlameBreezy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000809008634/244f4c89f5a5a534d1f794761107bd04_normal.jpeg", 
+   "name": "Jonathan Ray Rincon", 
+   "text": "Mothafucka Neva Loved Us. Worst Behavior", 
+   "tweet_id": 401248582239412224, 
+   "create_time": "Fri Nov 15 07:21:31 +0000 2013", 
+   "location": "Rochester Texas ", 
+   "retweeter_id": 565052786, 
+   "screen_name": "ray_rincon"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000710103528/ba9fc3b590bad5ade297eaa2ccf7a987_normal.jpeg", 
+   "name": "Jake Woodward", 
+   "text": "LIVE-EAT-SLEEP-BREATHE CHARGERS Whats Your Innocent Addiction?", 
+   "tweet_id": 401218290644549632, 
+   "create_time": "Fri Nov 15 05:21:09 +0000 2013", 
+   "location": "San Diego", 
+   "retweeter_id": 355054589, 
+   "screen_name": "woodys_gold"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000829401122/565b131e7f41a31712ff25fb20df0478_normal.jpeg", 
+   "name": "KillaFlowNation\u2122", 
+   "text": "@Dessssssssiii \u2764\ufe0f", 
+   "tweet_id": 401207874430726144, 
+   "create_time": "Fri Nov 15 04:39:46 +0000 2013", 
+   "location": "Cline Court", 
+   "retweeter_id": 475444019, 
+   "screen_name": "amp2116"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000860936719/J_0oZPvj_normal.jpeg", 
+   "name": "Kevoo\u2122", 
+   "text": "$$$ ig: kevinvshaters #IrmoBasketball", 
+   "tweet_id": 401173534875332608, 
+   "create_time": "Fri Nov 15 02:23:18 +0000 2013", 
+   "location": "rebuilding stage...", 
+   "retweeter_id": 1295729959, 
+   "screen_name": "HoopGodJr"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000810984672/fade1086d0a0fdffd4fa766a539ec3d8_normal.jpeg", 
+   "name": "#RichGang $$$", 
+   "text": "I was made to be GREAT, SLEEP IS FOR THE RICH", 
+   "tweet_id": 401152900732170240, 
+   "create_time": "Fri Nov 15 01:01:19 +0000 2013", 
+   "location": "Mars \u2708 Miami ", 
+   "retweeter_id": 164765588, 
+   "screen_name": "Richgirlrae"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000852762092/d72bd206a211903cc2cd1ee71fc5b420_normal.jpeg", 
+   "name": "Meet", 
+   "text": "\u2022 R.I.P Uncle \u2022 #HeatNation // #WayOfWade", 
+   "tweet_id": 401149513723043841, 
+   "create_time": "Fri Nov 15 00:47:51 +0000 2013", 
+   "location": "\u2708803", 
+   "retweeter_id": 636668879, 
+   "screen_name": "1Metrius"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3685137582/c789992d023d6b790f23d26bd579f81b_normal.jpeg", 
+   "name": "Donovan Kayin", 
+   "text": "\u041f\u0440\u0435\u0441\u0441-\u0441\u0435\u043a\u0440\u0435\u0442\u0430\u0440\u044c \u0434\u043b\u044f \u0432\u0435\u0431-\u043f\u0440\u043e\u0435\u043a\u0442 \u043f\u043e\u0434 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435\u043c EnLawded \u0432 \u041c\u043e\u0441\u043a\u0432\u0435", 
+   "tweet_id": 401146945215152129, 
+   "create_time": "Fri Nov 15 00:37:39 +0000 2013", 
+   "location": "\u041c\u043e\u0441\u043a\u0432\u0430, Moscow", 
+   "retweeter_id": 1370456790, 
+   "screen_name": "donovankayin"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/344513261570364035/d29ca1638b3b57dc3168e1c2d3d896a4_normal.jpeg", 
+   "name": "Lynette Carter", 
+   "text": "#Arithmetic is being able to count up to twenty without taking off your #shoes. (Mickey Mouse)", 
+   "tweet_id": 401143389821091840, 
+   "create_time": "Fri Nov 15 00:23:31 +0000 2013", 
+   "location": "Alexandria, PA ", 
+   "retweeter_id": 1511641856, 
+   "screen_name": "LynetteCarter10"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3772368244/c50417e3f481490fd65926e043a50a32_normal.jpeg", 
+   "name": "Kylie Kim Song", 
+   "text": "Life is pleasant. Death is peaceful. It's the transition that's troublesome.", 
+   "tweet_id": 401142178795511808, 
+   "create_time": "Fri Nov 15 00:18:42 +0000 2013", 
+   "location": "Irvine, CA", 
+   "retweeter_id": 1493368933, 
+   "screen_name": "KylieKimSong"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000463196162/9c0c7cc0a5162bc0d29495584b055454_normal.jpeg", 
+   "name": "John Harlow", 
+   "text": "In the business world, the rearview mirror is always clearer than the windshield [...]", 
+   "tweet_id": 401141940101468160, 
+   "create_time": "Fri Nov 15 00:17:46 +0000 2013", 
+   "location": "Los Angeles", 
+   "retweeter_id": 1869222438, 
+   "screen_name": "JohnHarlow5"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3771687809/20068ed52de3c3e4723e197923d9745c_normal.jpeg", 
+   "name": "Kelly Lewellen", 
+   "text": "I have always regarded myself as the pillar of my life. Meryl Streep.", 
+   "tweet_id": 401131086236770304, 
+   "create_time": "Thu Nov 14 23:34:38 +0000 2013", 
+   "location": "Sonoma, CA 95476 ", 
+   "retweeter_id": 1492977835, 
+   "screen_name": "KellyLewellen1"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3578793497/78dd8e05ce07882f37c68405351d9012_normal.jpeg", 
+   "name": "The Lawd Sister", 
+   "text": "#Proud of my #brother, Proud of his #fight, #Loves #Adidas Originals and Loves @EnLawded dot com", 
+   "tweet_id": 401126795778342912, 
+   "create_time": "Thu Nov 14 23:17:35 +0000 2013", 
+   "location": "Paris", 
+   "retweeter_id": 1006402651, 
+   "screen_name": "ZeLawdSister"
+  }
+ ], 
+ "388794932653080576": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411743867889672193/5b5ZxRxS_normal.jpeg", 
+   "name": "RIDHO", 
+   "text": "Anti CJR (boy band BANCI) jiah !!!", 
+   "tweet_id": 403877116682305536, 
+   "create_time": "Fri Nov 22 13:26:22 +0000 2013", 
+   "location": "INDONESIA", 
+   "retweeter_id": 2173669975, 
+   "screen_name": "Baragbah_10"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000694873138/d2a920179a4d6ae3e8d08f269ea99294_normal.jpeg", 
+   "name": "Jaden Ayala", 
+   "text": "830 is Home. Dallas Cowboys Football. Christian. #ComeUpSeason", 
+   "tweet_id": 398825913262948352, 
+   "create_time": "Fri Nov 08 14:54:42 +0000 2013", 
+   "location": "Kerrville, Texas", 
+   "retweeter_id": 1333556563, 
+   "screen_name": "JadenAyala73"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411762525978365952/8OIiA5qN_normal.jpeg", 
+   "name": "Totito", 
+   "text": "God 1st Family 2nd Im TAKEN. Im Toto | WHITE T SHIRT KING | Instagram- ItsToto | Videos below subscribe.", 
+   "tweet_id": 392915197670612992, 
+   "create_time": "Wed Oct 23 07:27:37 +0000 2013", 
+   "location": "Miami \u2708 OKC", 
+   "retweeter_id": 181740031, 
+   "screen_name": "TheRealToto1"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000860525484/zpc-J1BK_normal.jpeg", 
+   "name": "Valesia \u2665", 
+   "text": "Your bio is a cool story ; you wanna hear mine ? It's a fairytale . Once upon a time , nobody gave a fuck . The end \u30c4", 
+   "tweet_id": 392856068814303232, 
+   "create_time": "Wed Oct 23 03:32:40 +0000 2013", 
+   "location": "Memphis, Tn.", 
+   "retweeter_id": 267029763, 
+   "screen_name": "vdj___"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000852605818/21a6b52fb53565d5d643ecb905728814_normal.jpeg", 
+   "name": "\u2606\u2606Boosie\u2606\u2606", 
+   "text": "Dalvin Foster White Station High School Class of 2014 Football and Basketball Athlete..... http://t.co/V5wPlvIGxQ", 
+   "tweet_id": 392855449277456384, 
+   "create_time": "Wed Oct 23 03:30:12 +0000 2013", 
+   "location": "9.1.12 ECF", 
+   "retweeter_id": 264051394, 
+   "screen_name": "Been_That_Guy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000655790047/8effde961c1c4d86b5642a8bbce0c5b1_normal.jpeg", 
+   "name": "I Am GMG", 
+   "text": "\u2605 Class Of My Own \u2605 Currently Signed With Monster Records Label , Model Type Shit ,MHS Junior, Designer , Other Shit Is Irrelevant. Managed By: GMG #BALLISLIFE", 
+   "tweet_id": 392855289369612288, 
+   "create_time": "Wed Oct 23 03:29:34 +0000 2013", 
+   "location": "Memphis (901)", 
+   "retweeter_id": 801140365, 
+   "screen_name": "LebronsDaughter"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000861098596/FAtu2YtV_normal.jpeg", 
+   "name": "Caleb", 
+   "text": "You drive a donkey i drive mercadies", 
+   "tweet_id": 392520649748402176, 
+   "create_time": "Tue Oct 22 05:19:50 +0000 2013", 
+   "location": "minnesota", 
+   "retweeter_id": 1164504224, 
+   "screen_name": "caleb_maxwell"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000703922616/aafe710145c167196d5ec0635e0a1ff7_normal.jpeg", 
+   "name": "Alastair", 
+   "text": "Yorkshire lad,Rotherham united home and away!!\u26bd\ufe0f", 
+   "tweet_id": 392224498881417216, 
+   "create_time": "Mon Oct 21 09:43:02 +0000 2013", 
+   "location": "Yorkshire", 
+   "retweeter_id": 449864760, 
+   "screen_name": "Alastair_rufc"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000857626917/5dVv1N7x_normal.jpeg", 
+   "name": "Kai Taylor", 
+   "text": "Adrenaline Junky / Wakeboarder / Volt  Never Stop, Never Quit, Never Give In C/o 2014| Plano West", 
+   "tweet_id": 392140469615865857, 
+   "create_time": "Mon Oct 21 04:09:08 +0000 2013", 
+   "location": "Plano, TX", 
+   "retweeter_id": 493450728, 
+   "screen_name": "KaiTaylor1414"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000424897091/052a6cdd539f4207ed27f398560b21c3_normal.jpeg", 
+   "name": "BBNS", 
+   "text": "There's nobody in the history of the game of basketball who has been more unique than you.", 
+   "tweet_id": 391820058630311936, 
+   "create_time": "Sun Oct 20 06:55:56 +0000 2013", 
+   "location": "Milano, Italy ", 
+   "retweeter_id": 484103242, 
+   "screen_name": "EnricoLBJPoloni"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000746473702/7fcaf3c948c5f2da34dcf91fc7c621cf_normal.jpeg", 
+   "name": "Robert ", 
+   "text": "f\u03b9\u03bd\u0454 f\u03b9\u03bd\u0454 \u0438\u03b9\u0438\u0454 - ! #49ers #Lakers #SFGiants #LSU !", 
+   "tweet_id": 391813005479903232, 
+   "create_time": "Sun Oct 20 06:27:54 +0000 2013", 
+   "location": "California ", 
+   "retweeter_id": 51241373, 
+   "screen_name": "YoungFlacko_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000755952298/4e6c9d75b9f31a5a78dd3c940cd64e92_normal.jpeg", 
+   "name": "\u26bd\ufe0fJ\u00ae Bale\u26bd\ufe0f", 
+   "text": "Today you say I can't. Tomorrow you'll say I did.", 
+   "tweet_id": 391792283919863808, 
+   "create_time": "Sun Oct 20 05:05:34 +0000 2013", 
+   "location": "M.a.a.D City", 
+   "retweeter_id": 1564697430, 
+   "screen_name": "DWhittaker11"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000586952806/9989b70d897bd7e14a1b973e9f7b75d3_normal.jpeg", 
+   "name": "Frankie.", 
+   "text": "The Babe Jennifer Lawrence.\u2661", 
+   "tweet_id": 391320428938940416, 
+   "create_time": "Fri Oct 18 21:50:35 +0000 2013", 
+   "location": "Next Stop, Everywhere.", 
+   "retweeter_id": 790047746, 
+   "screen_name": "FrankieeButton"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000592536930/ad8fbc187f68a9d4a77b810ccec19b71_normal.jpeg", 
+   "name": "Audree Pool", 
+   "text": "I like hockey, baseball, and soccer", 
+   "tweet_id": 391319917296758784, 
+   "create_time": "Fri Oct 18 21:48:33 +0000 2013", 
+   "location": "Nebraska bitchezz", 
+   "retweeter_id": 607808360, 
+   "screen_name": "AudreePool9"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000867267173/Cd7q6-X-_normal.jpeg", 
+   "name": "Veronica", 
+   "text": "And every thing that I do, I do for me and you. \u2764\ufe0f Danny", 
+   "tweet_id": 391300854118367232, 
+   "create_time": "Fri Oct 18 20:32:48 +0000 2013", 
+   "location": "Miami, FL \u2708Charlotte, NC", 
+   "retweeter_id": 359073001, 
+   "screen_name": "vfreshhhh"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411717988996227073/sR-spJ1U_normal.jpeg", 
+   "name": "WTG", 
+   "text": "Fashion Designer Working On My Clothing Line @NoHeartClothing Vist The Website. C.E.O", 
+   "tweet_id": 391300351627776000, 
+   "create_time": "Fri Oct 18 20:30:48 +0000 2013", 
+   "location": "\u265bMars\u265b ", 
+   "retweeter_id": 129007301, 
+   "screen_name": "WayneWinnin"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000851225179/31c83a0799aaf42590a01f3b54e32c17_normal.jpeg", 
+   "name": "God's Masterpiece", 
+   "text": "14 y/o kid putting God First, Letting Go of Her plans and Holding on to God, can do all things through Christ and have a Fully surrendered Life to HIM. \u2764", 
+   "tweet_id": 391254834021933056, 
+   "create_time": "Fri Oct 18 17:29:56 +0000 2013", 
+   "location": "God's Path ", 
+   "retweeter_id": 625612773, 
+   "screen_name": "HeyItsPaaaaaaam"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000830460241/6b247c1600136b9a4f9fdee3c6449ea9_normal.jpeg", 
+   "name": "Vino Longway.", 
+   "text": "Every shooter not loyal... Just because they'll shoot for you, doesn't mean they won't shoot at you. #LakerNation #SpartanNation", 
+   "tweet_id": 390996202554007552, 
+   "create_time": "Fri Oct 18 00:22:13 +0000 2013", 
+   "location": "989", 
+   "retweeter_id": 138960723, 
+   "screen_name": "SayItAintKira"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000725341225/6849275411125b7daa6e988381d4ca8e_normal.jpeg", 
+   "name": "MakeWayForTheChosen1", 
+   "text": "FMOI:@GreatnessBound6 #TeamHeat #BallIsLife #HeatNation R.I.P Jayden 6-11-13 (Mention For A Fb) #IfYouAintFuckinMeDontFuckWithMe #RestInPeaceDad 10-10-13", 
+   "tweet_id": 390995920378032128, 
+   "create_time": "Fri Oct 18 00:21:06 +0000 2013", 
+   "location": "Saginaw, Michigan", 
+   "retweeter_id": 347313173, 
+   "screen_name": "GreatnessBound6"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000630933019/30b5724321400a6556eed047df9cb0e8_normal.jpeg", 
+   "name": "Ros Thompson", 
+   "text": "", 
+   "tweet_id": 390968758258253824, 
+   "create_time": "Thu Oct 17 22:33:10 +0000 2013", 
+   "location": "Chicago il", 
+   "retweeter_id": 543424459, 
+   "screen_name": "Ros_Thom"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000835290149/d4a869588b9fcba9764f48e6d1915713_normal.jpeg", 
+   "name": "Esteban Garcia", 
+   "text": "Swoop ##", 
+   "tweet_id": 390558340612235264, 
+   "create_time": "Wed Oct 16 19:22:19 +0000 2013", 
+   "location": "coppell 2016", 
+   "retweeter_id": 462569625, 
+   "screen_name": "artificialeste"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000736375568/ac22b4e95acbb36f42e2753d879a2460_normal.jpeg", 
+   "name": "\u2728\ufe0fBallout\u2728", 
+   "text": "Ion love no thotties.", 
+   "tweet_id": 390411937894260737, 
+   "create_time": "Wed Oct 16 09:40:34 +0000 2013", 
+   "location": "$quadville", 
+   "retweeter_id": 1308714163, 
+   "screen_name": "iFlexx_hoe"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000729349312/10cc1fbdc0451b581e00f8ceae608f80_normal.jpeg", 
+   "name": "\u043db", 
+   "text": "instagram&snapchat: hbiilleenn06 #LeBronFan #TeamLeBron #teamheat #weightlifter #bigdreams #SFUstudying", 
+   "tweet_id": 390367629153554432, 
+   "create_time": "Wed Oct 16 06:44:30 +0000 2013", 
+   "location": "2012&2013CHAMPS", 
+   "retweeter_id": 442494596, 
+   "screen_name": "hbiilleenn06"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3036197530/99494e0fb6c5608385f61110ef6d3fcc_normal.jpeg", 
+   "name": "Sabrina Viteritti", 
+   "text": "", 
+   "tweet_id": 390315801125068800, 
+   "create_time": "Wed Oct 16 03:18:33 +0000 2013", 
+   "location": "Toronto", 
+   "retweeter_id": 40154466, 
+   "screen_name": "SabVits"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3083403239/6d71f753372b287c52b00088e237e23c_normal.png", 
+   "name": "Sam Powers", 
+   "text": "Field Director for Our Place Initiative @OurPlaceON; @BarackObama Alum 2012; U of T Grad; Ex-Pat; and an altruistic idealist", 
+   "tweet_id": 390272750251966464, 
+   "create_time": "Wed Oct 16 00:27:29 +0000 2013", 
+   "location": "Toronto", 
+   "retweeter_id": 415823582, 
+   "screen_name": "samjgpowers"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000676550405/f8bc9285bf11f6f6a08d2d37ffcbdf19_normal.png", 
+   "name": "M. Lattibeaudiere", 
+   "text": "Haters gonna hate ; Lovers gonna love. Me Myself and I are gonna be winners ..........", 
+   "tweet_id": 390237065100525568, 
+   "create_time": "Tue Oct 15 22:05:41 +0000 2013", 
+   "location": "Texas", 
+   "retweeter_id": 103474222, 
+   "screen_name": "MiCkelYaBOy"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000569842403/a91d34f89ddade555f8477f2402ff908_normal.jpeg", 
+   "name": "Weston Sanders", 
+   "text": "The happiest of people don't necessarily have the best of everything they just make the most of everything that comes along their way.", 
+   "tweet_id": 390213387520856064, 
+   "create_time": "Tue Oct 15 20:31:36 +0000 2013", 
+   "location": " SC", 
+   "retweeter_id": 499425704, 
+   "screen_name": "w_sanders96"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411978264907747328/HsJw7J0n_normal.jpeg", 
+   "name": "Jos\u00e9", 
+   "text": "Basketball player/fan\r\n#StriveForGreatness\r\n#TeamLeBron", 
+   "tweet_id": 390206590189842432, 
+   "create_time": "Tue Oct 15 20:04:35 +0000 2013", 
+   "location": "Puerto Rico", 
+   "retweeter_id": 1107963510, 
+   "screen_name": "santosjosej6"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000474045537/8d42b7e8c09099954489e44c2d0c44a6_normal.jpeg", 
+   "name": "Mr Singleton", 
+   "text": "Waiting for my path to Heaven!", 
+   "tweet_id": 390190338629185536, 
+   "create_time": "Tue Oct 15 19:00:00 +0000 2013", 
+   "location": "God \u261d Me \u270c", 
+   "retweeter_id": 173513585, 
+   "screen_name": "Mr_D_Singleton"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000833692766/4331cfb6a43f5379ac927b0a0d519939_normal.jpeg", 
+   "name": "Felicia Ponturo", 
+   "text": "Basketball, Beatles, Bagles, British, Beyonce, Barry Botter. I love B's!\nFamily first", 
+   "tweet_id": 390170042572488704, 
+   "create_time": "Tue Oct 15 17:39:21 +0000 2013", 
+   "location": "Lulea, Sweden", 
+   "retweeter_id": 308356878, 
+   "screen_name": "felicia1337"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000665246897/3cd639256364e8342710db485fef608a_normal.jpeg", 
+   "name": "Adam West", 
+   "text": "", 
+   "tweet_id": 390129281440829440, 
+   "create_time": "Tue Oct 15 14:57:23 +0000 2013", 
+   "location": "Chicago", 
+   "retweeter_id": 476882709, 
+   "screen_name": "martrellmarshal"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000555199429/947dfeaed3d22e084be6e80067b0bf9d_normal.jpeg", 
+   "name": "gretchmoney", 
+   "text": "you can call me G. i'm pretty awesome. too opinionated. love is love. #NOH8 #TeamMaryJane #GlutenFreeLiving #OctobersVeryOwn #Instagram - @gretchmoney", 
+   "tweet_id": 390124967121014785, 
+   "create_time": "Tue Oct 15 14:40:15 +0000 2013", 
+   "location": "520", 
+   "retweeter_id": 263996442, 
+   "screen_name": "gretchmoney"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000855198844/9e0ff984f8c37975cf31dd56dd1e19f3_normal.jpeg", 
+   "name": "Azra Hendic", 
+   "text": "Make things happen. -17, bosnian, senior", 
+   "tweet_id": 389973422580965376, 
+   "create_time": "Tue Oct 15 04:38:03 +0000 2013", 
+   "location": "Branford Connecticut ", 
+   "retweeter_id": 395662529, 
+   "screen_name": "Azraxo"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000442783809/641cd7dcaacad9c59504f7e01915e940_normal.jpeg", 
+   "name": "leelee", 
+   "text": "", 
+   "tweet_id": 389942609386283010, 
+   "create_time": "Tue Oct 15 02:35:37 +0000 2013", 
+   "location": "in route with @_IHeartCookies ", 
+   "retweeter_id": 337817061, 
+   "screen_name": "aleahmonique"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000852452208/bfe4f711515ee6e0a4f2e18a1ac60eee_normal.jpeg", 
+   "name": "Dez Cryant", 
+   "text": "23, Massage Therapist student. Idc about anything but video games, sneakers, the Celtics & Eagles. Imma Cape Verdean Blasian in the illuminati IG: Dez_Cryant", 
+   "tweet_id": 389940988611153920, 
+   "create_time": "Tue Oct 15 02:29:11 +0000 2013", 
+   "location": "\u2693Rhode Island\u2693", 
+   "retweeter_id": 359210635, 
+   "screen_name": "fuckTEO"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000637393284/b07218bbdba4a03830c526f00ea75bec_normal.jpeg", 
+   "name": "Lee H Ohio St (12-1)", 
+   "text": "#TeamCeltics #BuckeyesNation #JetLife #MusicHead #YSU 21 years old @KipForce follows me. Single", 
+   "tweet_id": 389940955672887297, 
+   "create_time": "Tue Oct 15 02:29:03 +0000 2013", 
+   "location": "d(-_-)b In Youngstown, Ohio", 
+   "retweeter_id": 323531655, 
+   "screen_name": "MusikFan4Life"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2316501981/vvkabf4bbbcg6ivhwfkk_normal.jpeg", 
+   "name": "Yung Gunner", 
+   "text": "#DreamChaser 3 Jaces Daddy 3 #RetroNigga #RichForever  #Jordan #AllAboutThatCash #GratiotPark is where im from #RIP Josh Thames we miss u bro", 
+   "tweet_id": 389929179095265280, 
+   "create_time": "Tue Oct 15 01:42:15 +0000 2013", 
+   "location": "Everywhere lol", 
+   "retweeter_id": 255592767, 
+   "screen_name": "YungFlyNigga23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3575713395/48049a097d750e973ca8afff0d129ddb_normal.jpeg", 
+   "name": "K-WIZ", 
+   "text": "NSAxChange", 
+   "tweet_id": 389925906849878016, 
+   "create_time": "Tue Oct 15 01:29:15 +0000 2013", 
+   "location": "City of Trees Home of Kings CA", 
+   "retweeter_id": 636633461, 
+   "screen_name": "KWIZ916"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3614051409/fa1cc34c5fc6471f36575ae5c188585c_normal.jpeg", 
+   "name": "Pat Bell", 
+   "text": "soaring through paradise when I look in your eyes", 
+   "tweet_id": 389902778304589824, 
+   "create_time": "Mon Oct 14 23:57:21 +0000 2013", 
+   "location": "Burlington, NJ", 
+   "retweeter_id": 535743995, 
+   "screen_name": "aboynamedPat"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000419768974/871af17d9c82edbe76a52b126f71c9af_normal.jpeg", 
+   "name": "Keyanna", 
+   "text": "19yr old  college sophomore majoring  in accounting #UA16  Roll Tide!", 
+   "tweet_id": 389898415909257216, 
+   "create_time": "Mon Oct 14 23:40:00 +0000 2013", 
+   "location": "Montgomery,AL", 
+   "retweeter_id": 168855282, 
+   "screen_name": "1sweetkeke"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3070018040/be0256d14481c9fd0129c4b2dec2c591_normal.jpeg", 
+   "name": "SmithBaseball15", 
+   "text": "I have 2 boyz that stole my heart, and they call me Dad...", 
+   "tweet_id": 389892892984344577, 
+   "create_time": "Mon Oct 14 23:18:04 +0000 2013", 
+   "location": "SW FL", 
+   "retweeter_id": 107796040, 
+   "screen_name": "SmithBaseball15"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000700835090/860fa710ed6a6370746f0f507786adcb_normal.jpeg", 
+   "name": "Austinn", 
+   "text": "God  | Football  | Baseball \u26be | Basketball  | Hunting & Fishing  | ECHS | 252 \u2600 |", 
+   "tweet_id": 389887411838152704, 
+   "create_time": "Mon Oct 14 22:56:17 +0000 2013", 
+   "location": "Beaufort, N.C", 
+   "retweeter_id": 420464054, 
+   "screen_name": "AustinGoodwin3"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000742157019/a47c1abd7384de5815cba06f1f87223e_normal.jpeg", 
+   "name": "// COURTNEY //", 
+   "text": "namaste \u262e\u2661\u262f\u2765 seventeen \u2022 sassy \u2022 carefree \u2022 cruisey \u2022 http://t.co/4BXe3g6KXu \u2022 http://t.co/bTY1sStLtk", 
+   "tweet_id": 389876231362990081, 
+   "create_time": "Mon Oct 14 22:11:51 +0000 2013", 
+   "location": "hawaii | paradise", 
+   "retweeter_id": 159359216, 
+   "screen_name": "cheekyyyy__"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000758966438/0a0132c84ba7f9d9aae17611b7154260_normal.jpeg", 
+   "name": "MrsBlountToBe", 
+   "text": "Family..Friends..Love..Fun..Trust Mother of Julian Wilson Wifey of @Rlekim_blizzy\nNew Orleans Saints\nMiami Heat", 
+   "tweet_id": 389875347267010560, 
+   "create_time": "Mon Oct 14 22:08:21 +0000 2013", 
+   "location": "New Orleans to Virginia Beach", 
+   "retweeter_id": 46539620, 
+   "screen_name": "PrettyBLOUNT"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000588277415/b232f4debd6dbfd8ff23e6be5bea67e7_normal.jpeg", 
+   "name": "Emily ", 
+   "text": "", 
+   "tweet_id": 389873909870637056, 
+   "create_time": "Mon Oct 14 22:02:38 +0000 2013", 
+   "location": "Uncle Sam's land ", 
+   "retweeter_id": 1363498777, 
+   "screen_name": "EmmyMarieW"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000776167058/17387e4b595f1b660277cce25aece8e2_normal.jpeg", 
+   "name": "Ms. Salgado ", 
+   "text": "im 18,Cuban The less fucks you give, the better life you live. \u00a1Oye hit that follow button! IG: Kiss_Me_Im_Cuban", 
+   "tweet_id": 389873636741373952, 
+   "create_time": "Mon Oct 14 22:01:33 +0000 2013", 
+   "location": "Minnesota", 
+   "retweeter_id": 291314755, 
+   "screen_name": "Idgaf_Salgado"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000803961499/048e704adb4db08008ec0f113bf6e594_normal.jpeg", 
+   "name": "my b-day dec 15 \u203c\ufe0f\u203c\ufe0f", 
+   "text": "I love my baby ziana mae Eason", 
+   "tweet_id": 389873480550080512, 
+   "create_time": "Mon Oct 14 22:00:55 +0000 2013", 
+   "location": "chosen_child22 kik me ", 
+   "retweeter_id": 702208806, 
+   "screen_name": "babysolomarlow"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000856504086/IakKjkQM_normal.jpeg", 
+   "name": "Average Necrophiliac", 
+   "text": "Strolling through the Valley Of Death on a #SHO ting // IG: corleonewife", 
+   "tweet_id": 389873440305709056, 
+   "create_time": "Mon Oct 14 22:00:46 +0000 2013", 
+   "location": "Londahn Tahn. ", 
+   "retweeter_id": 259854172, 
+   "screen_name": "bronsolinisMrs"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000791946195/931bb8b8473caa0050de452c7dfd0aa2_normal.jpeg", 
+   "name": "\u2728#Mont Gang\u2764\ufe0f", 
+   "text": "~*PROUD Motha Of 2* Young. && Sassy.! My Heart \u2764Belong 2 Mii Kiidz && My Stink, Make Jokes.NO Stress.Love.Live.Life.", 
+   "tweet_id": 389873387117760512, 
+   "create_time": "Mon Oct 14 22:00:33 +0000 2013", 
+   "location": "Ur More Then Welcum 2 Twatch", 
+   "retweeter_id": 290683716, 
+   "screen_name": "BaddAss_Red"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000847832240/28f2516def6efbd765c985795db4e5ac_normal.jpeg", 
+   "name": "Nicole. ", 
+   "text": "Wayne memorial | Sophomore '16 | 15 \ue011 | Army JROTC \ue50c |", 
+   "tweet_id": 389873377235587072, 
+   "create_time": "Mon Oct 14 22:00:31 +0000 2013", 
+   "location": "Westland, Michigan", 
+   "retweeter_id": 1099181467, 
+   "screen_name": "Nicole__Rodgers"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000860488313/TKGdgh-a_normal.jpeg", 
+   "name": "B", 
+   "text": "", 
+   "tweet_id": 389873074004189184, 
+   "create_time": "Mon Oct 14 21:59:19 +0000 2013", 
+   "location": "Senior, Class of 2014 \u270c\ufe0f", 
+   "retweeter_id": 563275777, 
+   "screen_name": "_briannaperry"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411953776036044800/CnBGwn9u_normal.jpeg", 
+   "name": "feey", 
+   "text": "Mah nigga im fedah fedah fedah", 
+   "tweet_id": 389872989237673984, 
+   "create_time": "Mon Oct 14 21:58:58 +0000 2013", 
+   "location": "SHS '16", 
+   "retweeter_id": 295900984, 
+   "screen_name": "fedahmohammed"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411795755074977792/bqPr5iIB_normal.jpeg", 
+   "name": "Daenerys Targaryen", 
+   "text": "College Student Building My Empire", 
+   "tweet_id": 389872829350428672, 
+   "create_time": "Mon Oct 14 21:58:20 +0000 2013", 
+   "location": "HTX", 
+   "retweeter_id": 583003443, 
+   "screen_name": "the_purple_1_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000861455921/FLfNt8-E_normal.jpeg", 
+   "name": "Jacky", 
+   "text": "Camo and amo kind of girl. Keepin it GOLD", 
+   "tweet_id": 389872796597506048, 
+   "create_time": "Mon Oct 14 21:58:12 +0000 2013", 
+   "location": "Baseball is my bf\u26be", 
+   "retweeter_id": 934933465, 
+   "screen_name": "jackysaralu670"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000867578683/Q7sRC4UJ_normal.jpeg", 
+   "name": "IG: AscariAlberto ", 
+   "text": "Some kid who loves the simple things in life; part time socialite, full time Gentleman. Tumblr/Vine/Pinterest: ilSibarita  http://t.co/XrAozCdgCP", 
+   "tweet_id": 389872722089488384, 
+   "create_time": "Mon Oct 14 21:57:55 +0000 2013", 
+   "location": "\u2514A   Milano  Como", 
+   "retweeter_id": 97139395, 
+   "screen_name": "ilSibarita"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000713799905/83d7e20498e1c1714a9ac3d00c7ef419_normal.png", 
+   "name": "semperrr", 
+   "text": "take flight", 
+   "tweet_id": 389834936381087744, 
+   "create_time": "Mon Oct 14 19:27:46 +0000 2013", 
+   "location": "LA", 
+   "retweeter_id": 1890573421, 
+   "screen_name": "fantacyzwaq"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000467778852/afea39c317ac79c00f415767edf16725_normal.jpeg", 
+   "name": "Nate (Clay) Testa", 
+   "text": "God is #1, Family, then Football (? bound)..If you want to succeed as badly as you want to breath,then you will be successful.", 
+   "tweet_id": 389829191061225473, 
+   "create_time": "Mon Oct 14 19:04:56 +0000 2013", 
+   "location": "Kissimme,FL", 
+   "retweeter_id": 163719309, 
+   "screen_name": "52OLBTesta"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000754939949/862542b01b9c53c913138564b850f4ee_normal.jpeg", 
+   "name": "Brandon ", 
+   "text": "Ashley Wheaton Is Da Love Of My Life...", 
+   "tweet_id": 389824233033183232, 
+   "create_time": "Mon Oct 14 18:45:14 +0000 2013", 
+   "location": "SumWhere Out Wit My Gal", 
+   "retweeter_id": 392401229, 
+   "screen_name": "BNub93"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2844705658/82834c9b69f7219167dba82b40cd2e84_normal.jpeg", 
+   "name": "Jeremy Scott", 
+   "text": "#TEAMHOOPER #TEAMLEBRON #TEAMSWAGG #TEAMRAVENS #TEAMUAPB #TEAMINTELLEGENT #TEAMRALPHLAUREN #TEAMCOLLEGESTUDENT #StephenSmithfanatic #TEAMGODFIRST", 
+   "tweet_id": 389824215530364928, 
+   "create_time": "Mon Oct 14 18:45:10 +0000 2013", 
+   "location": "Pine Bluff, Arkansas", 
+   "retweeter_id": 90312445, 
+   "screen_name": "Da1_N_OnLee"
+  }
+ ], 
+ "395021597037580288": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000800471938/a01ad58846287ab1a33cbd724df07987_normal.jpeg", 
+   "name": "Lahiru Ruwan", 
+   "text": "", 
+   "tweet_id": 406039526855823360, 
+   "create_time": "Thu Nov 28 12:39:01 +0000 2013", 
+   "location": "Sri Lanka", 
+   "retweeter_id": 526211239, 
+   "screen_name": "lahiruru1"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2578231986/ag0ixqkxusrtqjq4ua3a_normal.jpeg", 
+   "name": "Chamith Karunakalage", 
+   "text": "don't try to catch me, u won't", 
+   "tweet_id": 406016208912134145, 
+   "create_time": "Thu Nov 28 11:06:22 +0000 2013", 
+   "location": "Ambalangoda", 
+   "retweeter_id": 224883905, 
+   "screen_name": "Chamith119"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411743867889672193/5b5ZxRxS_normal.jpeg", 
+   "name": "RIDHO", 
+   "text": "Anti CJR (boy band BANCI) jiah !!!", 
+   "tweet_id": 403063581156995072, 
+   "create_time": "Wed Nov 20 07:33:40 +0000 2013", 
+   "location": "INDONESIA", 
+   "retweeter_id": 2173669975, 
+   "screen_name": "Baragbah_10"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411889895422955522/-BAzrtrK_normal.jpeg", 
+   "name": "Traimein Springfield", 
+   "text": "Official Twitter of Traimein Springfield. #Blessed #RIPDMOE", 
+   "tweet_id": 401449979199246336, 
+   "create_time": "Fri Nov 15 20:41:48 +0000 2013", 
+   "location": "Detroit, Michigan", 
+   "retweeter_id": 177363476, 
+   "screen_name": "Tr3yGotGame"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000863038428/__BJxKsW_normal.jpeg", 
+   "name": "alien ", 
+   "text": "El Callejon", 
+   "tweet_id": 400476662430969856, 
+   "create_time": "Wed Nov 13 04:14:11 +0000 2013", 
+   "location": "Arroyo City", 
+   "retweeter_id": 1286296549, 
+   "screen_name": "DeltonDamian"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000795335641/6acfd47c4a6157d27b6f6faf1ae8b3d4_normal.jpeg", 
+   "name": "Jose Gomez", 
+   "text": "", 
+   "tweet_id": 400205826356281344, 
+   "create_time": "Tue Nov 12 10:17:59 +0000 2013", 
+   "location": "Washington, USA", 
+   "retweeter_id": 166338900, 
+   "screen_name": "joseaquilesgmz"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000759256090/8f3b9c5befccf26b04969ca50b4c1313_normal.jpeg", 
+   "name": "\ue330{Tony Montana}\ue330", 
+   "text": "Threw all the pain and the struggle yeah i still smile.. Just a kool laid back mf doing him.. Chasing Paper$$$..", 
+   "tweet_id": 399297376961064960, 
+   "create_time": "Sat Nov 09 22:08:07 +0000 2013", 
+   "location": "Juggin..", 
+   "retweeter_id": 561521401, 
+   "screen_name": "1FreeBandzTLo"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/344513261578654197/51fd9f85b6e37a900abbc378168ed924_normal.jpeg", 
+   "name": "esyqakiz", 
+   "text": "keen on, Introvert .", 
+   "tweet_id": 398769041835556864, 
+   "create_time": "Fri Nov 08 11:08:43 +0000 2013", 
+   "location": "Birmingham", 
+   "retweeter_id": 1510662444, 
+   "screen_name": "esyqakiz"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000735784601/19486d2c4595298adebbd341f3e27e72_normal.jpeg", 
+   "name": "Caro LBDLV", 
+   "text": "http://t.co/hbdq3FzWVk", 
+   "tweet_id": 398163446522720256, 
+   "create_time": "Wed Nov 06 19:02:17 +0000 2013", 
+   "location": "Montevido, Uruguay", 
+   "retweeter_id": 985427280, 
+   "screen_name": "CaroColinaa"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000848009988/664d2e5fc215e452f124b5c27a78ee8d_normal.jpeg", 
+   "name": "Kap.Randy Harrington", 
+   "text": "Follback? Mention aja:)My Pin:28818C70     love kamu:*", 
+   "tweet_id": 397934252303466496, 
+   "create_time": "Wed Nov 06 03:51:33 +0000 2013", 
+   "location": "Batam,Denpasar,Indonesia", 
+   "retweeter_id": 1392085310, 
+   "screen_name": "RandiDgobel"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000732791796/f5139fb67a5f6302fc36b2b177c76563_normal.jpeg", 
+   "name": "Jorge Rivi \ufe3b\u2566\u2564\u2500 -", 
+   "text": "Get Money And Stay Busta Free.. Real Niggas Aint Perfect .. And Perfect Niggas Aint Real ..", 
+   "tweet_id": 397870945815515136, 
+   "create_time": "Tue Nov 05 23:40:00 +0000 2013", 
+   "location": "South Bay, FL", 
+   "retweeter_id": 282732114, 
+   "screen_name": "WILDBAYFL"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1586549082/Screen_shot_2011-10-11_at_17.57.59_normal.png", 
+   "name": "Monocle Optical", 
+   "text": "Making people see clearly, its our profession..", 
+   "tweet_id": 397429444006391808, 
+   "create_time": "Mon Nov 04 18:25:38 +0000 2013", 
+   "location": "Birmingham UK", 
+   "retweeter_id": 192550312, 
+   "screen_name": "monocleoptical"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3571680903/fc7aca5fcbdf12ed917568b88ed95654_normal.jpeg", 
+   "name": "Joseph Ontiveros  ", 
+   "text": "The Official Twitter Account of Joseph Ontiveros LaFamilia/ TheMoneyTeam/ TeamBringIt", 
+   "tweet_id": 397185237123211264, 
+   "create_time": "Mon Nov 04 02:15:14 +0000 2013", 
+   "location": "Amongst La Familia! ", 
+   "retweeter_id": 78238462, 
+   "screen_name": "Mr_Ontiveros"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3338310731/142abe0aecbff9f6a5a7998b75be1e17_normal.jpeg", 
+   "name": "Gray Destin\u00e9e \u2122 ", 
+   "text": "East African | 5'9 | #Heatnation | \u264a\ufe0f\r\n| During your life, never stop dreaming. No one can take away your dreams - Tupac Shakur", 
+   "tweet_id": 397124536900263936, 
+   "create_time": "Sun Nov 03 22:14:02 +0000 2013", 
+   "location": "Universum", 
+   "retweeter_id": 155262120, 
+   "screen_name": "n0vacaneforpain"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000686639757/89a0fe1f0e32d8799af64fb77f3a4d6d_normal.jpeg", 
+   "name": "Michael Hubbard", 
+   "text": "#HeatNation #TeamTatted #FamilyFirst", 
+   "tweet_id": 396863994268352512, 
+   "create_time": "Sun Nov 03 04:58:44 +0000 2013", 
+   "location": "Gresham & Flintwood", 
+   "retweeter_id": 37801067, 
+   "screen_name": "SaluteMe_1991"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411709408855351296/h_q_WO8y_normal.jpeg", 
+   "name": "Francheska.", 
+   "text": "XV. Escapar no es libertad.   || Techno \u25b3 ||   LJ  || NBA *-*", 
+   "tweet_id": 396080373186035713, 
+   "create_time": "Fri Nov 01 01:04:54 +0000 2013", 
+   "location": "BFF? Mi Mom & GrandMother  ", 
+   "retweeter_id": 1879902992, 
+   "screen_name": "XVI_VI_VIII"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3217843199/cfd6efa6f1e0681cd7613b264669594f_normal.jpeg", 
+   "name": "Alfred Kelley", 
+   "text": "I'm 23 yrs old, and im a pharmaceutical delivery driver! My career goals are to go to la to be a successful actor!", 
+   "tweet_id": 395780248291123200, 
+   "create_time": "Thu Oct 31 05:12:19 +0000 2013", 
+   "location": "Houston, Tx", 
+   "retweeter_id": 94504549, 
+   "screen_name": "Alfredtheactor"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000060621126/247c4e470f39795ef80f057ccddd62bc_normal.jpeg", 
+   "name": "\u26fdmanzilla #Tripolar", 
+   "text": "#teamstayhigh #4.1.13 #heatnation", 
+   "tweet_id": 395773153361666048, 
+   "create_time": "Thu Oct 31 04:44:07 +0000 2013", 
+   "location": "goosport louisiana", 
+   "retweeter_id": 168397423, 
+   "screen_name": "getyo_ho"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000605106166/e51249a5d17603b604bfb076bb7cc37f_normal.jpeg", 
+   "name": "Instagram:ballife56", 
+   "text": "ILL DO ME MIND MY OWN AND ABOUT THAT HIGHLIFE #HEATNATION #TeamAries #teamloud\r\n#team90s baby", 
+   "tweet_id": 395655615370244096, 
+   "create_time": "Wed Oct 30 20:57:04 +0000 2013", 
+   "location": "Ansonia, CT USA", 
+   "retweeter_id": 565988097, 
+   "screen_name": "kingbrown00"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000864949196/-EEmlHsB_normal.jpeg", 
+   "name": "loser. ", 
+   "text": "Remember? Muh F*ckas Never Loved Us \u270c\ufe0f#HeatNation | R.I.P Jimmy\u2764", 
+   "tweet_id": 395654956273115136, 
+   "create_time": "Wed Oct 30 20:54:27 +0000 2013", 
+   "location": "\u2626.\u06f5", 
+   "retweeter_id": 446061738, 
+   "screen_name": "Coward_Shit"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000736299499/be9fd22a58694206d1176a6d4195f773_normal.jpeg", 
+   "name": "[MR. USA]", 
+   "text": "[@AndBeast2014/@SportsBeatRadio/@SportsRap2014/@JoeBeast95/@KyssMajor/@BobHernandez]", 
+   "tweet_id": 395590987088936960, 
+   "create_time": "Wed Oct 30 16:40:15 +0000 2013", 
+   "location": "[INTERNATIONAL]", 
+   "retweeter_id": 65511454, 
+   "screen_name": "CEEDALAZSPARTAN"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2794546769/23f91fa966e309a1c0be8d850d963f53_normal.png", 
+   "name": "MORTONPOOLS#Heatnati", 
+   "text": "Runs a small pool sevice in South Florida, Loyal MIAMI HEAT fan #Letsgoheat #REHEAT #REHEAT 2012-13", 
+   "tweet_id": 395580220146606081, 
+   "create_time": "Wed Oct 30 15:57:28 +0000 2013", 
+   "location": "Florida", 
+   "retweeter_id": 42620078, 
+   "screen_name": "Mortonpools"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1583877500/148891_174764519207954_100000232202585_532164_5017535_n_normal.jpg", 
+   "name": "Kellie R. Watson", 
+   "text": "Mother,Crime Victim,under Social Security Disability, Federally and State Indigent and Homeless with HUD Housing Grant since 2003. America Please Help US", 
+   "tweet_id": 395475330523484160, 
+   "create_time": "Wed Oct 30 09:00:41 +0000 2013", 
+   "location": "Chicago, Illinois", 
+   "retweeter_id": 325163248, 
+   "screen_name": "kellie_watson"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/292838076/Io_normal.jpg", 
+   "name": "Giancarlo Paredes", 
+   "text": "AC Milan, Champions League, Miami Heat, Miami Dolphins, Colombia, Tennis, Music, Concerts, Movies, Eurotrip, Laughing, Cereal, Oreos, Cruising the world.", 
+   "tweet_id": 395466953600806912, 
+   "create_time": "Wed Oct 30 08:27:23 +0000 2013", 
+   "location": "Miami", 
+   "retweeter_id": 52511475, 
+   "screen_name": "Giani1"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000589062020/4bf5977e612b654095c29f7d1e462b15_normal.jpeg", 
+   "name": "Nelson", 
+   "text": "Regardless of how it goes down Life goes on. Am I right?", 
+   "tweet_id": 395439604808966145, 
+   "create_time": "Wed Oct 30 06:38:43 +0000 2013", 
+   "location": "Toronto", 
+   "retweeter_id": 277338256, 
+   "screen_name": "ntmandela"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000513154061/f22a377829f18f8a31711c701e3cabac_normal.jpeg", 
+   "name": "Jonh Doe Soto", 
+   "text": "Free NuT Free Moose Free Hood Free Scrooge Free Black Rob", 
+   "tweet_id": 395397479203876864, 
+   "create_time": "Wed Oct 30 03:51:19 +0000 2013", 
+   "location": "Boston", 
+   "retweeter_id": 23549907, 
+   "screen_name": "Alan835"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000619343251/8ed516ccfa58977fe697d70eb5d45033_normal.jpeg", 
+   "name": "Migos", 
+   "text": "Im the furthest thing from perfect like everyone i know.", 
+   "tweet_id": 395395644665249793, 
+   "create_time": "Wed Oct 30 03:44:02 +0000 2013", 
+   "location": "IG: nico3hunna", 
+   "retweeter_id": 378497783, 
+   "screen_name": "nico3hunna"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3038852838/f56d340842cde74c7299407a6085c22a_normal.jpeg", 
+   "name": "larryfranklin\u263a", 
+   "text": "turn the fuck up all day every day bitch", 
+   "tweet_id": 395389175349780480, 
+   "create_time": "Wed Oct 30 03:18:20 +0000 2013", 
+   "location": "tc", 
+   "retweeter_id": 499224316, 
+   "screen_name": "larryvfranklin"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000812889645/866e847df4b557d328bcceebf34058cd_normal.jpeg", 
+   "name": "michael amador", 
+   "text": "-Todo lo puedo en Cristo que me fortaleze-", 
+   "tweet_id": 395368725357936640, 
+   "create_time": "Wed Oct 30 01:57:04 +0000 2013", 
+   "location": "Honduras", 
+   "retweeter_id": 970886965, 
+   "screen_name": "amador_michael"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000856900412/bi5GF7V2_normal.jpeg", 
+   "name": "J.BO$$\u2122", 
+   "text": "Stay Dedicated. Even When It Gets Complicated. On My Pursuit Of Happiness.", 
+   "tweet_id": 395365715399958529, 
+   "create_time": "Wed Oct 30 01:45:06 +0000 2013", 
+   "location": "Tampaa", 
+   "retweeter_id": 628153083, 
+   "screen_name": "JanessaRoldan"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000402500961/4238296b444459b864453e5e73f75ee7_normal.jpeg", 
+   "name": "Pedro Miguel Hidalgo", 
+   "text": "En ocasiones me siento muy c\u00f3modo en mi casa y luego me entra p\u00e1nico porque recuerdo que alg\u00fan d\u00eda me dejaran de mantener...  #MacklemoreTime  #MakeHistory", 
+   "tweet_id": 395363857822408704, 
+   "create_time": "Wed Oct 30 01:37:43 +0000 2013", 
+   "location": "Republica Dominicana", 
+   "retweeter_id": 256605137, 
+   "screen_name": "pedr0MHG"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000835384468/a21fdafb42afdde8338f3074cac999e3_normal.jpeg", 
+   "name": "We Do It Big", 
+   "text": "Lover of all things Seminole. #Jameis", 
+   "tweet_id": 395363659842863104, 
+   "create_time": "Wed Oct 30 01:36:56 +0000 2013", 
+   "location": "North Carolina", 
+   "retweeter_id": 520581866, 
+   "screen_name": "ChiefPeej"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000310067073/7d15237b579ff715940ffbb472dac3b4_normal.jpeg", 
+   "name": "Mathieu Howard", 
+   "text": "Basketball player Rockets i love basketball D12", 
+   "tweet_id": 395357198718869504, 
+   "create_time": "Wed Oct 30 01:11:16 +0000 2013", 
+   "location": "Houston USA", 
+   "retweeter_id": 909183182, 
+   "screen_name": "11Allain"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000639689576/c490f96f717c66b8b59a516cda18733e_normal.jpeg", 
+   "name": "Ismael A. Pe\u00f1a Feliz", 
+   "text": "#Pe\u00f1ita. Father of Ismael Emil AKA El Chiquitiqui, born 08/04/10. Miami Heat Fan. Basketball (NBA) Fan. I just wanna live while i'm alive.", 
+   "tweet_id": 395352529871314944, 
+   "create_time": "Wed Oct 30 00:52:43 +0000 2013", 
+   "location": "MiPaisDominicanRepublic", 
+   "retweeter_id": 188821628, 
+   "screen_name": "ismaelp7"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000799647998/57139bfa17cc95e9766e9263b34fb800_normal.jpeg", 
+   "name": "Ian Kearley", 
+   "text": "Playing and watching sports: hockey, basketball and baseball. \u26be Hard work beats talent when talent fails to work hard - Kevin Durant.", 
+   "tweet_id": 395348997537558528, 
+   "create_time": "Wed Oct 30 00:38:40 +0000 2013", 
+   "location": "Stephenville, NL", 
+   "retweeter_id": 875373385, 
+   "screen_name": "Kearley19"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000861434526/k462Es2G_normal.jpeg", 
+   "name": "QUEEN", 
+   "text": "Hair/Makeup Stylist.", 
+   "tweet_id": 395346119150280704, 
+   "create_time": "Wed Oct 30 00:27:14 +0000 2013", 
+   "location": "South Florida", 
+   "retweeter_id": 467526378, 
+   "screen_name": "bethanyblush"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3766672590/ab402580f39acf2a6a00116ea0106932_normal.jpeg", 
+   "name": "Andrew", 
+   "text": "", 
+   "tweet_id": 395341789982236672, 
+   "create_time": "Wed Oct 30 00:10:02 +0000 2013", 
+   "location": "Phoenix", 
+   "retweeter_id": 184354625, 
+   "screen_name": "akretzmann"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000518974802/94bd7b4b60765f5f35d83080d3ee5da2_normal.jpeg", 
+   "name": "Bad_Chick", 
+   "text": "#TeamHeat #TeamAquarius #Mom #TeamLebron #TeamWade", 
+   "tweet_id": 395338453548032000, 
+   "create_time": "Tue Oct 29 23:56:47 +0000 2013", 
+   "location": "Where you wanna be", 
+   "retweeter_id": 306583345, 
+   "screen_name": "SexyCaramel1981"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000853462993/3915ed261397e1b0bd26e0ca19bf814b_normal.jpeg", 
+   "name": "Isaac", 
+   "text": "|Junior \u2022 CVHS | Strive For Greatness, Witness. - @kingjames 3Peat |If you fall 7 times get up 8|", 
+   "tweet_id": 395338387730624512, 
+   "create_time": "Tue Oct 29 23:56:31 +0000 2013", 
+   "location": "Basketball \u2764", 
+   "retweeter_id": 487130287, 
+   "screen_name": "Isaac_Ehh"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000140950658/bddb489193d191e24f17d934ec5b7849_normal.jpeg", 
+   "name": "Nick Johnson", 
+   "text": "Brookwood\nBasketball    \nTrack and Field\nIG/Snapchat/Kik  slickk_johnson", 
+   "tweet_id": 395337339981283328, 
+   "create_time": "Tue Oct 29 23:52:21 +0000 2013", 
+   "location": "Atlanta Ga\n", 
+   "retweeter_id": 42458708, 
+   "screen_name": "slickk_johnson"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3574376759/175c88c9733c8fc61ed3ac9410e03592_normal.jpeg", 
+   "name": "Improveyalife", 
+   "text": "U just have one life...let's do this!", 
+   "tweet_id": 395334604280066048, 
+   "create_time": "Tue Oct 29 23:41:29 +0000 2013", 
+   "location": "Los Angeles", 
+   "retweeter_id": 252105515, 
+   "screen_name": "Flogi2010"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000849011335/7b74ee417206f357b730367549bf86c6_normal.jpeg", 
+   "name": "Ryan Robinson\u270a", 
+   "text": "If you HUNGRY you gone find food RIGHT?", 
+   "tweet_id": 395334577117339648, 
+   "create_time": "Tue Oct 29 23:41:22 +0000 2013", 
+   "location": "Portland,Houston", 
+   "retweeter_id": 278286748, 
+   "screen_name": "ThatKidDosUno"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000835127580/725b776f1a84427d6e0fb1ab5dff5845_normal.jpeg", 
+   "name": " \u3164\u3164 \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164", 
+   "text": "Drummer | Producer | Photographer | Designer | UofT | ALL SAINTS Men's Stylist | Instagram: tydruma", 
+   "tweet_id": 395334196501426176, 
+   "create_time": "Tue Oct 29 23:39:52 +0000 2013", 
+   "location": "Toronto, Ontario", 
+   "retweeter_id": 140312686, 
+   "screen_name": "TyDruma"
+  }
+ ], 
+ "395219438062297088": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000865956454/YAzTeRHS_normal.jpeg", 
+   "name": "Christian Reyes", 
+   "text": "Miami Heat Fan! Should i active more day! I like your photos 2k14 and miami heat. Do U believe in God \u300b@MiamiHEAT\u300a plz follow me on instagram! \ue239", 
+   "tweet_id": 403125577474777088, 
+   "create_time": "Wed Nov 20 11:40:02 +0000 2013", 
+   "location": "Repost Lebron James and DWade", 
+   "retweeter_id": 2196968142, 
+   "screen_name": "xtianreyes23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411743867889672193/5b5ZxRxS_normal.jpeg", 
+   "name": "RIDHO", 
+   "text": "Anti CJR (boy band BANCI) jiah !!!", 
+   "tweet_id": 403063563004043264, 
+   "create_time": "Wed Nov 20 07:33:36 +0000 2013", 
+   "location": "INDONESIA", 
+   "retweeter_id": 2173669975, 
+   "screen_name": "Baragbah_10"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000710763046/e61d8bac548be7eef93f246882746502_normal.jpeg", 
+   "name": "Matt Noot \u2717", 
+   "text": "The Arsenal Are Coming!", 
+   "tweet_id": 400525476084871168, 
+   "create_time": "Wed Nov 13 07:28:09 +0000 2013", 
+   "location": "La Lucia, Kwa-Zulu Natal", 
+   "retweeter_id": 705134089, 
+   "screen_name": "mattNoot_17"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000863038428/__BJxKsW_normal.jpeg", 
+   "name": "alien ", 
+   "text": "El Callejon", 
+   "tweet_id": 400476649848061952, 
+   "create_time": "Wed Nov 13 04:14:08 +0000 2013", 
+   "location": "Arroyo City", 
+   "retweeter_id": 1286296549, 
+   "screen_name": "DeltonDamian"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000763237984/ee338cf3472315fd3e0b7b48995e5baf_normal.jpeg", 
+   "name": "\u2730\u2730\u0432\u0454\u03b1\u03c5\u0442\u0443\u2730\u2730", 
+   "text": "\u2730\u2730 Tall \u2730\u2730 Beautiful \u2730\u2730 Light Skinned \u2730\u2730 IceCream Lover \u2730\u2730 Follow Me \u2730\u2730", 
+   "tweet_id": 399582669236736001, 
+   "create_time": "Sun Nov 10 17:01:46 +0000 2013", 
+   "location": "Balling \u2665", 
+   "retweeter_id": 1852718467, 
+   "screen_name": "Mrs_Hillsidee"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000759256090/8f3b9c5befccf26b04969ca50b4c1313_normal.jpeg", 
+   "name": "\ue330{Tony Montana}\ue330", 
+   "text": "Threw all the pain and the struggle yeah i still smile.. Just a kool laid back mf doing him.. Chasing Paper$$$..", 
+   "tweet_id": 399297326046384129, 
+   "create_time": "Sat Nov 09 22:07:55 +0000 2013", 
+   "location": "Juggin..", 
+   "retweeter_id": 561521401, 
+   "screen_name": "1FreeBandzTLo"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000646728140/cb8bea9fd9f38687eb5fe1c100c4a04f_normal.jpeg", 
+   "name": "Batuhan YEN\u0130G\u00dcN", 
+   "text": "T\u00f6rede yazar; Ozan konu\u015ftu mu Ka\u011fan bile susar...", 
+   "tweet_id": 398887735131648000, 
+   "create_time": "Fri Nov 08 19:00:21 +0000 2013", 
+   "location": "Turkey", 
+   "retweeter_id": 464716219, 
+   "screen_name": "bthnyngn"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000787355763/ec16d1057438c01a5f4bae3026ad1b3d_normal.jpeg", 
+   "name": "Jervin Sampayan", 
+   "text": "#StriveforGreatness", 
+   "tweet_id": 398764620699029505, 
+   "create_time": "Fri Nov 08 10:51:08 +0000 2013", 
+   "location": "Basketball Courts", 
+   "retweeter_id": 1381241947, 
+   "screen_name": "Jervin_Sampayan"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000653856884/982d0354591f0e3a3371942ee595842f_normal.jpeg", 
+   "name": "Terrance Brown", 
+   "text": "*Follows back*\r\n*TeamHeat\r\n*TeamEagles \r\nFollow me . ^_^", 
+   "tweet_id": 398316071541047296, 
+   "create_time": "Thu Nov 07 05:08:46 +0000 2013", 
+   "location": " Elizabeth , NJ ", 
+   "retweeter_id": 766067490, 
+   "screen_name": "im_Terrance"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000827534039/8af59c125058ac53ff12c00fb129fd84_normal.jpeg", 
+   "name": "C\u039bDEN", 
+   "text": "I like red skittles", 
+   "tweet_id": 398315916171038720, 
+   "create_time": "Thu Nov 07 05:08:09 +0000 2013", 
+   "location": "#BallState", 
+   "retweeter_id": 42119391, 
+   "screen_name": "CadenAlan"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411657716327673856/P6M3Grq3_normal.jpeg", 
+   "name": "$ Get Gwap $", 
+   "text": "i got heart and i will not get ate up", 
+   "tweet_id": 398248067654090752, 
+   "create_time": "Thu Nov 07 00:38:33 +0000 2013", 
+   "location": "pimpinville", 
+   "retweeter_id": 2173142972, 
+   "screen_name": "ChillHenry"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000735784601/19486d2c4595298adebbd341f3e27e72_normal.jpeg", 
+   "name": "Caro LBDLV", 
+   "text": "http://t.co/hbdq3FzWVk", 
+   "tweet_id": 398163454454161408, 
+   "create_time": "Wed Nov 06 19:02:19 +0000 2013", 
+   "location": "Montevido, Uruguay", 
+   "retweeter_id": 985427280, 
+   "screen_name": "CaroColinaa"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411925860887707649/BiPs55bo_normal.jpeg", 
+   "name": "The Water Moccasins", 
+   "text": "Water Moc Nation || Bodie, Wofford, Thunder, Captain, B-Smith, Lanky Tarv, Dirty-D, Harsh, Isaacs, Rosen || GM: Morrow", 
+   "tweet_id": 398092961462108160, 
+   "create_time": "Wed Nov 06 14:22:12 +0000 2013", 
+   "location": "in the water", 
+   "retweeter_id": 2169396706, 
+   "screen_name": "TheB_Teamwbbl"
+  }, 
+  {
+   "profile_pic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png", 
+   "name": "roxie henagan", 
+   "text": "Author: ABC- A Balanced Child WORKBOOK and USA Army Veteran.", 
+   "tweet_id": 398047650672422912, 
+   "create_time": "Wed Nov 06 11:22:09 +0000 2013", 
+   "location": "Charlotte, North Carolina", 
+   "retweeter_id": 1586679800, 
+   "screen_name": "roxie_henagan"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000848009988/664d2e5fc215e452f124b5c27a78ee8d_normal.jpeg", 
+   "name": "Kap.Randy Harrington", 
+   "text": "Follback? Mention aja:)My Pin:28818C70     love kamu:*", 
+   "tweet_id": 397934304312848384, 
+   "create_time": "Wed Nov 06 03:51:46 +0000 2013", 
+   "location": "Batam,Denpasar,Indonesia", 
+   "retweeter_id": 1392085310, 
+   "screen_name": "RandiDgobel"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000811359518/5e1345c3d42175871c0a59d8a77bda0c_normal.jpeg", 
+   "name": "B.P \u2661", 
+   "text": "waiting on my love to come home Free Dajauhn \u2661\ue106", 
+   "tweet_id": 397887788399345664, 
+   "create_time": "Wed Nov 06 00:46:55 +0000 2013", 
+   "location": "smiling w| my best friend RIP\u2665", 
+   "retweeter_id": 257420706, 
+   "screen_name": "___Journey"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000702980425/5167061558515c12c3fa88e3947009ab_normal.jpeg", 
+   "name": "#FuckTheSaints 9-4", 
+   "text": "Sports Fanatic!!!! Cam Newton LeBron James Dwyane Wade are favorite athletes. Panthers Heat Tar Heels are my teams. #FuckTheSaints #FuckTheLakers #FuckDuke", 
+   "tweet_id": 397887562167361536, 
+   "create_time": "Wed Nov 06 00:46:01 +0000 2013", 
+   "location": "With LeBron", 
+   "retweeter_id": 237538730, 
+   "screen_name": "_iHateKobe24"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000775279213/baa7ce1b7206e67a5e9fce3395f7f440_normal.jpeg", 
+   "name": "#TopNotch | TreyBee", 
+   "text": "One Of Your Followers Retweeted Me, You Clicked My Avi Viewed My Page And Now You're Reading My Bio Twatching N Shit Gone Ahead And Follow A Nigga #TopNotch,Tx", 
+   "tweet_id": 397460413614272512, 
+   "create_time": "Mon Nov 04 20:28:41 +0000 2013", 
+   "location": "Nawf Dallas Tx", 
+   "retweeter_id": 942013314, 
+   "screen_name": "Top_Notch_TreyB"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000588398203/d295c3bdc0f3c99c6802922cfa4d2cb4_normal.jpeg", 
+   "name": "Avery Gilliam", 
+   "text": "Houston to Lubbock", 
+   "tweet_id": 397209653328625665, 
+   "create_time": "Mon Nov 04 03:52:15 +0000 2013", 
+   "location": "Texas Tech University ", 
+   "retweeter_id": 234524008, 
+   "screen_name": "AverysTooMuch"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000555581833/497d70d6ace0de70495597b381e39fab_normal.jpeg", 
+   "name": "Andrew Kellaway", 
+   "text": "MIAMIHEAT", 
+   "tweet_id": 397127711094616064, 
+   "create_time": "Sun Nov 03 22:26:39 +0000 2013", 
+   "location": "Christchurch", 
+   "retweeter_id": 489198124, 
+   "screen_name": "AndrewKellaway"
+  }, 
+  {
+   "profile_pic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png", 
+   "name": "james rodriguez ", 
+   "text": "", 
+   "tweet_id": 397070838098186240, 
+   "create_time": "Sun Nov 03 18:40:39 +0000 2013", 
+   "location": "san antonio", 
+   "retweeter_id": 1574097300, 
+   "screen_name": "JuaTexasheat4"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000642064624/d53e6774d91a53e928a9e00f58da02cc_normal.jpeg", 
+   "name": "Pikachu My Nigga.! ", 
+   "text": "Follow @_TheyLoveShae \u2661 #December19 #10 #EarlyviewEAGLE #HoopinForMrMadlock", 
+   "tweet_id": 397068362271834112, 
+   "create_time": "Sun Nov 03 18:30:49 +0000 2013", 
+   "location": "Rocking Est.03.27.12", 
+   "retweeter_id": 2147948408, 
+   "screen_name": "HoopingPokemon"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000844886928/78c9dcad4ff6f54ab294737face36c8d_normal.jpeg", 
+   "name": "\u262aAubree", 
+   "text": "\u271e Sicker Than Your Average \u271e", 
+   "tweet_id": 397062918920884224, 
+   "create_time": "Sun Nov 03 18:09:11 +0000 2013", 
+   "location": "Instagram: OfficialAubree", 
+   "retweeter_id": 846731000, 
+   "screen_name": "Aubominable"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000673811601/d9e8b7512e7f6e65a6af5937790bb2f3_normal.jpeg", 
+   "name": "Khalid Jama\u2122", 
+   "text": "King Jamba :D", 
+   "tweet_id": 396976792587599872, 
+   "create_time": "Sun Nov 03 12:26:57 +0000 2013", 
+   "location": "Seattle Washington ", 
+   "retweeter_id": 299094108, 
+   "screen_name": "khalid_Jamba"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000782057154/1667bdf03d172c129fcd81a8d87c58cd_normal.jpeg", 
+   "name": "Mindless_chick4", 
+   "text": "God,Fam,Education,Ball You Were Blessed With Some Type Of Talent(Basketball)Dont Waste It! #MiamiHeat 3-Peat12,13,14 #Wnba Minnestoa Lynz #MindlessBehavior", 
+   "tweet_id": 396814880742703104, 
+   "create_time": "Sun Nov 03 01:43:34 +0000 2013", 
+   "location": "At A Basketball Game", 
+   "retweeter_id": 335696948, 
+   "screen_name": "yosheauna"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000504490439/7adc1fdf04033df64c0605c47b871f9b_normal.jpeg", 
+   "name": "#VirgoBlick ", 
+   "text": "Failure is not a option, a little kid with a big dream, #Grind 24/7. Basketball is my motivation. Chillin like a Villain with my Bestfriend @PenaKatya :D", 
+   "tweet_id": 396795601196957697, 
+   "create_time": "Sun Nov 03 00:26:58 +0000 2013", 
+   "location": "Dream Land.", 
+   "retweeter_id": 254716756, 
+   "screen_name": "Legend_InMaking"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000168724156/b44899830724464bf8a8c7efdc78d26c_normal.jpeg", 
+   "name": "MarioJoyner\u270c", 
+   "text": "#BallIsLife, #TeamLeBron, i can do all things through christ who strengthens me", 
+   "tweet_id": 396710369584230401, 
+   "create_time": "Sat Nov 02 18:48:17 +0000 2013", 
+   "location": "out chasing my dream", 
+   "retweeter_id": 213937530, 
+   "screen_name": "ItsMe_Mario1"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2185893975/ImNotBatista_normal.jpg", 
+   "name": "Richard Scott", 
+   "text": "I am not Batista. But I'm a damn good looking man with one lady pleasing body!", 
+   "tweet_id": 396562753764483072, 
+   "create_time": "Sat Nov 02 09:01:42 +0000 2013", 
+   "location": "San Bruno", 
+   "retweeter_id": 569546994, 
+   "screen_name": "ImNotBatista"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000681087855/2f3eabd84306716a5be512d2759f583a_normal.jpeg", 
+   "name": "ROB ..JUST A THOUGHT", 
+   "text": "#BEING WHO I AM #LOVING MYSELF #MOM EXTRAORDINAIRE,ON MY WAY TO BOARDING EVERY ASPECT OF MY LIFE ON EVERY LEVEL IMAGINABLE:\r\n#MuzikkZone", 
+   "tweet_id": 396434852922150913, 
+   "create_time": "Sat Nov 02 00:33:29 +0000 2013", 
+   "location": "MARS TOWN, USA", 
+   "retweeter_id": 230808988, 
+   "screen_name": "specialgirlrob"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000560498203/2fc9e3f6ad3a75c9ba51a742556a4b64_normal.jpeg", 
+   "name": "\u03b6\u0397\u03b1\u0393\u03b9\u03b5\u03c0\u03b5\u2122", 
+   "text": "In awe of God plAn \u2764", 
+   "tweet_id": 396356058924736512, 
+   "create_time": "Fri Nov 01 19:20:23 +0000 2013", 
+   "location": "*On God Path*", 
+   "retweeter_id": 183481100, 
+   "screen_name": "Char_leniiiiiii"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000772637845/ec6e4364bd11ba61753fe44e35f5df53_normal.jpeg", 
+   "name": "Moi! :)", 
+   "text": "No es k yo soyy raro es k tuu ere muyy comun :P", 
+   "tweet_id": 396323000150392832, 
+   "create_time": "Fri Nov 01 17:09:01 +0000 2013", 
+   "location": "Republica dominicana", 
+   "retweeter_id": 1222932060, 
+   "screen_name": "moisesdelgadoRD"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000846896177/e5cf507ad418253fa2c4d70a3fb8062f_normal.jpeg", 
+   "name": "JokerRapSound", 
+   "text": "Director & Editor De Videos, Hago el intento de Cantar & Escribir, Amante Al Dise\u00f1o, Jugador De Beisbol En Ligas Juveniles.", 
+   "tweet_id": 396300987327332352, 
+   "create_time": "Fri Nov 01 15:41:32 +0000 2013", 
+   "location": "Caracas - Venezuela (0212) ", 
+   "retweeter_id": 280698043, 
+   "screen_name": "YermainGarcia"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000806288556/36c4a3df65ea5e28d4e53b719783b12b_normal.jpeg", 
+   "name": "Chris O Mahony", 
+   "text": "", 
+   "tweet_id": 396050885559975936, 
+   "create_time": "Thu Oct 31 23:07:44 +0000 2013", 
+   "location": "Tralee", 
+   "retweeter_id": 1413442195, 
+   "screen_name": "mahony3_o"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000835095447/12e6890252dc9f444eaba3b7dfcbffb3_normal.jpeg", 
+   "name": "\u221eKatrina Bieber\u221e", 
+   "text": "7.31.13~Jake followed 10/6~Maejor Ali RT 9/27~Mikey Fusco follows 5:55pm 10/21/13~To Be One follows 10/22/13~Ariana follows 11/23/13~Cody follows 11/24/13@7:28", 
+   "tweet_id": 395994883212992512, 
+   "create_time": "Thu Oct 31 19:25:12 +0000 2013", 
+   "location": "NY", 
+   "retweeter_id": 1671386058, 
+   "screen_name": "KatrinaBieber99"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2224257732/eeEPL5zf_normal", 
+   "name": "Jeff fitih", 
+   "text": "Hustlin just to make it.", 
+   "tweet_id": 395986838717886464, 
+   "create_time": "Thu Oct 31 18:53:14 +0000 2013", 
+   "location": "Mad$ide,Tn.", 
+   "retweeter_id": 581217010, 
+   "screen_name": "ThatsFitih"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000754115203/bbe22f60e0cdc8223d94622f1cc0fce8_normal.jpeg", 
+   "name": "Bieber.\u2020", 
+   "text": "\u2661I saw Justin Bieber\u2661 \u260522.10.13\u2605 \u2606@BonnyNuniez a.k.a my prince\u2665\u2606", 
+   "tweet_id": 395973515301883905, 
+   "create_time": "Thu Oct 31 18:00:17 +0000 2013", 
+   "location": "\u2661All Around The World\u2661  ", 
+   "retweeter_id": 355602758, 
+   "screen_name": "ChinaaEstevez"
+  }, 
+  {
+   "profile_pic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png", 
+   "name": "world peace", 
+   "text": "", 
+   "tweet_id": 395903997216702464, 
+   "create_time": "Thu Oct 31 13:24:03 +0000 2013", 
+   "location": "New York", 
+   "retweeter_id": 1582951646, 
+   "screen_name": "whqkobe"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3761441001/52e4567748f7046b9db1b1b8d06b72e6_normal.jpeg", 
+   "name": "Julie Delosh", 
+   "text": "Life's a beach and I'm just playing in the sand. #cowboysnation #heatnation #ucfalumni", 
+   "tweet_id": 395891152983183360, 
+   "create_time": "Thu Oct 31 12:33:00 +0000 2013", 
+   "location": "Orlando, FL", 
+   "retweeter_id": 25631385, 
+   "screen_name": "JeeewLeee"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000428486575/3b23f4367a08d3c47aff871e0463d177_normal.jpeg", 
+   "name": "Dy Errnan", 
+   "text": "inscrutable person", 
+   "tweet_id": 395780505330647041, 
+   "create_time": "Thu Oct 31 05:13:20 +0000 2013", 
+   "location": "Philippines", 
+   "retweeter_id": 613915921, 
+   "screen_name": "nearrn"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3217843199/cfd6efa6f1e0681cd7613b264669594f_normal.jpeg", 
+   "name": "Alfred Kelley", 
+   "text": "I'm 23 yrs old, and im a pharmaceutical delivery driver! My career goals are to go to la to be a successful actor!", 
+   "tweet_id": 395780171988733953, 
+   "create_time": "Thu Oct 31 05:12:00 +0000 2013", 
+   "location": "Houston, Tx", 
+   "retweeter_id": 94504549, 
+   "screen_name": "Alfredtheactor"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000686887516/e18c45b4d629c96da18549da32b335bd_normal.jpeg", 
+   "name": "Lil Wizzle SODMG", 
+   "text": "I go by the name Lil Wizzle, Your girl is a groupie \r\n #DBE  #KafouCityStar \u2605SquadGang\u2605 #100", 
+   "tweet_id": 395777449046597632, 
+   "create_time": "Thu Oct 31 05:01:11 +0000 2013", 
+   "location": "On My Way To The Top", 
+   "retweeter_id": 279454424, 
+   "screen_name": "LilWizzleDBE"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000060621126/247c4e470f39795ef80f057ccddd62bc_normal.jpeg", 
+   "name": "\u26fdmanzilla #Tripolar", 
+   "text": "#teamstayhigh #4.1.13 #heatnation", 
+   "tweet_id": 395773119194865665, 
+   "create_time": "Thu Oct 31 04:43:59 +0000 2013", 
+   "location": "goosport louisiana", 
+   "retweeter_id": 168397423, 
+   "screen_name": "getyo_ho"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000150341419/51670472fbce39c702dae0146e9a7a9d_normal.jpeg", 
+   "name": "Geniee Aden", 
+   "text": "I anit got No Worries #2CHAMPS", 
+   "tweet_id": 395695440190246913, 
+   "create_time": "Wed Oct 30 23:35:19 +0000 2013", 
+   "location": "Watching NBA", 
+   "retweeter_id": 557049827, 
+   "screen_name": "TheRealGenie_A"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000691817020/00089603638bd613009cdee2314a537e_normal.jpeg", 
+   "name": "Sabrina Agha\u264b", 
+   "text": "", 
+   "tweet_id": 395683920882446336, 
+   "create_time": "Wed Oct 30 22:49:32 +0000 2013", 
+   "location": "South Florida\u2600", 
+   "retweeter_id": 606374818, 
+   "screen_name": "sabrina_2393"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000596479220/572343dce1412ee9dff87843f26d6dc6_normal.jpeg", 
+   "name": "Love Me ", 
+   "text": "shanny shann shan: )", 
+   "tweet_id": 395676586693120000, 
+   "create_time": "Wed Oct 30 22:20:24 +0000 2013", 
+   "location": "in your heart! ", 
+   "retweeter_id": 238341295, 
+   "screen_name": "_ULoveHershey"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000104535674/e29243643869c1267ffa5fb84e8aff5f_normal.jpeg", 
+   "name": "Aaron Grady", 
+   "text": "If i weren't me? i'd follow myself...", 
+   "tweet_id": 395674520192688129, 
+   "create_time": "Wed Oct 30 22:12:11 +0000 2013", 
+   "location": "Detroit to California.", 
+   "retweeter_id": 90046969, 
+   "screen_name": "TheyCallMeDubb"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3265601666/22b0b633725f2d0bbda65b0d545c0401_normal.jpeg", 
+   "name": "Joshua Booth", 
+   "text": "20, play cricket for Thurstonland CC, support Man Utd, Huddersfield Giants, New England Patriots and Houston Rockets", 
+   "tweet_id": 395670350782300162, 
+   "create_time": "Wed Oct 30 21:55:37 +0000 2013", 
+   "location": "Huddersfield, Yorkshire", 
+   "retweeter_id": 300506936, 
+   "screen_name": "JoshuaBooth2"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000564359246/32e700f92977bd10b939883574b8868a_normal.jpeg", 
+   "name": "#KingJamesShit\u20e3", 
+   "text": "Angela Nicole Nu\u00f1ez has my heart - @lalelahlinda #Dancer desde que naci. Hip Hop por ley. #Naruto #Boricua #TeamIphone #HeatNation", 
+   "tweet_id": 395661931690098688, 
+   "create_time": "Wed Oct 30 21:22:10 +0000 2013", 
+   "location": "#PR #MD #Baltimore #410 #787", 
+   "retweeter_id": 77772440, 
+   "screen_name": "UchihaKun_PR"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000837059731/c482a32cbcecd7ed863e5ea35858c3af_normal.jpeg", 
+   "name": "Levi Sourinha", 
+   "text": "", 
+   "tweet_id": 395648201048727553, 
+   "create_time": "Wed Oct 30 20:27:36 +0000 2013", 
+   "location": "239", 
+   "retweeter_id": 73725537, 
+   "screen_name": "Lefly3"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000658700162/635505b0005b3d44f473cee8ff8e1848_normal.jpeg", 
+   "name": "Renee\u2665Dwayne", 
+   "text": "\u2665 6/29/08 my life changed in a completely different way \u30c4 10/7/11 i realized my life was now complete \u2665", 
+   "tweet_id": 395640928049700864, 
+   "create_time": "Wed Oct 30 19:58:42 +0000 2013", 
+   "location": "$$VegasBaby$$", 
+   "retweeter_id": 356217457, 
+   "screen_name": "Mrs_Tropicana"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000807613639/46ac865fd1f703b13343eedfeb6d37c2_normal.jpeg", 
+   "name": "67_PREZ ", 
+   "text": "Get rich or die trying!  #Cancer #LH6  July 6  \u264b \u200f", 
+   "tweet_id": 395638305976758272, 
+   "create_time": "Wed Oct 30 19:48:17 +0000 2013", 
+   "location": "LH ", 
+   "retweeter_id": 573102234, 
+   "screen_name": "LH6_Pres"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411656377031852032/fT59nOrj_normal.jpeg", 
+   "name": "Snupe \u2661\u2020", 
+   "text": "My diamonds ain't got flaws, I\u2019m just honest #TeamHEAT #DerrickRoseLover #LilNiggaSnupe #JoJoWorld #305 #StriveForGreatness", 
+   "tweet_id": 395638190218153984, 
+   "create_time": "Wed Oct 30 19:47:49 +0000 2013", 
+   "location": "\u2020 JESUS \u2020", 
+   "retweeter_id": 546806339, 
+   "screen_name": "Diamond_Purp"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2961318927/43e90a4c5268058eaae4cea104e63313_normal.jpeg", 
+   "name": "Roser Santos", 
+   "text": "Math and Logic. Geek, sports enthusiast, footballer, adventure-lover, dreamer, believer. Electronics Engineer living in the OSI world.", 
+   "tweet_id": 395626153924247552, 
+   "create_time": "Wed Oct 30 19:00:00 +0000 2013", 
+   "location": "at the end of the horizon :)", 
+   "retweeter_id": 85058922, 
+   "screen_name": "sayesantos"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000611067577/7afb7a99900ee7044260eb95a8632bcf_normal.jpeg", 
+   "name": "Manuel Abrante", 
+   "text": "Clothing & Shoe Boutique... Keepin' Ya Fresh since 2012 http://t.co/eBsg4dKEGE", 
+   "tweet_id": 395617170723328000, 
+   "create_time": "Wed Oct 30 18:24:18 +0000 2013", 
+   "location": "Oregon, WA", 
+   "retweeter_id": 1967679620, 
+   "screen_name": "heatedsolez"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000221272437/699f681bb7ef85849f39474bc1597754_normal.jpeg", 
+   "name": "Lil Montgomery", 
+   "text": "Yummy Butt", 
+   "tweet_id": 395591434276855808, 
+   "create_time": "Wed Oct 30 16:42:02 +0000 2013", 
+   "location": "In a Loose butthole", 
+   "retweeter_id": 1622205570, 
+   "screen_name": "Lil_Montgomery"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000736299499/be9fd22a58694206d1176a6d4195f773_normal.jpeg", 
+   "name": "[MR. USA]", 
+   "text": "[@AndBeast2014/@SportsBeatRadio/@SportsRap2014/@JoeBeast95/@KyssMajor/@BobHernandez]", 
+   "tweet_id": 395590947528261633, 
+   "create_time": "Wed Oct 30 16:40:06 +0000 2013", 
+   "location": "[INTERNATIONAL]", 
+   "retweeter_id": 65511454, 
+   "screen_name": "CEEDALAZSPARTAN"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000788663882/ef2f57ac9e751360c06c2df4c9817436_normal.jpeg", 
+   "name": "Arianna Bernasconi", 
+   "text": "There's a perfect sky", 
+   "tweet_id": 395585242498887681, 
+   "create_time": "Wed Oct 30 16:17:26 +0000 2013", 
+   "location": "Como", 
+   "retweeter_id": 732930169, 
+   "screen_name": "AribernaArianna"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000761935621/84eb16f6f67e0f75d0c420279fae6038_normal.jpeg", 
+   "name": "\u2c64\u25cb\u04af\u039bl \u266b\u266b\u266b (Kifalme)", 
+   "text": "#Royalty #J.R. #LyricalGenius #There can only be 1 king ...", 
+   "tweet_id": 395578128221106176, 
+   "create_time": "Wed Oct 30 15:49:09 +0000 2013", 
+   "location": "somewhereyouaint", 
+   "retweeter_id": 281771434, 
+   "screen_name": "ROYAL_UnRey"
+  }
+ ], 
+ "403710785358422016": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000842451385/11f8c6dd43646189b3b22fabdd832157_normal.jpeg", 
+   "name": "Marco F Tavarez     ", 
+   "text": "Tengo un coraz\u00f3n tan grande que en el pecho no me cabe", 
+   "tweet_id": 411496112126959616, 
+   "create_time": "Fri Dec 13 14:01:33 +0000 2013", 
+   "location": "Rep\u00fablica Dominicana.", 
+   "retweeter_id": 776700864, 
+   "screen_name": "Marcofelix01"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000644697013/27d41b65176c3b5f8ea4022e2d4a1c92_normal.jpeg", 
+   "name": "Sarah Caroline R ", 
+   "text": "\u2665 JesusChrist | VHS Dharma Paramitha |151097 | everything about @kingjames #6 (mention for followed)", 
+   "tweet_id": 411461637464281089, 
+   "create_time": "Fri Dec 13 11:44:33 +0000 2013", 
+   "location": "jakarta timur", 
+   "retweeter_id": 204310923, 
+   "screen_name": "sarahcrrrrrr"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000781911771/0a6a160f7e3db08b3c95b54abf145ecf_normal.jpeg", 
+   "name": "Jacob Cook", 
+   "text": "", 
+   "tweet_id": 410910339849814016, 
+   "create_time": "Wed Dec 11 23:13:54 +0000 2013", 
+   "location": "Franklin, advanced village", 
+   "retweeter_id": 2209940600, 
+   "screen_name": "Jacob_Cook0621"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000662759175/7df6d9b9d04a7c1bf8ca93632ed1d77b_normal.jpeg", 
+   "name": "Free $ticky CampaiGn", 
+   "text": "#ForevaAftaMoney #GrindHard Give me freedom or Give me death!! #freedunt #freefreakG #freefrostG #freerico #tellemfreesticky TWifey: @LicMyPUSwayzion", 
+   "tweet_id": 410677986040352768, 
+   "create_time": "Wed Dec 11 07:50:36 +0000 2013", 
+   "location": "Erwhrr da $$$ at, MO", 
+   "retweeter_id": 1237558850, 
+   "screen_name": "freesticky_fam4"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000787345131/fe93d880c37255038794ea69847058d3_normal.jpeg", 
+   "name": "\u25b2\u21e6 The Great \u21e8\u25bc", 
+   "text": "\u2605\u2606\u25c7\u25c6IG:TakeFlightMixon\u25c6\u25c7\u2606\u2605", 
+   "tweet_id": 410066622984880128, 
+   "create_time": "Mon Dec 09 15:21:16 +0000 2013", 
+   "location": "  Chicago", 
+   "retweeter_id": 66803990, 
+   "screen_name": "TakeOffMixon"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000847622228/f853908d93731f5068e12b1dea483e47_normal.jpeg", 
+   "name": "Ugly Sweater Aviles", 
+   "text": "16 Years Young! \u2648 Puerto Rican! Doing it B.I.G... eminem and j. cole fan until i D.I.E OBHS Hobbies: Xbox games, Music, and J's... follow me on ig~isaiah_aviles", 
+   "tweet_id": 409810390949048320, 
+   "create_time": "Sun Dec 08 22:23:05 +0000 2013", 
+   "location": "Old Bridge, New Jersey", 
+   "retweeter_id": 2214688948, 
+   "screen_name": "isaiah_aviles"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3367458806/6be7bbbbeb792d0096e55c8a4a451fe0_normal.jpeg", 
+   "name": "YOUR CHRIS BROWN!", 
+   "text": "Skinny ninja tryin to make it through life without to many regrets and to become the man modeled after my father and the man my mother always knew i could be...", 
+   "tweet_id": 409170247426789376, 
+   "create_time": "Sat Dec 07 03:59:23 +0000 2013", 
+   "location": "\u00dcT: 36.169274,-85.523084", 
+   "retweeter_id": 40986078, 
+   "screen_name": "Effin_CJ"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000819080489/9d891dc7166d1c2c127175846dd2911d_normal.jpeg", 
+   "name": "\uf8ffAll-Star MVP #22\uf8ff", 
+   "text": "Huge Sports Fan! I tweet about the NBA NFL MLB & NHL! Backyard Football Player, Gamer and Twitter! #Nike \uf8ff #Blackhawks #Lakers #Pirates #Bears #Illini & MORE!", 
+   "tweet_id": 408845608942702592, 
+   "create_time": "Fri Dec 06 06:29:23 +0000 2013", 
+   "location": "USA - Twitter", 
+   "retweeter_id": 1427027852, 
+   "screen_name": "GatoradeMVP"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000831925969/3d672d8fbe55807b8f677fde279b6d80_normal.jpeg", 
+   "name": "Dom", 
+   "text": "my best friend @valeriadlt :))", 
+   "tweet_id": 408313157724434432, 
+   "create_time": "Wed Dec 04 19:13:37 +0000 2013", 
+   "location": "Emma \u2764\ufe0f", 
+   "retweeter_id": 341330168, 
+   "screen_name": "_gasparr"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000822284769/2aa983ed8fd1114636070b975cca2b32_normal.jpeg", 
+   "name": "", 
+   "text": "", 
+   "tweet_id": 408307864768221184, 
+   "create_time": "Wed Dec 04 18:52:35 +0000 2013", 
+   "location": "Cudahy / Los Angeles", 
+   "retweeter_id": 227559755, 
+   "screen_name": "MostDopeJaay"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000778557112/b9abd57738a5756a0f31fc5e4bc9bb64_normal.jpeg", 
+   "name": "Brandon ", 
+   "text": "\u264dVirgo. 22. Vegas Life. Black/Italian/Czech. Follow a nigga", 
+   "tweet_id": 407964185285246976, 
+   "create_time": "Tue Dec 03 20:06:56 +0000 2013", 
+   "location": "Nebraska \u2708 Vegas", 
+   "retweeter_id": 297652864, 
+   "screen_name": "SpookMasterFlex"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000792318643/043376d7a6ea173b30eef1cf73236091_normal.jpeg", 
+   "name": "HotWater Cornbread ", 
+   "text": "Loyalty is all I know", 
+   "tweet_id": 407963322642731008, 
+   "create_time": "Tue Dec 03 20:03:30 +0000 2013", 
+   "location": "Tacoma, Wa ", 
+   "retweeter_id": 109387918, 
+   "screen_name": "D_Mimz"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000779993182/4142ac1b0c9bdb8fcf552a8cd4a5424d_normal.jpeg", 
+   "name": "Quintin Cooper", 
+   "text": "Im the most happiest person in the world because I have a family and a god that I can call at anytime......#TrulyBlessed....Rap-Skate-ball-life....\u2606\u2605\u2606\u2605\u2606", 
+   "tweet_id": 407701629459525632, 
+   "create_time": "Tue Dec 03 02:43:37 +0000 2013", 
+   "location": "my house ", 
+   "retweeter_id": 861895765, 
+   "screen_name": "CooperQuintin"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000826595459/ce9bd8e468e0e1d7d74a5d197c12783a_normal.jpeg", 
+   "name": "Jordan Przybylkowski", 
+   "text": "Sports are my life", 
+   "tweet_id": 407540260789555200, 
+   "create_time": "Mon Dec 02 16:02:24 +0000 2013", 
+   "location": "northeastern Pa\u26c4\ufe0f", 
+   "retweeter_id": 1554295868, 
+   "screen_name": "jpitcher15"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3742690911/cc2d95838eca876f7d9455b80d4a1d59_normal.jpeg", 
+   "name": "Poncho Landin ", 
+   "text": "Basketball Player, NikeBBModel, CEEStudent, LebronJamesBFF, Player w/ Ags MX, CEE, etc.", 
+   "tweet_id": 407249729685164032, 
+   "create_time": "Sun Dec 01 20:47:56 +0000 2013", 
+   "location": "Ags", 
+   "retweeter_id": 1475905148, 
+   "screen_name": "Poncho_LanCas"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000818457539/61fbea2e95ac5b21846f9604241dbdf8_normal.jpeg", 
+   "name": "Beonka Pope", 
+   "text": "FMOI: @phreshprince_23 #StayTrill Aspiring Dancer/Choreographer. Working to make my dreams a reality. #TeamPUSWOOD #FOE", 
+   "tweet_id": 406838343104602112, 
+   "create_time": "Sat Nov 30 17:33:14 +0000 2013", 
+   "location": "Pittsburgh, PA #Kublife", 
+   "retweeter_id": 1217111929, 
+   "screen_name": "phreshprince_23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000807243394/e9ce1fb337cdfaa9f2191c2de44ca24c_normal.jpeg", 
+   "name": "109Team", 
+   "text": "05428220754", 
+   "tweet_id": 406834501193842688, 
+   "create_time": "Sat Nov 30 17:17:58 +0000 2013", 
+   "location": "WAR YasinHINCALMTURHAN OBurak", 
+   "retweeter_id": 2200810901, 
+   "screen_name": "109team"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000843204778/a13f2a9d3685324da4ddf6e2d8fc915a_normal.jpeg", 
+   "name": "B. Logwood", 
+   "text": "#HeatNation #HeatGang (3x NBA Champs). Don't ask me any questions.", 
+   "tweet_id": 406833754720575488, 
+   "create_time": "Sat Nov 30 17:15:00 +0000 2013", 
+   "location": "Indy, Chicago, New York, Miami", 
+   "retweeter_id": 228965922, 
+   "screen_name": "Brandon_TooGONE"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000860172482/IKqvJKkq_normal.jpeg", 
+   "name": "Fisnik", 
+   "text": "~ Football ~ Wrestling-  D1 Bound baby #RUTGERS #CLEMSON", 
+   "tweet_id": 406607744829898752, 
+   "create_time": "Sat Nov 30 02:16:55 +0000 2013", 
+   "location": "New York City", 
+   "retweeter_id": 541143949, 
+   "screen_name": "bkfiz89"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411772367270985728/8YveKdql_normal.jpeg", 
+   "name": "Daterius Williams", 
+   "text": "I'm a prophet and a profit.", 
+   "tweet_id": 406244215903907840, 
+   "create_time": "Fri Nov 29 02:12:23 +0000 2013", 
+   "location": "OKC", 
+   "retweeter_id": 33131479, 
+   "screen_name": "YoungFlash11"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000806667284/72196ee5dee829106a4baae762fe203e_normal.jpeg", 
+   "name": "\u00d0\u03bbL\u2570", 
+   "text": "FmoI @Obey_dal", 
+   "tweet_id": 406235641383358464, 
+   "create_time": "Fri Nov 29 01:38:19 +0000 2013", 
+   "location": "\u20a5\u2205\u03c4\u2205\u00ae \u20a1\u2160\u03c4\u00fd", 
+   "retweeter_id": 48808710, 
+   "screen_name": "Ovo__dal"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2578231986/ag0ixqkxusrtqjq4ua3a_normal.jpeg", 
+   "name": "Chamith Karunakalage", 
+   "text": "don't try to catch me, u won't", 
+   "tweet_id": 406015731495477248, 
+   "create_time": "Thu Nov 28 11:04:28 +0000 2013", 
+   "location": "Ambalangoda", 
+   "retweeter_id": 224883905, 
+   "screen_name": "Chamith119"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000857316775/0IF2t3aK_normal.jpeg", 
+   "name": "RaMiro Morales", 
+   "text": "Uruguayan olympic team,olympic promise\n#MIAMIHEAT #SMCD\n#FencingMyLife\nAmongst La familia! http://t.co/DD4yMQzR8a", 
+   "tweet_id": 405925622763233280, 
+   "create_time": "Thu Nov 28 05:06:24 +0000 2013", 
+   "location": "MONTEVIDEO, URUGUAY", 
+   "retweeter_id": 352751502, 
+   "screen_name": "RamiroFencerUru"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2785413500/496bdc5de4e00b6a777b5fa3e380fa11_normal.jpeg", 
+   "name": "George", 
+   "text": "George #TeamJesus #Colts #Pacers  #Heat\r\nAdd me\r\nXBL:George20", 
+   "tweet_id": 405801083471011841, 
+   "create_time": "Wed Nov 27 20:51:32 +0000 2013", 
+   "location": "Indianapolis, Indiana", 
+   "retweeter_id": 130632347, 
+   "screen_name": "dcboi20"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411936445163511809/9raX0AHb_normal.jpeg", 
+   "name": "Debby", 
+   "text": "St. Angela's High School '14 :) | Papuan |  I'm Christian | HEATles :)", 
+   "tweet_id": 405650352776556544, 
+   "create_time": "Wed Nov 27 10:52:35 +0000 2013", 
+   "location": "Bandung", 
+   "retweeter_id": 609779926, 
+   "screen_name": "DebbyKarubaba"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000416808697/958b5cc8d76ed7e0901ff6c53c2bc49a_normal.jpeg", 
+   "name": "Vartan Nakashyan", 
+   "text": "'92 LA SB $\u20ac\u00a3\u00a5", 
+   "tweet_id": 405650340072026112, 
+   "create_time": "Wed Nov 27 10:52:32 +0000 2013", 
+   "location": "Los Angeles, CA", 
+   "retweeter_id": 46294566, 
+   "screen_name": "LosFelizDude"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000790352707/6317dcd1f891320de68c3c8bea4e472b_normal.jpeg", 
+   "name": "    JP", 
+   "text": "when all is said and done, more is always said than done", 
+   "tweet_id": 405489192894873600, 
+   "create_time": "Wed Nov 27 00:12:11 +0000 2013", 
+   "location": "Orlando, FL", 
+   "retweeter_id": 139277720, 
+   "screen_name": "ClarensJP"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000660299418/b56db588a1a5f8fe1bdaa49b7264f633_normal.jpeg", 
+   "name": "\u00c7apulcu Adam", 
+   "text": "K\u0131rm\u0131z\u0131 Kara Buras\u0131 ANGARA !!! Instagram-berkakkya", 
+   "tweet_id": 405426682212786176, 
+   "create_time": "Tue Nov 26 20:03:48 +0000 2013", 
+   "location": "Ankara", 
+   "retweeter_id": 346771091, 
+   "screen_name": "BerkAkkayaa"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000814249186/7ec3884d55cb7c8063798eb2bd5d8f95_normal.jpeg", 
+   "name": "Cody Moore", 
+   "text": "Treat others the way i want to be treated", 
+   "tweet_id": 405343996534198272, 
+   "create_time": "Tue Nov 26 14:35:14 +0000 2013", 
+   "location": "H'ville", 
+   "retweeter_id": 588854363, 
+   "screen_name": "CodyMoorex2"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000850374047/94db0db67892015294d78e33ca8676d0_normal.jpeg", 
+   "name": "Evan F Yonathan", 
+   "text": "Vanessa Tamin\u2665.", 
+   "tweet_id": 405224546472427520, 
+   "create_time": "Tue Nov 26 06:40:35 +0000 2013", 
+   "location": " u\u0250\u028c\u01dd s\u0131 \u01ddw\u0250u \u028ew ", 
+   "retweeter_id": 375430987, 
+   "screen_name": "evanfilbert1928"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000646853979/2eb2b4fc25fd42450814149f64200af8_normal.jpeg", 
+   "name": "DreamChaser", 
+   "text": "Creative Genius \u2728", 
+   "tweet_id": 405219800538173440, 
+   "create_time": "Tue Nov 26 06:21:43 +0000 2013", 
+   "location": "Outer Space", 
+   "retweeter_id": 237968558, 
+   "screen_name": "KingCosmic_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000856842063/fV1rKJ6i_normal.jpeg", 
+   "name": "Pizza Over Pussy", 
+   "text": "Lana World   IG\u00b0Rutheless_Chicho  Followed by @TaylorGang  Daim it feel's to be a Taylor #TGOD #TaylorGang", 
+   "tweet_id": 405219006363471872, 
+   "create_time": "Tue Nov 26 06:18:34 +0000 2013", 
+   "location": "Texas", 
+   "retweeter_id": 1470404156, 
+   "screen_name": "chicho_320"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000803549456/d4a2449545e2d68a26a0dfb39ff44940_normal.jpeg", 
+   "name": "Pizza Over Penis", 
+   "text": "fuck racism, make mixed babies (; #TeamBlackBoys #BullsNation #TeamDrizzy @ZC4_Sweetness \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f #TGOD #TeamJordan instagram- Jessebabyyy23", 
+   "tweet_id": 405218590522998784, 
+   "create_time": "Tue Nov 26 06:16:55 +0000 2013", 
+   "location": "Chicago", 
+   "retweeter_id": 302342274, 
+   "screen_name": "Jesse_babyy23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000859140841/Wu162qv5_normal.jpeg", 
+   "name": "WelcomeToMyWorld", 
+   "text": "Just living life meeting my expectations pushing for my destinations ... Im laid back self made looking be well paid the rest is History ... What more can I say", 
+   "tweet_id": 405217431674576896, 
+   "create_time": "Tue Nov 26 06:12:18 +0000 2013", 
+   "location": "Chi-town", 
+   "retweeter_id": 193433058, 
+   "screen_name": "Wayne_windycity"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2589618119/fat_man_normal.jpg", 
+   "name": "Obese", 
+   "text": "gettin and givin since day one. #DOME official twitter of the live doctor. i will sit on your face... imma crowd pleaser ;) #BRB #WANKIN", 
+   "tweet_id": 405143494949208064, 
+   "create_time": "Tue Nov 26 01:18:31 +0000 2013", 
+   "location": "Blue Balls, Pennsylvania", 
+   "retweeter_id": 811322658, 
+   "screen_name": "obesejack420"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000652344773/c5ba31e86ede5ab74465cf905bb19f74_normal.jpeg", 
+   "name": "Abdu\u270c", 
+   "text": "Leave no doubts. Leave your mark. SWC \r\n\ufdfd", 
+   "tweet_id": 405087683489185793, 
+   "create_time": "Mon Nov 25 21:36:44 +0000 2013", 
+   "location": "Canada", 
+   "retweeter_id": 178176942, 
+   "screen_name": "Matus__"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411788355349655552/iTamqQWh_normal.jpeg", 
+   "name": "\u269c\u269c Emil Uribe \u269c\u269c", 
+   "text": "Actor / Film Major\nFitness Model\nFootball / Track \n#WHODATNation #HEATGang\nIG: RelentlessGrind_\nPsalm 18:39", 
+   "tweet_id": 405078118538706944, 
+   "create_time": "Mon Nov 25 20:58:44 +0000 2013", 
+   "location": "NYC / Miami", 
+   "retweeter_id": 459863095, 
+   "screen_name": "Relentl3ssGrind"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000772413419/00c72aaf8d91ca04816216e957bfecf4_normal.jpeg", 
+   "name": "LoveDrunk..", 
+   "text": "Small town girl building a life in a Big city ... . Brayden's mommy", 
+   "tweet_id": 405058973826441216, 
+   "create_time": "Mon Nov 25 19:42:39 +0000 2013", 
+   "location": "Houston Texas", 
+   "retweeter_id": 390482191, 
+   "screen_name": "YeahShePretty_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000847689665/52a0a7a77ba24520aeaff8a1e5b83aa5_normal.jpeg", 
+   "name": "Steven Neco Cortez", 
+   "text": "East Harlem Resident | Puerto Rican | 23 | Single | Work Addicted | Knicks Fan | Playstation 4 & Xbox One fanatic |", 
+   "tweet_id": 405058435659857921, 
+   "create_time": "Mon Nov 25 19:40:31 +0000 2013", 
+   "location": "New York, NY (East Harlem)", 
+   "retweeter_id": 109246186, 
+   "screen_name": "LifeAsKorleone"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000841088278/a081657989d4f9fbeee4076eba599cab_normal.jpeg", 
+   "name": "Richie", 
+   "text": "J.R\u2764\ufe0f", 
+   "tweet_id": 405056549061529600, 
+   "create_time": "Mon Nov 25 19:33:01 +0000 2013", 
+   "location": "T.O ", 
+   "retweeter_id": 544583090, 
+   "screen_name": "Richie_Rich1723"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000588398203/d295c3bdc0f3c99c6802922cfa4d2cb4_normal.jpeg", 
+   "name": "Avery Gilliam", 
+   "text": "Houston to Lubbock", 
+   "tweet_id": 405053633743847425, 
+   "create_time": "Mon Nov 25 19:21:26 +0000 2013", 
+   "location": "Texas Tech University ", 
+   "retweeter_id": 234524008, 
+   "screen_name": "AverysTooMuch"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000779788447/6d483d79244f302d5daf4166931ea755_normal.jpeg", 
+   "name": "Helio", 
+   "text": "", 
+   "tweet_id": 405029500444229632, 
+   "create_time": "Mon Nov 25 17:45:32 +0000 2013", 
+   "location": "Pajigal", 
+   "retweeter_id": 37480867, 
+   "screen_name": "Wavy_28"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000486176597/1d751372736fa9c6be143e73ba71bd23_normal.jpeg", 
+   "name": "Fredman Pastora S", 
+   "text": "", 
+   "tweet_id": 405018603051032576, 
+   "create_time": "Mon Nov 25 17:02:14 +0000 2013", 
+   "location": "Nicaragua", 
+   "retweeter_id": 59182364, 
+   "screen_name": "fredmanps17"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000701507281/9c53f62feb730c72dfaa85830a300118_normal.jpeg", 
+   "name": "\u2655KING THATS 1 DEEP\u2655", 
+   "text": "followed by @RealStaceyDash @MISSMYA @IAmMaliahMichel @DwightHoward @305Mayor @Traeabn @Zromocitydon @PaulWallbaby @StarburyMarbury @Youngbuck @Brothermob", 
+   "tweet_id": 404991500515172352, 
+   "create_time": "Mon Nov 25 15:14:32 +0000 2013", 
+   "location": "#ALIEFSWATHTINE #NORTHCHICAGO", 
+   "retweeter_id": 258914716, 
+   "screen_name": "MrTaylor7"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000741193906/84bdcdc1772938c936e1f8452c74ddf8_normal.jpeg", 
+   "name": "march 31st \u2648", 
+   "text": "IG: otf_mj", 
+   "tweet_id": 404942664581517312, 
+   "create_time": "Mon Nov 25 12:00:29 +0000 2013", 
+   "location": "D[M]V", 
+   "retweeter_id": 533068177, 
+   "screen_name": "mjgoinin"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412021107147829248/lWWUGze__normal.jpeg", 
+   "name": "", 
+   "text": "Class of 2013 18 #HeatNation #TeamLeBron #TeamHumble #TeamNike #TeamFollowBack #Gamer #TheFamily", 
+   "tweet_id": 404922975331164161, 
+   "create_time": "Mon Nov 25 10:42:15 +0000 2013", 
+   "location": " \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164 \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164 \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164", 
+   "retweeter_id": 74522177, 
+   "screen_name": "Swanton18"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3452966447/bc5873cc3ab1e5a652d396f2d2237e1c_normal.jpeg", 
+   "name": "Eric Hewitt", 
+   "text": "", 
+   "tweet_id": 404888741543563264, 
+   "create_time": "Mon Nov 25 08:26:13 +0000 2013", 
+   "location": "Chicago", 
+   "retweeter_id": 54252632, 
+   "screen_name": "EHewitt23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000100100525/ef1dd8e88eb85bc4125d067b737dabc2_normal.jpeg", 
+   "name": "David", 
+   "text": "", 
+   "tweet_id": 404848357387939840, 
+   "create_time": "Mon Nov 25 05:45:44 +0000 2013", 
+   "location": "Dunedin", 
+   "retweeter_id": 533581789, 
+   "screen_name": "davestock23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000097113430/859da138938f7060ca55d8a77b4c1dac_normal.jpeg", 
+   "name": "dan\u03b9el", 
+   "text": "Venezuelan and proud", 
+   "tweet_id": 404842790611603456, 
+   "create_time": "Mon Nov 25 05:23:37 +0000 2013", 
+   "location": "Miami", 
+   "retweeter_id": 257778417, 
+   "screen_name": "DanGonzalez1107"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000847680576/d687031183d5661ab1050ababbee046c_normal.jpeg", 
+   "name": "Rodney \u26be", 
+   "text": "philippians 4:13. live,love,life Taken by @Sajie_LovesPink", 
+   "tweet_id": 404841438896074752, 
+   "create_time": "Mon Nov 25 05:18:15 +0000 2013", 
+   "location": "miami", 
+   "retweeter_id": 235994949, 
+   "screen_name": "_DATBO1WOODY"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000867863914/fslIhCJ8_normal.jpeg", 
+   "name": "Deezy .", 
+   "text": "Dreamville.... Arent we all sinners ? #Bornsinner", 
+   "tweet_id": 404841039292166145, 
+   "create_time": "Mon Nov 25 05:16:40 +0000 2013", 
+   "location": "Dreamville , USA", 
+   "retweeter_id": 419158744, 
+   "screen_name": "_Globoy_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000696839781/03c483ac9911afdda3bf3e78a34cfb7a_normal.jpeg", 
+   "name": "StripLife ", 
+   "text": "R.I.P Salim #TeamJamaican #21 #Taurus #02124 #NeverGiveUp #Gbc #2013City&StateChampion I only got one life living it to the fullest #GodIsMyWitness", 
+   "tweet_id": 404840991506841600, 
+   "create_time": "Mon Nov 25 05:16:28 +0000 2013", 
+   "location": "Strip ", 
+   "retweeter_id": 421240109, 
+   "screen_name": "KDgeneral_21"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000206738117/c92e62031ca8ffc8199f61076487a33b_normal.jpeg", 
+   "name": "Luis", 
+   "text": "#CadetNation. 18. Senior.", 
+   "tweet_id": 404840899433078786, 
+   "create_time": "Mon Nov 25 05:16:06 +0000 2013", 
+   "location": "Yakima Washington ", 
+   "retweeter_id": 52771040, 
+   "screen_name": "Luis_Chavez0"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/1962272877/becks_and_me_normal.jpg", 
+   "name": "Maxwell Thompson", 
+   "text": "Entrpreneur, philanthropist, Model, Actor, Project Manager; If you dare to walk the path of the dreamer anything can happen...", 
+   "tweet_id": 404839786570997761, 
+   "create_time": "Mon Nov 25 05:11:41 +0000 2013", 
+   "location": "Dubai. London. Toronto", 
+   "retweeter_id": 33346149, 
+   "screen_name": "maxzinho18"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000444165551/8483e8387e59e4e8d39d26c9adffa699_normal.jpeg", 
+   "name": "\u270cTaylor Cariello", 
+   "text": "1\u20e3 love \u270c\ufe0f", 
+   "tweet_id": 404839614877151232, 
+   "create_time": "Mon Nov 25 05:11:00 +0000 2013", 
+   "location": "Lake Myrtle", 
+   "retweeter_id": 357002525, 
+   "screen_name": "errdaytaylor"
+  }
+ ], 
+ "388794123290832896": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411743867889672193/5b5ZxRxS_normal.jpeg", 
+   "name": "RIDHO", 
+   "text": "Anti CJR (boy band BANCI) jiah !!!", 
+   "tweet_id": 403877168578445312, 
+   "create_time": "Fri Nov 22 13:26:35 +0000 2013", 
+   "location": "INDONESIA", 
+   "retweeter_id": 2173669975, 
+   "screen_name": "Baragbah_10"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000721061556/f685bec631c44fcaca634e19f4dd1f2a_normal.jpeg", 
+   "name": "kira Hendrix", 
+   "text": "I'm not perfect , I'm me and nobody can change that", 
+   "tweet_id": 401803003885543425, 
+   "create_time": "Sat Nov 16 20:04:35 +0000 2013", 
+   "location": "Aiken South Carolina", 
+   "retweeter_id": 2175757277, 
+   "screen_name": "High_Im_Kira"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000655790047/8effde961c1c4d86b5642a8bbce0c5b1_normal.jpeg", 
+   "name": "I Am GMG", 
+   "text": "\u2605 Class Of My Own \u2605 Currently Signed With Monster Records Label , Model Type Shit ,MHS Junior, Designer , Other Shit Is Irrelevant. Managed By: GMG #BALLISLIFE", 
+   "tweet_id": 392855419728564224, 
+   "create_time": "Wed Oct 23 03:30:05 +0000 2013", 
+   "location": "Memphis (901)", 
+   "retweeter_id": 801140365, 
+   "screen_name": "LebronsDaughter"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000586952806/9989b70d897bd7e14a1b973e9f7b75d3_normal.jpeg", 
+   "name": "Frankie.", 
+   "text": "The Babe Jennifer Lawrence.\u2661", 
+   "tweet_id": 391320476217114624, 
+   "create_time": "Fri Oct 18 21:50:46 +0000 2013", 
+   "location": "Next Stop, Everywhere.", 
+   "retweeter_id": 790047746, 
+   "screen_name": "FrankieeButton"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000851225179/31c83a0799aaf42590a01f3b54e32c17_normal.jpeg", 
+   "name": "God's Masterpiece", 
+   "text": "14 y/o kid putting God First, Letting Go of Her plans and Holding on to God, can do all things through Christ and have a Fully surrendered Life to HIM. \u2764", 
+   "tweet_id": 391255133973381120, 
+   "create_time": "Fri Oct 18 17:31:07 +0000 2013", 
+   "location": "God's Path ", 
+   "retweeter_id": 625612773, 
+   "screen_name": "HeyItsPaaaaaaam"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000714654368/8ba172d286e6bb660414c77a5f2061ca_normal.jpeg", 
+   "name": "\u21e831st DECEMBER \u2661\u2665\u2661", 
+   "text": "#teammuslim...INSTAGRAM kik:mmhasern", 
+   "tweet_id": 391239227939520512, 
+   "create_time": "Fri Oct 18 16:27:55 +0000 2013", 
+   "location": "\u2661\u2661JUST UNFOLLOW\u261c\u261c", 
+   "retweeter_id": 469673156, 
+   "screen_name": "musamubarak2"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000785683787/b67405268bf605234560009fa181c3a2_normal.jpeg", 
+   "name": "Destiny Slocum\u270c", 
+   "text": "Class of 2016...#D1Bound...God is my #1....2 Chronicles 15:7 \nBut as for you, be strong and do not give up, for your work will be rewarded. MVHS", 
+   "tweet_id": 390687784739930113, 
+   "create_time": "Thu Oct 17 03:56:41 +0000 2013", 
+   "location": "Boise, Idaho", 
+   "retweeter_id": 103474726, 
+   "screen_name": "DestinySlocum24"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000593286305/6c3782c29b169204b321e0b796ac999f_normal.jpeg", 
+   "name": "Collin Wilson", 
+   "text": "Collin Wilson - Senior C/O 14 - Basketball is my one and only true love \u2764\ufe0f - Just trying to be someone in a world of everyone \u270c\ufe0f", 
+   "tweet_id": 390686682011271168, 
+   "create_time": "Thu Oct 17 03:52:18 +0000 2013", 
+   "location": "Galt, California", 
+   "retweeter_id": 378403132, 
+   "screen_name": "Collin_W_GOBL"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000601415491/c81d2cbb59c9404ced258cd1203f4d25_normal.jpeg", 
+   "name": "7ADrummer", 
+   "text": "NO mention NO followback", 
+   "tweet_id": 390146771076120576, 
+   "create_time": "Tue Oct 15 16:06:53 +0000 2013", 
+   "location": "912", 
+   "retweeter_id": 509616467, 
+   "screen_name": "_DurtyD69_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000491505613/39561ba044f5ea0910bde21f04b704df_normal.jpeg", 
+   "name": "IG: Just_Klim", 
+   "text": "N.O. Native||HBU Student||Dream Chaser", 
+   "tweet_id": 390126747129090048, 
+   "create_time": "Tue Oct 15 14:47:19 +0000 2013", 
+   "location": "Houston", 
+   "retweeter_id": 256293730, 
+   "screen_name": "imKLIM"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000842608553/c6c8521ef173a6649c23db03c0ab9b49_normal.jpeg", 
+   "name": "Juicy J \u2661", 
+   "text": "Tupac is my MAIN man \u2661 | RIP to my sister & my baby @SmoovesWorld\u2020 | Insta: SimplyJoeyy | Free @_DerayB \u2665", 
+   "tweet_id": 390126348368244738, 
+   "create_time": "Tue Oct 15 14:45:44 +0000 2013", 
+   "location": "Detroit---Chicago---Houston ", 
+   "retweeter_id": 330504676, 
+   "screen_name": "_FucYouFollowMe"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000799718306/b56ef0648fcaf19e152ca2530d5cd0e1_normal.jpeg", 
+   "name": "Dj\u2716", 
+   "text": "#hardwork #NU #4", 
+   "tweet_id": 390126058474729472, 
+   "create_time": "Tue Oct 15 14:44:35 +0000 2013", 
+   "location": "Chicago \u2708 TX", 
+   "retweeter_id": 232074271, 
+   "screen_name": "StopTheFakenes"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000809837727/8cbb5b058a5417090476c81e77ec6ffa_normal.jpeg", 
+   "name": "tay", 
+   "text": "Livin' the dream. #studentathlete #bellevuecollege", 
+   "tweet_id": 389974289069248512, 
+   "create_time": "Tue Oct 15 04:41:30 +0000 2013", 
+   "location": "Spokane, WA / Bellevue, WA", 
+   "retweeter_id": 214280374, 
+   "screen_name": "TaylerNicole20"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000860619036/pRSNaUj1_normal.jpeg", 
+   "name": "\u0443\u029d ", 
+   "text": "-T.M.K miami Fl  #HardWorkPays#OFF#TeamGod", 
+   "tweet_id": 389935654941229057, 
+   "create_time": "Tue Oct 15 02:07:59 +0000 2013", 
+   "location": "chasing my Dream #ballislife", 
+   "retweeter_id": 398173941, 
+   "screen_name": "El_Yj"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3575713395/48049a097d750e973ca8afff0d129ddb_normal.jpeg", 
+   "name": "K-WIZ", 
+   "text": "NSAxChange", 
+   "tweet_id": 389926003797008384, 
+   "create_time": "Tue Oct 15 01:29:38 +0000 2013", 
+   "location": "City of Trees Home of Kings CA", 
+   "retweeter_id": 636633461, 
+   "screen_name": "KWIZ916"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000713799905/83d7e20498e1c1714a9ac3d00c7ef419_normal.png", 
+   "name": "semperrr", 
+   "text": "take flight", 
+   "tweet_id": 389834964961071104, 
+   "create_time": "Mon Oct 14 19:27:53 +0000 2013", 
+   "location": "LA", 
+   "retweeter_id": 1890573421, 
+   "screen_name": "fantacyzwaq"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3239943622/45c6e3d1bb7ee21cf3c1463a7e445722_normal.jpeg", 
+   "name": "Visepresidenten", 
+   "text": "The World Is Yours", 
+   "tweet_id": 389766209602084864, 
+   "create_time": "Mon Oct 14 14:54:40 +0000 2013", 
+   "location": "Tranby, Lier", 
+   "retweeter_id": 454146746, 
+   "screen_name": "jonathunemil"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2953560065/f66761cccf4f87a95bd51564e649d978_normal.jpeg", 
+   "name": "Scorpio", 
+   "text": "", 
+   "tweet_id": 389736791550734336, 
+   "create_time": "Mon Oct 14 12:57:46 +0000 2013", 
+   "location": "South Carolina", 
+   "retweeter_id": 631975134, 
+   "screen_name": "SCO_V3"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000864122787/8Ynwa4qd_normal.jpeg", 
+   "name": "\u2663LOREN\u2665LE\u00d3N\u2666", 
+   "text": "Samur\u00e1i ovetense de la Dinast\u00eda Le\u00f3n. Con @alo_oficial siempre. Mi sonrisa es mi espada, y mi alegr\u00eda, mi escudo.Con @lorenzo99  @RafaelNadal y @JavierVilla_", 
+   "tweet_id": 389699936247619584, 
+   "create_time": "Mon Oct 14 10:31:19 +0000 2013", 
+   "location": "CON MAR\u00cdA DE VILLOTA EN MI  \u2665", 
+   "retweeter_id": 380698892, 
+   "screen_name": "Samurai_Leon"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000811712965/f357076e9ff8fdf1ad3a17cc38c97437_normal.jpeg", 
+   "name": "Matt Brown", 
+   "text": "portsmouth football club is in my blood!!! we're portsmouth city we own our own club!! so yh basically im a southern cunt follow me:))", 
+   "tweet_id": 389698528207179776, 
+   "create_time": "Mon Oct 14 10:25:44 +0000 2013", 
+   "location": "sandy", 
+   "retweeter_id": 1216667689, 
+   "screen_name": "officialmattyjb"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000854997552/b2343a5a6bf80a50f27baf03b739eb20_normal.jpeg", 
+   "name": "Soy de Sol", 
+   "text": "Tu novia te gobierna !! \u2665", 
+   "tweet_id": 389640368981295104, 
+   "create_time": "Mon Oct 14 06:34:37 +0000 2013", 
+   "location": "Paran\u00e1 , Entre Rios", 
+   "retweeter_id": 1900679893, 
+   "screen_name": "RodriBarzola1"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000728777596/9013fc9e903b0ed880e8b7f4044ef1ff_normal.jpeg", 
+   "name": "The Big Aristotle ", 
+   "text": "Kik:Ant_Howell. IG:Ant_Howell. #BallisLife. #NWTS. UHS.", 
+   "tweet_id": 389622441540325376, 
+   "create_time": "Mon Oct 14 05:23:23 +0000 2013", 
+   "location": " In The Gym ", 
+   "retweeter_id": 257586466, 
+   "screen_name": "Ant_Howell14"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000792619444/f71f20c77c3363645c35abea568d7863_normal.jpeg", 
+   "name": "Slim Shady", 
+   "text": "Eminem all the way, I'm a stan and i'm proud\ue415\ue420\ue00e|Soccer|basketball|Music| Don't fuck with me my family and my crew|10.14.13\u2665", 
+   "tweet_id": 389612853579104256, 
+   "create_time": "Mon Oct 14 04:45:17 +0000 2013", 
+   "location": "Tracy, California", 
+   "retweeter_id": 1356184854, 
+   "screen_name": "mendozaisaac101"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000755677529/d6b3f0e9b0484a8ecf779f9cd8c91527_normal.jpeg", 
+   "name": "J\u00e5d\u00e9\u00f1 \u24c2\u00e0\u00f1\u0144\u00ee\u00f1g\u00ae\u2122", 
+   "text": "Names Jaden Manning, I love sports, Livin in Arkansas, but Oklahoma is always gonna be my home, on the road to greatness. Follow me.", 
+   "tweet_id": 389610461626634241, 
+   "create_time": "Mon Oct 14 04:35:47 +0000 2013", 
+   "location": "Vilonia, Arkansas", 
+   "retweeter_id": 162591703, 
+   "screen_name": "JadenManning"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000595450359/398b9fdf08fa15deb0ff8af65ac7342f_normal.jpeg", 
+   "name": "*Floor General*", 
+   "text": "For God, I will play basketball. For you, I will teach life lessons.", 
+   "tweet_id": 389587332669927424, 
+   "create_time": "Mon Oct 14 03:03:52 +0000 2013", 
+   "location": "Somewhere flying...", 
+   "retweeter_id": 445825403, 
+   "screen_name": "1mr_deon"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000846426577/0493781189518f6cd164d4af9649a0e5_normal.jpeg", 
+   "name": "\u03bd\u0454\u0454 \u0455\u0442\u03b1\u00a2\u043az\u2b50\ufe0f", 
+   "text": "@Cheeky_x3\u2661", 
+   "tweet_id": 389549558608703488, 
+   "create_time": "Mon Oct 14 00:33:46 +0000 2013", 
+   "location": "justin bieber's house\u2728", 
+   "retweeter_id": 336991298, 
+   "screen_name": "uhmazingg_x"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000853220583/ba9ec1e97355d68fcc71741f0565d902_normal.jpeg", 
+   "name": "sergio", 
+   "text": "Nothing Was The Same", 
+   "tweet_id": 389501302167724034, 
+   "create_time": "Sun Oct 13 21:22:01 +0000 2013", 
+   "location": "Paradise", 
+   "retweeter_id": 469884323, 
+   "screen_name": "Sergio_416"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000855243731/cc7d2d2291d41597354ac7798a88c349_normal.jpeg", 
+   "name": "T", 
+   "text": "15 // hip-hop & rock music", 
+   "tweet_id": 389472436963778561, 
+   "create_time": "Sun Oct 13 19:27:19 +0000 2013", 
+   "location": "IG: @TishaJaxn", 
+   "retweeter_id": 1420996538, 
+   "screen_name": "TishaJaxn"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000773707289/9e5cef15c57fd116a565ff0085458e1b_normal.jpeg", 
+   "name": "M\u0153 \u2708\ufe0f", 
+   "text": "Instagram: mowizzle", 
+   "tweet_id": 389464511436308480, 
+   "create_time": "Sun Oct 13 18:55:50 +0000 2013", 
+   "location": "Paris", 
+   "retweeter_id": 476641330, 
+   "screen_name": "mo_giabiconi"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000866134743/TXnC7NhK_normal.jpeg", 
+   "name": "MoneyTalkiUnder$tand", 
+   "text": "Shit,i had followers before twitter....Super Wavey", 
+   "tweet_id": 389456378630537216, 
+   "create_time": "Sun Oct 13 18:23:31 +0000 2013", 
+   "location": "Tattoo Shop", 
+   "retweeter_id": 236919873, 
+   "screen_name": "TheyLoveShaheEd"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000843929390/449996c512b017023ee3f7395d97f857_normal.jpeg", 
+   "name": "David Rodriguez", 
+   "text": "21. All about humor. Living Life.", 
+   "tweet_id": 389453352267816960, 
+   "create_time": "Sun Oct 13 18:11:29 +0000 2013", 
+   "location": "Edinburg, TX.", 
+   "retweeter_id": 366090801, 
+   "screen_name": "davidrod212"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000853325633/40ecc35a655de57811e13fa46ca8bad3_normal.jpeg", 
+   "name": "JKProductions", 
+   "text": "#GoGetIt x #JKProductions = My Life ... Eritrean Residing In MN.. Follow Me On Instagram @JKProductions", 
+   "tweet_id": 389441914396622848, 
+   "create_time": "Sun Oct 13 17:26:02 +0000 2013", 
+   "location": "Bread Truck ", 
+   "retweeter_id": 1210697353, 
+   "screen_name": "JKGoGetIt"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000863252834/JHfDee2s_normal.jpeg", 
+   "name": "Alisha Buckley", 
+   "text": "\u5bb6", 
+   "tweet_id": 389423442023694336, 
+   "create_time": "Sun Oct 13 16:12:38 +0000 2013", 
+   "location": "Essex", 
+   "retweeter_id": 531594467, 
+   "screen_name": "alisha_buckley"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000843665204/1ee3e739b47037e14ed08508f583a656_normal.jpeg", 
+   "name": "Paigey\u2665", 
+   "text": "Shoot for the staars \u2b50\u2b50\u2b50\u2b50 & always give everyone a chance, s m : ) e, youre beautiful xo", 
+   "tweet_id": 389422447671255040, 
+   "create_time": "Sun Oct 13 16:08:41 +0000 2013", 
+   "location": "Victoria BC :)", 
+   "retweeter_id": 1364915342, 
+   "screen_name": "Paigelescorbeau"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3298998178/5ecb072a883638ace3b7e70b972ffdb9_normal.jpeg", 
+   "name": "Binayak Baral (benny", 
+   "text": "Best Basketball player ALIVE LEBRON JAMES THe KinG", 
+   "tweet_id": 389416889531006976, 
+   "create_time": "Sun Oct 13 15:46:36 +0000 2013", 
+   "location": "United States", 
+   "retweeter_id": 68098811, 
+   "screen_name": "THEKINGBARAL6"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3713516905/6aa9a1dcb3dd1fcaecc578047273c4eb_normal.jpeg", 
+   "name": "live.love.liyah.\u2764", 
+   "text": "Living Single, Seeing Double, Making Triple \u2728 IG: its_liyah_bit", 
+   "tweet_id": 389414961359122432, 
+   "create_time": "Sun Oct 13 15:38:56 +0000 2013", 
+   "location": "WestSideeeeeeeeeee . \u270a\u2728 \u270c", 
+   "retweeter_id": 1459769828, 
+   "screen_name": "Love_Liyahh"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000842961435/e960c7e7f09bc6fe16cbd876da25c5e0_normal.jpeg", 
+   "name": "scottlones", 
+   "text": "", 
+   "tweet_id": 389411372536434689, 
+   "create_time": "Sun Oct 13 15:24:40 +0000 2013", 
+   "location": "Bucks/Notts", 
+   "retweeter_id": 17743630, 
+   "screen_name": "scottlones"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000558304841/442a2c192c776b200b3e54dde43fac8a_normal.jpeg", 
+   "name": "BenzSplattin", 
+   "text": "I am a CEO of Legendary Lifestyle Ent. I love to live life to the fullest potential and take care of business. Follow me on Vine #2koo #Follow4Follow #VineApp", 
+   "tweet_id": 389400465747611648, 
+   "create_time": "Sun Oct 13 14:41:20 +0000 2013", 
+   "location": "Somewhere Eating CHICKEN WINGS", 
+   "retweeter_id": 543229281, 
+   "screen_name": "BenzSplattin"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000112130160/0c30df81e3ded09af035ba768c10edc9_normal.jpeg", 
+   "name": "Jose Muro", 
+   "text": "20. Mirandino. Estudiante de Econom\u00eda. Eterno Optimista. Intratable fan de Alessandro Del Piero, Andrea Pirlo, Michael Phelps y Scuderia Ferrari.", 
+   "tweet_id": 389397451201052672, 
+   "create_time": "Sun Oct 13 14:29:21 +0000 2013", 
+   "location": "Venezuela", 
+   "retweeter_id": 81695530, 
+   "screen_name": "JoseMuro"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000562469085/66964f745fd27d65ecaaef02fb751741_normal.jpeg", 
+   "name": "Ridho.B", 
+   "text": "\u201cKarya seni terbaik biasanya berasal dari pergerakan bawah tanah. Bukankah hasil tambang terbaikpun ada dibawah tanah, bukan di permukaan.\u201d", 
+   "tweet_id": 389383692570750976, 
+   "create_time": "Sun Oct 13 13:34:41 +0000 2013", 
+   "location": "Indonesia,pekalongan", 
+   "retweeter_id": 414049689, 
+   "screen_name": "aliridho_10"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000823921265/01d6a73f12ef3c5ad2908e4587b8c46f_normal.jpeg", 
+   "name": "TK", 
+   "text": "Tom Knight. Undefeated Middleweight Professional Boxer. NRG Fuel sponsored athlete #TeamLean 3-0(1KO) #TeamKnight #TK", 
+   "tweet_id": 389352686300430336, 
+   "create_time": "Sun Oct 13 11:31:28 +0000 2013", 
+   "location": "Hull,England", 
+   "retweeter_id": 238969413, 
+   "screen_name": "TomKnightBOXER"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3504428172/3544f035033ad7eff8590541beeb8aac_normal.jpeg", 
+   "name": "Vithurshan Satchi", 
+   "text": "#TeamTamil ~ March 15 97 Facebook: Vithurshan Satchi\r\n\r\nmention for a follow back", 
+   "tweet_id": 389352089102876672, 
+   "create_time": "Sun Oct 13 11:29:06 +0000 2013", 
+   "location": "Brampton, Ontairo", 
+   "retweeter_id": 21241770, 
+   "screen_name": "ThatKiddVithu"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000358225114/9eaca5de07faff95f3a6cc31e53321e3_normal.jpeg", 
+   "name": "CRUZ\u2122 ", 
+   "text": "Kill them with success, Bury them with a smile", 
+   "tweet_id": 389350582957260800, 
+   "create_time": "Sun Oct 13 11:23:07 +0000 2013", 
+   "location": "516 - 336", 
+   "retweeter_id": 83992890, 
+   "screen_name": "ThaRealCruz"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000582478776/c4a02694c6e2f120f73def20bc87c656_normal.jpeg", 
+   "name": "Carly Trinh", 
+   "text": "Loves sports & gin and tonics.", 
+   "tweet_id": 389317692408074240, 
+   "create_time": "Sun Oct 13 09:12:25 +0000 2013", 
+   "location": "Melbourne, Australia", 
+   "retweeter_id": 608986435, 
+   "screen_name": "CarlyTrinh"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000850330125/fe1a115d87cf2e230cdfb575971349b1_normal.jpeg", 
+   "name": "aLiNaAa MaCkKk!\u2122", 
+   "text": "a person needs three things to be truly happy in this world; someone to love, something to do, and something to live for every day. \u2665", 
+   "tweet_id": 389308656816111616, 
+   "create_time": "Sun Oct 13 08:36:31 +0000 2013", 
+   "location": "#UNT", 
+   "retweeter_id": 238501124, 
+   "screen_name": "bOdOLaNaqUiSHa"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000839804226/cd8e210176588112f6bfc5f41bf5b3d7_normal.jpeg", 
+   "name": "BigRay\u2122", 
+   "text": "InstaGram: @eerbodyluvray KIK: eerbodyluvray #LakerNation #LakerGang #Falcons #FalconNation #Riseup", 
+   "tweet_id": 389296936958038016, 
+   "create_time": "Sun Oct 13 07:49:57 +0000 2013", 
+   "location": "Georgia", 
+   "retweeter_id": 224387085, 
+   "screen_name": "eerbodyLUVRay"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000587155024/aa0c1fd456f451f21dcb840eee933fbc_normal.jpeg", 
+   "name": "Jamar Lewis", 
+   "text": "Blessed As Always. Instagram: jmarlewis Ask me: http://t.co/jFxjRWNDZF", 
+   "tweet_id": 389280463912591360, 
+   "create_time": "Sun Oct 13 06:44:29 +0000 2013", 
+   "location": "New Orleans, LA", 
+   "retweeter_id": 123304695, 
+   "screen_name": "JMar_lewis"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000770676063/93d8660c23201ceffec58d2e593bed3c_normal.jpeg", 
+   "name": "Based Pharoah", 
+   "text": "Tables Turn. Bridges Burn. You Live & Learn #TYBP #Based", 
+   "tweet_id": 389274556198031360, 
+   "create_time": "Sun Oct 13 06:21:01 +0000 2013", 
+   "location": " Da Burg, VA", 
+   "retweeter_id": 394976438, 
+   "screen_name": "HanadHassan3"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3483102483/8de69a1f1acda2a2d70cffa634c859c4_normal.jpeg", 
+   "name": "\u0644\u0627 \u0627\u0642\u0635\u0627\u0621 \u0628\u0644 \u0627\u0633\u062a\u0626\u0635\u0627\u0644", 
+   "text": "\u0623\u0623\u0642\u0648\u0644 \u0645\u0646 \u0623\u062d\u064a\u0627 \u0627\u0644\u062c\u0645\u0627\u0639\u0629 \u0645\u0644\u062d\u062f....\u0648 \u0627\u0642\u0648\u0644 \u0645\u0646 \u0631\u062f \u0627\u0644\u062d\u0642\u0648\u0642 \u0625\u0628\u0627\u062d\u064a\n\u0627\u0644\u062d\u0642 \u0623\u0648\u0644\u064a \u0645\u0646 \u0648\u0644\u064a\u0643 \u062d\u0631\u0645\u062a\u0629...\u0648 \u0623\u062d\u0642 \u0645\u0646\u0643 \u0628\u0646\u0635\u0631\u0629 \u0648 \u0643\u0641\u0627\u062d", 
+   "tweet_id": 389269554264043521, 
+   "create_time": "Sun Oct 13 06:01:08 +0000 2013", 
+   "location": "\u0627\u0644\u062a\u0641\u0627\u062d\u0629 \u0627\u0644\u0643\u0628\u064a\u0631\u0629 ", 
+   "retweeter_id": 44294542, 
+   "screen_name": "agent_ny17"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000769101601/bc18f2500ac397bf27da45e0c48ff3e8_normal.jpeg", 
+   "name": "Talha Tahir", 
+   "text": "#Muslim#PGPM#Family#NBA#Basketball / snapchat- talhatahir / Instagram - talha_tahir3", 
+   "tweet_id": 389269366115938304, 
+   "create_time": "Sun Oct 13 06:00:23 +0000 2013", 
+   "location": "Everywhere", 
+   "retweeter_id": 343354820, 
+   "screen_name": "Talha_Tahir3"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000706010431/9c054687fe4674c6374f6f8cb0872d13_normal.jpeg", 
+   "name": "Ben Whitman", 
+   "text": "#hookemhorns #heatnation #thunderup #gotexans", 
+   "tweet_id": 389268182269063168, 
+   "create_time": "Sun Oct 13 05:55:41 +0000 2013", 
+   "location": "Austin, TX ", 
+   "retweeter_id": 50891378, 
+   "screen_name": "Therealbenwhit"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000794151291/4863e14f3270382113146933bcd14172_normal.jpeg", 
+   "name": "BIG D#79#TM14,KKG", 
+   "text": "They call me BIG D #TeamAllStateLineman#79 #RespectMeAndIllRespectYou #CollegeBound#\u2020Football Is Life\u2020#TM14 #D1AMBITIONS\u2605#BRAHMANATION", 
+   "tweet_id": 389267602607833088, 
+   "create_time": "Sun Oct 13 05:53:23 +0000 2013", 
+   "location": "\u2605Burton,Tx 2014 Runs This\u2605  ", 
+   "retweeter_id": 974220932, 
+   "screen_name": "BigDeisel1479"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000843477298/bcf51e6ea409210cc0babd3a35c010d5_normal.jpeg", 
+   "name": "LIGHTS \u2708\ufe0f #\u20e32\u20e35\u20e3", 
+   "text": "Minor setback for a major comeback.   LIGHTS.  #25 bellville brahmas ClassOf2014", 
+   "tweet_id": 389267385502269440, 
+   "create_time": "Sun Oct 13 05:52:31 +0000 2013", 
+   "location": "Bellville, TX", 
+   "retweeter_id": 503955370, 
+   "screen_name": "_JAMARCUS_25"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000785898446/b4a3ae882ff0f1d9beb3c815f44a0358_normal.jpeg", 
+   "name": "\u26be\ufe0fJustin Wilson\u26be\ufe0f", 
+   "text": "Sophomore @ THS. \u26be Player. Huge Heat and Cardinals fan. That's pretty much it. Instagram: jdub1625", 
+   "tweet_id": 389267380653662208, 
+   "create_time": "Sun Oct 13 05:52:30 +0000 2013", 
+   "location": "Terre Haute", 
+   "retweeter_id": 597054414, 
+   "screen_name": "wilson_dub25"
+  }
+ ], 
+ "406042629198348288": [
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000790295245/5c989147583415bcb945a40b071cd7c3_normal.jpeg", 
+   "name": "\u265aMrs James \u2661 \u2655", 
+   "text": "My name's \u0130rem , Im 17 :) My life is @KingJames\u2661!! #TeamLebron #ILOVETHISGAME #Be\u015fikta\u015f", 
+   "tweet_id": 409131694168756224, 
+   "create_time": "Sat Dec 07 01:26:11 +0000 2013", 
+   "location": "Turkey", 
+   "retweeter_id": 1146132842, 
+   "screen_name": "_Mrs_James_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/411743867889672193/5b5ZxRxS_normal.jpeg", 
+   "name": "RIDHO", 
+   "text": "Anti CJR (boy band BANCI) jiah !!!", 
+   "tweet_id": 407882551043190785, 
+   "create_time": "Tue Dec 03 14:42:32 +0000 2013", 
+   "location": "INDONESIA", 
+   "retweeter_id": 2173669975, 
+   "screen_name": "Baragbah_10"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000849855946/94dd0c91204cba4c2b901f7739b4b390_normal.png", 
+   "name": "Habib Saleh", 
+   "text": "Basketball Is My Life And I like basketball. 7B / Alhikmah SBY and follow me back :)", 
+   "tweet_id": 407761793151295489, 
+   "create_time": "Tue Dec 03 06:42:42 +0000 2013", 
+   "location": "Surabaya", 
+   "retweeter_id": 1192724755, 
+   "screen_name": "SalehAlidrus38"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000816675174/b6d34ad5224907fe4501351cab19ce49_normal.jpeg", 
+   "name": "Tony Adamo", 
+   "text": "Ball out", 
+   "tweet_id": 407215438221688832, 
+   "create_time": "Sun Dec 01 18:31:40 +0000 2013", 
+   "location": "bend oregon ", 
+   "retweeter_id": 2225379588, 
+   "screen_name": "Tony_Adamo2"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000809008634/244f4c89f5a5a534d1f794761107bd04_normal.jpeg", 
+   "name": "Jonathan Ray Rincon", 
+   "text": "Mothafucka Neva Loved Us. Worst Behavior", 
+   "tweet_id": 407108528927547392, 
+   "create_time": "Sun Dec 01 11:26:51 +0000 2013", 
+   "location": "Rochester Texas ", 
+   "retweeter_id": 565052786, 
+   "screen_name": "ray_rincon"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000783970468/487d2cacabee4c08ed09972e604f3a72_normal.jpeg", 
+   "name": "CRISTELLITA :D", 
+   "text": "March 09, 1997 l BMLS Student l Miami Heat l Dwyane Wade l LeBron James l Kim Woo Bin l Micky Yoochun l Kdrama l Music l \u2665", 
+   "tweet_id": 407013171530969088, 
+   "create_time": "Sun Dec 01 05:07:56 +0000 2013", 
+   "location": "Davao City, Philppines", 
+   "retweeter_id": 395783075, 
+   "screen_name": "ceedeebandala"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000812889645/866e847df4b557d328bcceebf34058cd_normal.jpeg", 
+   "name": "michael amador", 
+   "text": "-Todo lo puedo en Cristo que me fortaleze-", 
+   "tweet_id": 406939253810024449, 
+   "create_time": "Sun Dec 01 00:14:13 +0000 2013", 
+   "location": "Honduras", 
+   "retweeter_id": 970886965, 
+   "screen_name": "amador_michael"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3656355768/bf39110807cfb8b5f05705c7eae061c1_normal.jpeg", 
+   "name": "Terry Sun", 
+   "text": "", 
+   "tweet_id": 406646883973488640, 
+   "create_time": "Sat Nov 30 04:52:26 +0000 2013", 
+   "location": "Hefei, China", 
+   "retweeter_id": 1423714129, 
+   "screen_name": "WiLerSun_HugeSC"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000833958367/0c1ab2c7dd680ff3a344edd6fcef8158_normal.jpeg", 
+   "name": "MalachiWilliams", 
+   "text": "Playing Basket Ball Next Year #2014 . Offcial twitter page of . Malachi Williams. My favorite Basket ball team is . #MiamiHeat . Succes .12/1/13/ 3", 
+   "tweet_id": 406503988893601792, 
+   "create_time": "Fri Nov 29 19:24:38 +0000 2013", 
+   "location": "Easton, PA", 
+   "retweeter_id": 2221713301, 
+   "screen_name": "MalachiWillams"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000795047779/3e1f4acafed02951d84522d0c673a80e_normal.jpeg", 
+   "name": "Muhammad Yusuf", 
+   "text": "I like basketball || guitar || keyboard || NET.tv || IMS || XGames || NBA Load Controller at PT.Gapura Angkasa, Ngurah Rai Airport", 
+   "tweet_id": 406470437409787904, 
+   "create_time": "Fri Nov 29 17:11:18 +0000 2013", 
+   "location": "Bali, Indonesia..", 
+   "retweeter_id": 106308638, 
+   "screen_name": "jusufnewton"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/2394080066/4hloh08lhbxcfl60n1c8_normal.jpeg", 
+   "name": "\u9ad8\u7b11", 
+   "text": "Once in a lifetime . Means there's no second chance.", 
+   "tweet_id": 406437919982112768, 
+   "create_time": "Fri Nov 29 15:02:06 +0000 2013", 
+   "location": "Shan Dong ", 
+   "retweeter_id": 628864916, 
+   "screen_name": "gaoxiao1992"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000865956454/YAzTeRHS_normal.jpeg", 
+   "name": "Christian Reyes", 
+   "text": "Miami Heat Fan! Should i active more day! I like your photos 2k14 and miami heat. Do U believe in God \u300b@MiamiHEAT\u300a plz follow me on instagram! \ue239", 
+   "tweet_id": 406415786706624513, 
+   "create_time": "Fri Nov 29 13:34:09 +0000 2013", 
+   "location": "Repost Lebron James and DWade", 
+   "retweeter_id": 2196968142, 
+   "screen_name": "xtianreyes23"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000835380216/8ed9897cc75a0061c6bfdf044235a7e9_normal.jpeg", 
+   "name": "EGI", 
+   "text": "Chicago Bulls fan till I die! #BullsNation Basketball my passion.Estherlidya's.  Philippians 4:13 #IWILL", 
+   "tweet_id": 406407129331822592, 
+   "create_time": "Fri Nov 29 12:59:45 +0000 2013", 
+   "location": "Indonesia\u2022E\u00b2", 
+   "retweeter_id": 1043775704, 
+   "screen_name": "PhillipGCLE"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000813846846/b7155f8807f2d6716cfdb98fcc708b55_normal.jpeg", 
+   "name": "\u9e4f\u795e\u5927\u5e1d", 
+   "text": "I luv @NBA ! I luv #MVP @KingJames ! We Are The Champions! #LetsGoHEAT #HeatNation #TeamMiami #TeamHEAT #MiamiHeatFan #HeatBeliever #TeamLeBron #TeamLeBronJames", 
+   "tweet_id": 406404597784145920, 
+   "create_time": "Fri Nov 29 12:49:41 +0000 2013", 
+   "location": "Instagram.com/LeBronChou", 
+   "retweeter_id": 435769453, 
+   "screen_name": "LeBronChou"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000781198388/d2b77be07894c23e0d61a236039a5072_normal.jpeg", 
+   "name": "Henk", 
+   "text": "If You Want To Succeed As Much As You Want To Breath..Then You Will Be Successful. ~.I Do Parkour  And Tricks.~   #seered #bulls", 
+   "tweet_id": 406353608985575424, 
+   "create_time": "Fri Nov 29 09:27:04 +0000 2013", 
+   "location": "Finland", 
+   "retweeter_id": 804656712, 
+   "screen_name": "HenkKk717"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000792220672/0be5c28dfa86738f11074818c8c4a6ee_normal.jpeg", 
+   "name": "Jimmy Tang", 
+   "text": "Hello everyone~", 
+   "tweet_id": 406342416187138048, 
+   "create_time": "Fri Nov 29 08:42:36 +0000 2013", 
+   "location": "Hong Kong", 
+   "retweeter_id": 1929722160, 
+   "screen_name": "Suzy_I_Love_You"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000805015535/7530cabb0a89bdd254837c18d188227b_normal.jpeg", 
+   "name": "Alejandro \u262e \u270c", 
+   "text": "Fuck stress & have sex /.\\ Real Madrid ^.^", 
+   "tweet_id": 406310010499514368, 
+   "create_time": "Fri Nov 29 06:33:50 +0000 2013", 
+   "location": "La Puente CA", 
+   "retweeter_id": 2220931675, 
+   "screen_name": "alex_cjaeger"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000039809514/deb4a07068d8a0da7facb93a49812267_normal.jpeg", 
+   "name": "Moses Cuh", 
+   "text": "Senior at Nation Ford | Instagram: BlackTupac | @SkyDigg4 Is Wifey | Illuminati \u25b2 | #ZombieGang |", 
+   "tweet_id": 406307045315317760, 
+   "create_time": "Fri Nov 29 06:22:03 +0000 2013", 
+   "location": "South Carolina", 
+   "retweeter_id": 562444058, 
+   "screen_name": "_NoFroJoe_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000565412596/da03294ef87680244f5638ea30f49543_normal.jpeg", 
+   "name": "Josh", 
+   "text": "", 
+   "tweet_id": 406300710775840768, 
+   "create_time": "Fri Nov 29 05:56:52 +0000 2013", 
+   "location": "MB, SC", 
+   "retweeter_id": 273773680, 
+   "screen_name": "Whiteboy543455"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000721684050/c3f798d010025da86daf6762d992e11f_normal.jpeg", 
+   "name": "Blake Fenton", 
+   "text": "", 
+   "tweet_id": 406296674298904577, 
+   "create_time": "Fri Nov 29 05:40:50 +0000 2013", 
+   "location": "Compton, California", 
+   "retweeter_id": 2185613628, 
+   "screen_name": "blakefenton_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/412070669266853889/7hhZmIiS_normal.jpeg", 
+   "name": "CP", 
+   "text": "Full of myself, but still hungry.", 
+   "tweet_id": 406281505686560768, 
+   "create_time": "Fri Nov 29 04:40:33 +0000 2013", 
+   "location": "313", 
+   "retweeter_id": 219688720, 
+   "screen_name": "CP_145"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000065434752/c6dcbe3cd3537244d564922cabfbb02e_normal.jpeg", 
+   "name": "CEO #TeamLeBron", 
+   "text": "#TeamLeBron  #Packers  #Heat  #Brewers   @KingJames", 
+   "tweet_id": 406263766834102272, 
+   "create_time": "Fri Nov 29 03:30:04 +0000 2013", 
+   "location": "Racine, WI", 
+   "retweeter_id": 91528687, 
+   "screen_name": "LosFL"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000084855522/d6a1f7f032949558fefdf39f14209dd2_normal.jpeg", 
+   "name": "Grey1991", 
+   "text": "", 
+   "tweet_id": 406262683051118592, 
+   "create_time": "Fri Nov 29 03:25:46 +0000 2013", 
+   "location": "China", 
+   "retweeter_id": 1254458174, 
+   "screen_name": "Grey19911"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000856533168/Dta4Gi6c_normal.jpeg", 
+   "name": "D\u00e8'ja", 
+   "text": "C/O 2014 |6.26\u264b", 
+   "tweet_id": 406258134257516544, 
+   "create_time": "Fri Nov 29 03:07:41 +0000 2013", 
+   "location": "#6!oh!9", 
+   "retweeter_id": 119535662, 
+   "screen_name": "dejaaakeeey_"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000757635943/482e32413153bc109216f4a623ce5eea_normal.jpeg", 
+   "name": "Da InF\u00e4m\u00f8u$", 
+   "text": "Cul, Calm&Collected #BORNHOMIES #HuSTLEmANiA #TRILLEST #RedwoodOG #TripleOG", 
+   "tweet_id": 406249318346420224, 
+   "create_time": "Fri Nov 29 02:32:39 +0000 2013", 
+   "location": "south africa, port elizabeth", 
+   "retweeter_id": 362474082, 
+   "screen_name": "TyTnD_BH"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000126102681/00d45bd8bd6e5c7c2f5a443ba65b7a06_normal.jpeg", 
+   "name": "Mandy Baldwin", 
+   "text": "31, Female from the MI, MBA grad, Hip-Hop head, official member of @KingJames' #TeamLeBron fan family via @TeamLeBron - LBJ fan since 2003.", 
+   "tweet_id": 406222546153914368, 
+   "create_time": "Fri Nov 29 00:46:16 +0000 2013", 
+   "location": "Buchanan, Michigan", 
+   "retweeter_id": 229630335, 
+   "screen_name": "MandyBaldwin82"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000675761123/ea725fb0155547f8f492febb788a2a96_normal.jpeg", 
+   "name": "Chase king", 
+   "text": "let that boy cook", 
+   "tweet_id": 406219484806934528, 
+   "create_time": "Fri Nov 29 00:34:07 +0000 2013", 
+   "location": "The 1, NE", 
+   "retweeter_id": 2148235693, 
+   "screen_name": "3rdiKing"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/3642073555/6b3ecd15d35867144a173246c8c9d899_normal.jpeg", 
+   "name": "S.D.", 
+   "text": "Give without expecting, Live without pretending, Talk without offending . #TeamTexans #RedNation .", 
+   "tweet_id": 406210354180800512, 
+   "create_time": "Thu Nov 28 23:57:50 +0000 2013", 
+   "location": "Houston, Tx .", 
+   "retweeter_id": 172942987, 
+   "screen_name": "_SayWhtsReal"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000801577758/3ed435cad55760403eea19735d8ffb42_normal.jpeg", 
+   "name": "Eldwin Christian", 
+   "text": "I Belong to Jesus | Kopites #YNWA #LFC", 
+   "tweet_id": 406210062932119552, 
+   "create_time": "Thu Nov 28 23:56:40 +0000 2013", 
+   "location": "South Borneo, Banjarmasin", 
+   "retweeter_id": 255922874, 
+   "screen_name": "eldwinchristian"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000541820109/dbca6c7f6f0b5f11bbe60ff671c7079c_normal.jpeg", 
+   "name": "Shirley Huang", 
+   "text": "", 
+   "tweet_id": 406201527913545728, 
+   "create_time": "Thu Nov 28 23:22:45 +0000 2013", 
+   "location": "I'm From Taiwan : )", 
+   "retweeter_id": 395941224, 
+   "screen_name": "XiaoLin1102"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000760940296/4e7443e9e46199120c48abd3e3498c21_normal.jpeg", 
+   "name": "youngdro", 
+   "text": "born n raised in tha weight room. Stayin gymmin for these women!", 
+   "tweet_id": 406200906561355776, 
+   "create_time": "Thu Nov 28 23:20:17 +0000 2013", 
+   "location": "Germany but soon Murica", 
+   "retweeter_id": 1283510725, 
+   "screen_name": "young____dro"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000751664746/8c06650d3616d828a9ac14a7351f73ca_normal.jpeg", 
+   "name": "R a c h e l A n n \u270c", 
+   "text": "Follower of GOD \u2022 FILIPINA \u2665 \u2022 R.N. \u2022 Skate \u2022 Sneakers \u2022 Vampire-Walker in the Making \u2022 MIAMIHEAT  \u2022 #HeatNation \u2022 #Belieber \u2022 IG & Kik: rachsuyat", 
+   "tweet_id": 406197962696450048, 
+   "create_time": "Thu Nov 28 23:08:35 +0000 2013", 
+   "location": "Manila, Philippines \u2600\u2601", 
+   "retweeter_id": 254861109, 
+   "screen_name": "rachSuyat"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000797152204/08d00e25c6b968f21b296b86a0d5839a_normal.jpeg", 
+   "name": "Jerry 1keer", 
+   "text": "Problems (false) friends, boys/girls, love, dating, horror, failure, heartbroken, happiness That's life #ReadAndFollow #FCBarcelona #MiamiHeat #22years", 
+   "tweet_id": 406194171264139264, 
+   "create_time": "Thu Nov 28 22:53:31 +0000 2013", 
+   "location": "Suriname\u2611", 
+   "retweeter_id": 237931470, 
+   "screen_name": "Jerry1keer"
+  }, 
+  {
+   "profile_pic": "http://pbs.twimg.com/profile_images/378800000856784339/lZOMVSal_normal.jpeg", 
+   "name": "Swag Daddy", 
+   "text": "Bet yo life she loved me for me .. #HnH #TeamLebron #ninergang #kingsallday", 
+   "tweet_id": 406189798848606208, 
+   "create_time": "Thu Nov 28 22:36:09 +0000 2013", 
+   "location": "Meadowview Ca.\ue105", 
+   "retweeter_id": 42836944, 
+   "screen_name": "RikLashEm"
+  }
+ ],
+
+   "410945264053399552": [
   {
    "profile_pic": "http://pbs.twimg.com/profile_images/412066781130276864/v__J3alJ_normal.jpeg", 
    "name": "Riley Jones", 
