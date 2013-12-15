@@ -232,6 +232,78 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
+									iTunesMusic
+								</a>
+							</div>
+							<div id="collapseSeven" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['iTunesMusic']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion" href="#collapseEight">
+									Jimmy Fallon
+								</a>
+							</div>
+							<div id="collapseEight" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['jimmyfallon']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseX">
 									Yao Ming
 								</a>
