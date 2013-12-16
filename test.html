@@ -1245,13 +1245,193 @@
 					<div class="panel-group" id="accordion3" style="display:none">
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen">
-									Twitter3
+								<a data-toggle="collapse" data-parent="#accordion3" href="#collapseOne3">
+									CBSNews
 								</a>
 							</div>
-							<div id="collapseSeventeen" class="panel-collapse collapse">
+							<div id="collapseOne3" class="panel-collapse collapse">
 								<div class="panel-body">
-									<div ng-repeat="tweet in twitterDataSet['twitter']">
+									<div ng-repeat="tweet in twitterDataSet['CBSNews']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion3" href="#collapseTwo3">
+									Dwight Howard
+								</a>
+							</div>
+							<div id="collapseTwo3" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['DwightHoward']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion3" href="#collapseThree3">
+									Disney Pixar
+								</a>
+							</div>
+							<div id="collapseThree3" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['DisneyPixar']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion3" href="#collapseFour3">
+									Good Morning America
+								</a>
+							</div>
+							<div id="collapseFour3" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['GMA']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion3" href="#collapseFive3">
+									Gossip Girl
+								</a>
+							</div>
+							<div id="collapseFive3" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['gossipgirl']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion3" href="#collapseSix3">
+									Linkedin Park
+								</a>
+							</div>
+							<div id="collapseSix3" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['linkinpark']">
 										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
 											<div class="twitter-profile-photo-container">
 												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
