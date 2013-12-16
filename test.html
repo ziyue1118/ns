@@ -631,13 +631,49 @@
 					<div class="panel-group" id="accordion2" style="display:none">
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen">
-									Twitter2
+								<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne2">
+									Wall Street Journal
 								</a>
 							</div>
-							<div id="collapseSeventeen" class="panel-collapse collapse">
+							<div id="collapseOne2" class="panel-collapse collapse">
 								<div class="panel-body">
-									<div ng-repeat="tweet in twitterDataSet['twitter']">
+									<div ng-repeat="tweet in twitterDataSet['WSJ']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo2">
+									YouTube
+								</a>
+							</div>
+							<div id="collapseTwo2" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['YouTube']">
 										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
 											<div class="twitter-profile-photo-container">
 												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
