@@ -626,12 +626,48 @@
 								</div>
 							</div>
 						</div>
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion" href="#collapseEighteen">
+									Sarah Silverman
+								</a>
+							</div>
+							<div id="collapseEighteen" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['SarahKSilverman']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 						
 					</div>
 					<div class="panel-group" id="accordion2" style="display:none">
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseOne2">
 									Wall Street Journal
 								</a>
 							</div>
@@ -667,7 +703,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo2">
 									YouTube
 								</a>
 							</div>
@@ -703,7 +739,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseThree2">
 									Avril Lavigne
 								</a>
 							</div>
@@ -739,7 +775,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseFour2">
 									Bruno Mars
 								</a>
 							</div>
@@ -775,7 +811,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseFive2">
 									Cristiano Ronaldo
 								</a>
 							</div>
@@ -811,7 +847,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseSix2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseSix2">
 									Eminem
 								</a>
 							</div>
@@ -847,7 +883,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven2">
 									Jason Mraz
 								</a>
 							</div>
@@ -883,7 +919,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseEight2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseEight2">
 									Justin Timberlake
 								</a>
 							</div>
@@ -919,7 +955,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseNine2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseNine2">
 									Kaka
 								</a>
 							</div>
@@ -955,7 +991,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseTen2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseTen2">
 									Katy Perry
 								</a>
 							</div>
@@ -991,7 +1027,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseEleven2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseEleven2">
 									Lady GaGa
 								</a>
 							</div>
@@ -1027,7 +1063,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseTwelve2">
 									National Geographic
 								</a>
 							</div>
@@ -1063,7 +1099,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseThirteen2">
 									Rio Ferdinand
 								</a>
 							</div>
@@ -1099,7 +1135,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseFourteen2">
 									Shakira
 								</a>
 							</div>
@@ -1135,7 +1171,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseFifteen2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseFifteen2">
 									Taylor Swift
 								</a>
 							</div>
@@ -1171,7 +1207,7 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseSixteen2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseSixteen2">
 									Arnold Schwarzenegger
 								</a>
 							</div>
@@ -1207,13 +1243,49 @@
 						</div>
 						<div class="panel panel-default panel-width">
 							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen2">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseSeventeen2">
 									Burberry
 								</a>
 							</div>
 							<div id="collapseSeventeen2" class="panel-collapse collapse">
 								<div class="panel-body">
 									<div ng-repeat="tweet in twitterDataSet['Burberry']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion2" href="#collapseEighteen2">
+									Soulja Boy
+								</a>
+							</div>
+							<div id="collapseEighteen2" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['souljaboy']">
 										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
 											<div class="twitter-profile-photo-container">
 												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
@@ -1855,6 +1927,42 @@
 								</div>
 							</div>
 						</div>
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion3" href="#collapseEighteen3">
+									Wiz Khalifa
+								</a>
+							</div>
+							<div id="collapseEighteen3" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['wizkhalifa']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 					<div class="panel-group" id="accordion4" style="display:none">
 						<div class="panel panel-default panel-width">
@@ -2469,7 +2577,42 @@
 								</div>
 							</div>
 						</div>
-
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion4" href="#collapseEighteen4">
+									G-DRAGON
+								</a>
+							</div>
+							<div id="collapseEighteen4" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['G_Dragon']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 					<div class="panel-group" id="accordion5" style="display:none">
 						<div class="panel panel-default panel-width">
@@ -2509,51 +2652,13 @@
 							</div>
 						</div>
 					</div>
-					<div class="panel-group" id="accordion6" style="display:none">
-						<div class="panel panel-default panel-width">
-							<div class="panel-heading panel-thin">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen">
-									Twitter6
-								</a>
-							</div>
-							<div id="collapseSeventeen" class="panel-collapse collapse">
-								<div class="panel-body">
-									<div ng-repeat="tweet in twitterDataSet['twitter']">
-										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
-											<div class="twitter-profile-photo-container">
-												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
-											</div>
-											<div class="tweet-container">
-												<div class="twitter-name-text-box">
-													<div class="twitter-name">
-														{{tweet.name}}
-													</div>
-													<div class="twitter-name-text">
-														(@{{tweet['screen_name']}})
-													</div>
-													<div class="date-text">
-														{{tweet['create_time']}}
-													</div>
-												</div>
-												<div class="description-text-box">
-													<div class="description-text">
-														{{tweet['text']}}
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
+					
 					<ul class="pagination">
 						<li><a  ng-click="setFirst()">1</a></li>
-						<li><a ng-click="setSecond()">2</a></li>
-						<li><a ng-click="setThird()">3</a></li>
+						<li><a  ng-click="setSecond()">2</a></li>
+						<li><a  ng-click="setThird()">3</a></li>
 						<li><a  ng-click="setFourth()">4</a></li>
 						<li><a  ng-click="setFifth()">5</a></li>
-						<li><a  ng-click="setSixth()">6</a></li>
 					</ul>
 				</div>
 				<div class="left">
