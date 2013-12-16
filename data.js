@@ -1,5 +1,37 @@
 function DataCtrl($scope){
-	
+	document.getElementById('accordion').style.display = 'block';
+	$scope.setAll= function(){
+		document.getElementById('accordion').style.display = 'none';
+		document.getElementById('accordion2').style.display = 'none';
+		document.getElementById('accordion3').style.display = 'none';
+		document.getElementById('accordion4').style.display = 'none';
+		document.getElementById('accordion5').style.display = 'none';
+		document.getElementById('accordion6').style.display = 'none';
+	}
+	$scope.setFirst= function(){
+		$scope.setAll();
+		document.getElementById('accordion').style.display = 'block';
+	}
+	$scope.setSecond= function(){
+		$scope.setAll();
+		document.getElementById('accordion2').style.display = 'block';
+	}
+	$scope.setThird= function(){
+		$scope.setAll();
+		document.getElementById('accordion3').style.display = 'block';
+	}
+	$scope.setFourth= function(){
+		$scope.setAll();
+		document.getElementById('accordion4').style.display = 'block';
+	}
+	$scope.setFifth= function(){
+		$scope.setAll();
+		document.getElementById('accordion5').style.display = 'block';
+	}
+	$scope.setSixth= function(){
+		$scope.setAll();
+		document.getElementById('accordion6').style.display = 'block';
+	}
 
 	$scope.twitterDataSet = 
 {
@@ -80277,12 +80309,15 @@ function DataCtrl($scope){
 		while (nextObj < $scope.retweetDataSet[id].length){
 			setTimeout(getAddress($scope.retweetDataSet[id][nextObj]), delay);
 			nextObj++;
+			document.getElementById('search-progress').style.width = (nextObj/$scope.retweetDataSet[id].length)*795;
 			console.log(nextObj);
 		}
+		document.getElementById('search-progress').style.width = 800;
 		map.fitBounds(bounds);
 	}
 	$scope.show = function(id){
 		clearOverlays();
+		document.getElementById('search-progress').style.width = 0;
 		nextObj=0;
 		theNext(id);
 	}

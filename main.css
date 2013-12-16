@@ -27,12 +27,12 @@
     -webkit-border-radius: 0 0 2px 2px;
     border-top: 0;
     width: 800px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+  /*  padding-top: 5px;
+    padding-bottom: 5px;*/
     height:auto;
 }
 #map {
-    height:614px;
+    height:617px;
     width:795px;
 }
 .panel-thin {
@@ -106,6 +106,9 @@
     margin-left: -10px;
     min-height: 62px;
     margin-left:1px;
+}
+.progress-height {
+	height:5px;
 }
 
 
