@@ -701,6 +701,114 @@
 								</div>
 							</div>
 						</div>
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree2">
+									Avril Lavigne
+								</a>
+							</div>
+							<div id="collapseThree2" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['AvrilLavigne']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour2">
+									Bruno Mars
+								</a>
+							</div>
+							<div id="collapseFour2" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['BrunoMars']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default panel-width">
+							<div class="panel-heading panel-thin">
+								<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive2">
+									Cristiano Ronaldo
+								</a>
+							</div>
+							<div id="collapseFive2" class="panel-collapse collapse">
+								<div class="panel-body">
+									<div ng-repeat="tweet in twitterDataSet['Cristiano']">
+										<div class="twitter-wrapper" id="{{tweet['tweet_id']}}" ng-click="show(tweet['tweet_id'])">
+											<div class="twitter-profile-photo-container">
+												<img class="twitter-profile-photo" src="{{tweet['profile_pic']}}">
+											</div>
+											<div class="tweet-container">
+												<div class="twitter-name-text-box">
+													<div class="twitter-name">
+														{{tweet.name}}
+													</div>
+													<div class="twitter-name-text">
+														(@{{tweet['screen_name']}})
+													</div>
+													<div class="date-text">
+														{{tweet['create_time']}}
+													</div>
+												</div>
+												<div class="description-text-box">
+													<div class="description-text">
+														{{tweet['text']}}
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 					<div class="panel-group" id="accordion3" style="display:none">
 						<div class="panel panel-default panel-width">
